@@ -1,0 +1,20 @@
+Project Details
+
+Task Flow:
+1) Hello World App using React Native Front end
+2) Server Connectivity : Database
+3) Server Connectivity : Database retrieval
+4) Front End without UI
+5) Corresponding Works in Server
+6) UI Better
+
+To-do :
+1. Prepare Final List
+2. Finalise Word Structure, Populate the Word Database, store it in cloud
+
+
+Future Works/ Possible Functionalities:
+1. Crowd Sourcing : Let user update valid words not available in the word list for some points.
+2. Bot to find the word
+3. Two player game with both guessing same time, each choosing word for other
+4. Multiplayer Game, all guessing same word, time based winner.

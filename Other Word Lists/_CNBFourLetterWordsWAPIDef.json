@@ -1,0 +1,9750 @@
+{
+    "0": {
+        "word": "abcs",
+        "frequency": 2.27
+    },
+    "1": {
+        "word": "abed",
+        "frequency": 2.63
+    },
+    "2": {
+        "word": "abel",
+        "frequency": 3.72
+    },
+    "3": {
+        "word": "abet",
+        "frequency": 1.97
+    },
+    "4": {
+        "word": "able",
+        "frequency": 5.25
+    },
+    "5": {
+        "word": "abls",
+        "frequency": -1
+    },
+    "6": {
+        "word": "ably",
+        "frequency": 2.12
+    },
+    "7": {
+        "word": "abor",
+        "frequency": -1
+    },
+    "8": {
+        "word": "abut",
+        "frequency": 2.6
+    },
+    "9": {
+        "word": "abye",
+        "frequency": -1
+    },
+    "10": {
+        "word": "acer",
+        "frequency": -1
+    },
+    "11": {
+        "word": "ache",
+        "frequency": 3.65
+    },
+    "12": {
+        "word": "achy",
+        "frequency": 2.2
+    },
+    "13": {
+        "word": "acid",
+        "frequency": 3.96
+    },
+    "14": {
+        "word": "acme",
+        "frequency": 2.24
+    },
+    "15": {
+        "word": "acne",
+        "frequency": 2.98
+    },
+    "16": {
+        "word": "acre",
+        "frequency": 3.23
+    },
+    "17": {
+        "word": "acth",
+        "frequency": 2.12
+    },
+    "18": {
+        "word": "acts",
+        "frequency": 4.17
+    },
+    "19": {
+        "word": "acyl",
+        "frequency": -1
+    },
+    "20": {
+        "word": "aden",
+        "frequency": 1.97
+    },
+    "21": {
+        "word": "adit",
+        "frequency": 2.38
+    },
+    "22": {
+        "word": "adps",
+        "frequency": -1
+    },
+    "23": {
+        "word": "adze",
+        "frequency": -1
+    },
+    "24": {
+        "word": "aeon",
+        "frequency": 2.72
+    },
+    "25": {
+        "word": "aery",
+        "frequency": 1.74
+    },
+    "26": {
+        "word": "afrl",
+        "frequency": -1
+    },
+    "27": {
+        "word": "afro",
+        "frequency": 3.28
+    },
+    "28": {
+        "word": "aged",
+        "frequency": 3.87
+    },
+    "29": {
+        "word": "agio",
+        "frequency": -1
+    },
+    "30": {
+        "word": "agni",
+        "frequency": -1
+    },
+    "31": {
+        "word": "agon",
+        "frequency": -1
+    },
+    "32": {
+        "word": "ague",
+        "frequency": 1.6
+    },
+    "33": {
+        "word": "ahem",
+        "frequency": 3.84
+    },
+    "34": {
+        "word": "aide",
+        "frequency": 3.06
+    },
+    "35": {
+        "word": "aids",
+        "frequency": 3.46
+    },
+    "36": {
+        "word": "aire",
+        "frequency": 2.02
+    },
+    "37": {
+        "word": "airs",
+        "frequency": 3.19
+    },
+    "38": {
+        "word": "airt",
+        "frequency": -1
+    },
+    "39": {
+        "word": "airy",
+        "frequency": 2.75
+    },
+    "40": {
+        "word": "aken",
+        "frequency": -1
+    },
+    "41": {
+        "word": "akin",
+        "frequency": 2.85
+    },
+    "42": {
+        "word": "alep",
+        "frequency": -1
+    },
+    "43": {
+        "word": "alir",
+        "frequency": -1
+    },
+    "44": {
+        "word": "alky",
+        "frequency": 2.24
+    },
+    "45": {
+        "word": "alms",
+        "frequency": 3.19
+    },
+    "46": {
+        "word": "aloe",
+        "frequency": 2.56
+    },
+    "47": {
+        "word": "alps",
+        "frequency": 3.34
+    },
+    "48": {
+        "word": "also",
+        "frequency": 5.58
+    },
+    "49": {
+        "word": "alto",
+        "frequency": 2.96
+    },
+    "50": {
+        "word": "alum",
+        "frequency": 2.45
+    },
+    "51": {
+        "word": "ambo",
+        "frequency": 1.6
+    },
+    "52": {
+        "word": "amen",
+        "frequency": 4.47
+    },
+    "53": {
+        "word": "amex",
+        "frequency": 2.17
+    },
+    "54": {
+        "word": "amir",
+        "frequency": 3.14
+    },
+    "55": {
+        "word": "amok",
+        "frequency": 2.81
+    },
+    "56": {
+        "word": "amon",
+        "frequency": 3.23
+    },
+    "57": {
+        "word": "amor",
+        "frequency": 3.13
+    },
+    "58": {
+        "word": "amos",
+        "frequency": 3.36
+    },
+    "59": {
+        "word": "amoy",
+        "frequency": 1.97
+    },
+    "60": {
+        "word": "amun",
+        "frequency": 2.6
+    },
+    "61": {
+        "word": "amur",
+        "frequency": 2.54
+    },
+    "62": {
+        "word": "amyl",
+        "frequency": 2.4
+    },
+    "63": {
+        "word": "anew",
+        "frequency": 3.21
+    },
+    "64": {
+        "word": "anil",
+        "frequency": 2.59
+    },
+    "65": {
+        "word": "anpu",
+        "frequency": -1
+    },
+    "66": {
+        "word": "ante",
+        "frequency": 3.17
+    },
+    "67": {
+        "word": "anti",
+        "frequency": 4.33
+    },
+    "68": {
+        "word": "anus",
+        "frequency": 3.4
+    },
+    "69": {
+        "word": "aper",
+        "frequency": 1.73
+    },
+    "70": {
+        "word": "apex",
+        "frequency": 2.87
+    },
+    "71": {
+        "word": "apis",
+        "frequency": 1.73
+    },
+    "72": {
+        "word": "apse",
+        "frequency": 1.9
+    },
+    "73": {
+        "word": "apsu",
+        "frequency": 1.6
+    },
+    "74": {
+        "word": "apus",
+        "frequency": 1.6
+    },
+    "75": {
+        "word": "arch",
+        "frequency": 3.55
+    },
+    "76": {
+        "word": "arco",
+        "frequency": 1.6
+    },
+    "77": {
+        "word": "ards",
+        "frequency": 1.9
+    },
+    "78": {
+        "word": "ares",
+        "frequency": 3.48
+    },
+    "79": {
+        "word": "argo",
+        "frequency": 2.96
+    },
+    "80": {
+        "word": "arid",
+        "frequency": 2.69
+    },
+    "81": {
+        "word": "aril",
+        "frequency": -1
+    },
+    "82": {
+        "word": "arms",
+        "frequency": 4.79
+    },
+    "83": {
+        "word": "army",
+        "frequency": 4.93
+    },
+    "84": {
+        "word": "arng",
+        "frequency": 2.3
+    },
+    "85": {
+        "word": "arno",
+        "frequency": 2.87
+    },
+    "86": {
+        "word": "arse",
+        "frequency": 4.1
+    },
+    "87": {
+        "word": "arts",
+        "frequency": 4.19
+    },
+    "88": {
+        "word": "arty",
+        "frequency": 2.89
+    },
+    "89": {
+        "word": "arui",
+        "frequency": -1
+    },
+    "90": {
+        "word": "arum",
+        "frequency": -1
+    },
+    "91": {
+        "word": "asch",
+        "frequency": -1
+    },
+    "92": {
+        "word": "ashe",
+        "frequency": 2.77
+    },
+    "93": {
+        "word": "ashy",
+        "frequency": 2.17
+    },
+    "94": {
+        "word": "asin",
+        "frequency": 1.6
+    },
+    "95": {
+        "word": "asio",
+        "frequency": -1
+    },
+    "96": {
+        "word": "asur",
+        "frequency": -1
+    },
+    "97": {
+        "word": "aten",
+        "frequency": 2.4
+    },
+    "98": {
+        "word": "atom",
+        "frequency": 3.55
+    },
+    "99": {
+        "word": "aton",
+        "frequency": 1.9
+    },
+    "100": {
+        "word": "atop",
+        "frequency": 2.96
+    },
+    "101": {
+        "word": "auld",
+        "frequency": 2.87
+    },
+    "102": {
+        "word": "aunt",
+        "frequency": 4.79
+    },
+    "103": {
+        "word": "auto",
+        "frequency": 3.9
+    },
+    "104": {
+        "word": "aver",
+        "frequency": 2.08
+    },
+    "105": {
+        "word": "aves",
+        "frequency": -1
+    },
+    "106": {
+        "word": "avid",
+        "frequency": 2.68
+    },
+    "107": {
+        "word": "avon",
+        "frequency": 2.66
+    },
+    "108": {
+        "word": "avow",
+        "frequency": 1.6
+    },
+    "109": {
+        "word": "awed",
+        "frequency": 2.56
+    },
+    "110": {
+        "word": "awny",
+        "frequency": -1
+    },
+    "111": {
+        "word": "awol",
+        "frequency": 3.12
+    },
+    "112": {
+        "word": "awry",
+        "frequency": 2.69
+    },
+    "113": {
+        "word": "axil",
+        "frequency": -1
+    },
+    "114": {
+        "word": "axle",
+        "frequency": 2.81
+    },
+    "115": {
+        "word": "axon",
+        "frequency": 2.02
+    },
+    "116": {
+        "word": "ayin",
+        "frequency": -1
+    },
+    "117": {
+        "word": "bach",
+        "frequency": 3.36
+    },
+    "118": {
+        "word": "back",
+        "frequency": 6.27
+    },
+    "119": {
+        "word": "bade",
+        "frequency": 2.27
+    },
+    "120": {
+        "word": "baht",
+        "frequency": 3.56
+    },
+    "121": {
+        "word": "baic",
+        "frequency": -1
+    },
+    "122": {
+        "word": "bail",
+        "frequency": 4.13
+    },
+    "123": {
+        "word": "bait",
+        "frequency": 3.99
+    },
+    "124": {
+        "word": "bake",
+        "frequency": 3.74
+    },
+    "125": {
+        "word": "baku",
+        "frequency": 2.96
+    },
+    "126": {
+        "word": "bald",
+        "frequency": 4.04
+    },
+    "127": {
+        "word": "bale",
+        "frequency": 2.54
+    },
+    "128": {
+        "word": "bali",
+        "frequency": 3.44
+    },
+    "129": {
+        "word": "balk",
+        "frequency": 2.08
+    },
+    "130": {
+        "word": "balm",
+        "frequency": 3.07
+    },
+    "131": {
+        "word": "band",
+        "frequency": 4.8
+    },
+    "132": {
+        "word": "bane",
+        "frequency": 2.74
+    },
+    "133": {
+        "word": "bang",
+        "frequency": 4.46
+    },
+    "134": {
+        "word": "bank",
+        "frequency": 4.95
+    },
+    "135": {
+        "word": "bard",
+        "frequency": 2.93
+    },
+    "136": {
+        "word": "bare",
+        "frequency": 3.98
+    },
+    "137": {
+        "word": "barf",
+        "frequency": 3.13
+    },
+    "138": {
+        "word": "bari",
+        "frequency": 2.81
+    },
+    "139": {
+        "word": "bark",
+        "frequency": 3.87
+    },
+    "140": {
+        "word": "barm",
+        "frequency": -1
+    },
+    "141": {
+        "word": "barn",
+        "frequency": 4
+    },
+    "142": {
+        "word": "bars",
+        "frequency": 4.22
+    },
+    "143": {
+        "word": "bart",
+        "frequency": 3.65
+    },
+    "144": {
+        "word": "base",
+        "frequency": 4.55
+    },
+    "145": {
+        "word": "bash",
+        "frequency": 3.6
+    },
+    "146": {
+        "word": "bask",
+        "frequency": 2.73
+    },
+    "147": {
+        "word": "bast",
+        "frequency": 2.36
+    },
+    "148": {
+        "word": "bate",
+        "frequency": 2.17
+    },
+    "149": {
+        "word": "bath",
+        "frequency": 4.55
+    },
+    "150": {
+        "word": "bats",
+        "frequency": 3.67
+    },
+    "151": {
+        "word": "baud",
+        "frequency": 2.03
+    },
+    "152": {
+        "word": "baum",
+        "frequency": 2.92
+    },
+    "153": {
+        "word": "bawd",
+        "frequency": 1.6
+    },
+    "154": {
+        "word": "bawl",
+        "frequency": 2.49
+    },
+    "155": {
+        "word": "bead",
+        "frequency": 3.1
+    },
+    "156": {
+        "word": "beak",
+        "frequency": 3.25
+    },
+    "157": {
+        "word": "beam",
+        "frequency": 3.89
+    },
+    "158": {
+        "word": "bean",
+        "frequency": 3.92
+    },
+    "159": {
+        "word": "bear",
+        "frequency": 4.83
+    },
+    "160": {
+        "word": "beat",
+        "frequency": 5.15
+    },
+    "161": {
+        "word": "beau",
+        "frequency": 3.46
+    },
+    "162": {
+        "word": "beck",
+        "frequency": 3.62
+    },
+    "163": {
+        "word": "beda",
+        "frequency": -1
+    },
+    "164": {
+        "word": "belt",
+        "frequency": 4.34
+    },
+    "165": {
+        "word": "bema",
+        "frequency": -1
+    },
+    "166": {
+        "word": "bend",
+        "frequency": 4.14
+    },
+    "167": {
+        "word": "bent",
+        "frequency": 3.96
+    },
+    "168": {
+        "word": "berg",
+        "frequency": 3.2
+    },
+    "169": {
+        "word": "berk",
+        "frequency": 2.74
+    },
+    "170": {
+        "word": "berm",
+        "frequency": 2.45
+    },
+    "171": {
+        "word": "bern",
+        "frequency": 2.85
+    },
+    "172": {
+        "word": "best",
+        "frequency": 5.61
+    },
+    "173": {
+        "word": "beta",
+        "frequency": 3.67
+    },
+    "174": {
+        "word": "beth",
+        "frequency": 4.08
+    },
+    "175": {
+        "word": "bevy",
+        "frequency": 2.2
+    },
+    "176": {
+        "word": "bias",
+        "frequency": 3.08
+    },
+    "177": {
+        "word": "bida",
+        "frequency": 1.6
+    },
+    "178": {
+        "word": "bide",
+        "frequency": 2.69
+    },
+    "179": {
+        "word": "bier",
+        "frequency": 2.36
+    },
+    "180": {
+        "word": "bike",
+        "frequency": 4.61
+    },
+    "181": {
+        "word": "bile",
+        "frequency": 2.85
+    },
+    "182": {
+        "word": "bilk",
+        "frequency": 1.73
+    },
+    "183": {
+        "word": "bind",
+        "frequency": 3.61
+    },
+    "184": {
+        "word": "bine",
+        "frequency": 1.97
+    },
+    "185": {
+        "word": "bird",
+        "frequency": 4.67
+    },
+    "186": {
+        "word": "birl",
+        "frequency": -1
+    },
+    "187": {
+        "word": "biro",
+        "frequency": 2.2
+    },
+    "188": {
+        "word": "bise",
+        "frequency": -1
+    },
+    "189": {
+        "word": "bite",
+        "frequency": 4.63
+    },
+    "190": {
+        "word": "bize",
+        "frequency": -1
+    },
+    "191": {
+        "word": "blae",
+        "frequency": -1
+    },
+    "192": {
+        "word": "blah",
+        "frequency": 4.18
+    },
+    "193": {
+        "word": "blat",
+        "frequency": 2.19
+    },
+    "194": {
+        "word": "bleu",
+        "frequency": 2.77
+    },
+    "195": {
+        "word": "blip",
+        "frequency": 2.84
+    },
+    "196": {
+        "word": "bloc",
+        "frequency": 2.66
+    },
+    "197": {
+        "word": "blog",
+        "frequency": 3.36
+    },
+    "198": {
+        "word": "blok",
+        "frequency": 2.12
+    },
+    "199": {
+        "word": "blot",
+        "frequency": 2.74
+    },
+    "200": {
+        "word": "blow",
+        "frequency": 4.91
+    },
+    "201": {
+        "word": "blue",
+        "frequency": 4.97
+    },
+    "202": {
+        "word": "blur",
+        "frequency": 3.35
+    },
+    "203": {
+        "word": "bmdo",
+        "frequency": -1
+    },
+    "204": {
+        "word": "bmus",
+        "frequency": -1
+    },
+    "205": {
+        "word": "boar",
+        "frequency": 3.52
+    },
+    "206": {
+        "word": "boat",
+        "frequency": 4.93
+    },
+    "207": {
+        "word": "bock",
+        "frequency": 2.75
+    },
+    "208": {
+        "word": "bode",
+        "frequency": 2.7
+    },
+    "209": {
+        "word": "body",
+        "frequency": 5.36
+    },
+    "210": {
+        "word": "boer",
+        "frequency": 2.52
+    },
+    "211": {
+        "word": "bogy",
+        "frequency": 1.74
+    },
+    "212": {
+        "word": "bohr",
+        "frequency": 2.72
+    },
+    "213": {
+        "word": "boil",
+        "frequency": 3.75
+    },
+    "214": {
+        "word": "bola",
+        "frequency": 2.38
+    },
+    "215": {
+        "word": "bold",
+        "frequency": 3.86
+    },
+    "216": {
+        "word": "bole",
+        "frequency": 2.12
+    },
+    "217": {
+        "word": "bolt",
+        "frequency": 3.75
+    },
+    "218": {
+        "word": "bond",
+        "frequency": 4.27
+    },
+    "219": {
+        "word": "bone",
+        "frequency": 4.45
+    },
+    "220": {
+        "word": "bong",
+        "frequency": 3.87
+    },
+    "221": {
+        "word": "bonk",
+        "frequency": 2.6
+    },
+    "222": {
+        "word": "bony",
+        "frequency": 3.05
+    },
+    "223": {
+        "word": "bore",
+        "frequency": 3.95
+    },
+    "224": {
+        "word": "born",
+        "frequency": 5.07
+    },
+    "225": {
+        "word": "bosc",
+        "frequency": -1
+    },
+    "226": {
+        "word": "bose",
+        "frequency": 3.22
+    },
+    "227": {
+        "word": "bosh",
+        "frequency": 2.43
+    },
+    "228": {
+        "word": "bosk",
+        "frequency": -1
+    },
+    "229": {
+        "word": "bota",
+        "frequency": 1.73
+    },
+    "230": {
+        "word": "both",
+        "frequency": 5.47
+    },
+    "231": {
+        "word": "bout",
+        "frequency": 4.06
+    },
+    "232": {
+        "word": "bowl",
+        "frequency": 4.26
+    },
+    "233": {
+        "word": "boxy",
+        "frequency": 1.73
+    },
+    "234": {
+        "word": "brad",
+        "frequency": 4.34
+    },
+    "235": {
+        "word": "brae",
+        "frequency": 1.82
+    },
+    "236": {
+        "word": "brag",
+        "frequency": 3.48
+    },
+    "237": {
+        "word": "bran",
+        "frequency": 2.85
+    },
+    "238": {
+        "word": "brat",
+        "frequency": 4.01
+    },
+    "239": {
+        "word": "braw",
+        "frequency": 1.73
+    },
+    "240": {
+        "word": "bray",
+        "frequency": 2.57
+    },
+    "241": {
+        "word": "bren",
+        "frequency": 2.6
+    },
+    "242": {
+        "word": "brew",
+        "frequency": 3.43
+    },
+    "243": {
+        "word": "brie",
+        "frequency": 3.12
+    },
+    "244": {
+        "word": "brig",
+        "frequency": 2.99
+    },
+    "245": {
+        "word": "brim",
+        "frequency": 2.68
+    },
+    "246": {
+        "word": "brio",
+        "frequency": 1.9
+    },
+    "247": {
+        "word": "bris",
+        "frequency": 2.33
+    },
+    "248": {
+        "word": "brit",
+        "frequency": 3.16
+    },
+    "249": {
+        "word": "brno",
+        "frequency": 2.73
+    },
+    "250": {
+        "word": "brow",
+        "frequency": 3.26
+    },
+    "251": {
+        "word": "brut",
+        "frequency": 2.2
+    },
+    "252": {
+        "word": "brya",
+        "frequency": -1
+    },
+    "253": {
+        "word": "buck",
+        "frequency": 4.25
+    },
+    "254": {
+        "word": "bufo",
+        "frequency": 1.74
+    },
+    "255": {
+        "word": "buhl",
+        "frequency": -1
+    },
+    "256": {
+        "word": "bulk",
+        "frequency": 3.32
+    },
+    "257": {
+        "word": "bumf",
+        "frequency": 1.97
+    },
+    "258": {
+        "word": "bump",
+        "frequency": 4.02
+    },
+    "259": {
+        "word": "buna",
+        "frequency": 1.82
+    },
+    "260": {
+        "word": "bung",
+        "frequency": 2.47
+    },
+    "261": {
+        "word": "bunk",
+        "frequency": 3.65
+    },
+    "262": {
+        "word": "buns",
+        "frequency": 3.56
+    },
+    "263": {
+        "word": "bunt",
+        "frequency": 2.84
+    },
+    "264": {
+        "word": "buoy",
+        "frequency": 3.16
+    },
+    "265": {
+        "word": "bura",
+        "frequency": 2.82
+    },
+    "266": {
+        "word": "burg",
+        "frequency": 2.7
+    },
+    "267": {
+        "word": "burk",
+        "frequency": 1.82
+    },
+    "268": {
+        "word": "burl",
+        "frequency": 1.6
+    },
+    "269": {
+        "word": "burn",
+        "frequency": 4.73
+    },
+    "270": {
+        "word": "burp",
+        "frequency": 3.13
+    },
+    "271": {
+        "word": "burt",
+        "frequency": 3.93
+    },
+    "272": {
+        "word": "bury",
+        "frequency": 4.32
+    },
+    "273": {
+        "word": "bush",
+        "frequency": 4.39
+    },
+    "274": {
+        "word": "busk",
+        "frequency": 1.82
+    },
+    "275": {
+        "word": "bust",
+        "frequency": 4.24
+    },
+    "276": {
+        "word": "busy",
+        "frequency": 5.04
+    },
+    "277": {
+        "word": "buyi",
+        "frequency": -1
+    },
+    "278": {
+        "word": "byrd",
+        "frequency": 2.87
+    },
+    "279": {
+        "word": "byre",
+        "frequency": 1.6
+    },
+    "280": {
+        "word": "byte",
+        "frequency": 2.08
+    },
+    "281": {
+        "word": "cabg",
+        "frequency": -1
+    },
+    "282": {
+        "word": "cafe",
+        "frequency": 4
+    },
+    "283": {
+        "word": "cage",
+        "frequency": 4.14
+    },
+    "284": {
+        "word": "cagy",
+        "frequency": -1
+    },
+    "285": {
+        "word": "cain",
+        "frequency": 3.48
+    },
+    "286": {
+        "word": "cake",
+        "frequency": 4.66
+    },
+    "287": {
+        "word": "calf",
+        "frequency": 3.62
+    },
+    "288": {
+        "word": "cali",
+        "frequency": 2.72
+    },
+    "289": {
+        "word": "calk",
+        "frequency": -1
+    },
+    "290": {
+        "word": "calm",
+        "frequency": 5.19
+    },
+    "291": {
+        "word": "calx",
+        "frequency": -1
+    },
+    "292": {
+        "word": "camo",
+        "frequency": 2.38
+    },
+    "293": {
+        "word": "camp",
+        "frequency": 4.66
+    },
+    "294": {
+        "word": "cane",
+        "frequency": 3.83
+    },
+    "295": {
+        "word": "cant",
+        "frequency": 3.93
+    },
+    "296": {
+        "word": "cape",
+        "frequency": 3.81
+    },
+    "297": {
+        "word": "capo",
+        "frequency": 2.5
+    },
+    "298": {
+        "word": "card",
+        "frequency": 4.91
+    },
+    "299": {
+        "word": "care",
+        "frequency": 5.68
+    },
+    "300": {
+        "word": "cark",
+        "frequency": 1.6
+    },
+    "301": {
+        "word": "carp",
+        "frequency": 3.15
+    },
+    "302": {
+        "word": "cart",
+        "frequency": 3.98
+    },
+    "303": {
+        "word": "case",
+        "frequency": 5.39
+    },
+    "304": {
+        "word": "cash",
+        "frequency": 4.85
+    },
+    "305": {
+        "word": "cask",
+        "frequency": 1.82
+    },
+    "306": {
+        "word": "cast",
+        "frequency": 4.39
+    },
+    "307": {
+        "word": "caul",
+        "frequency": -1
+    },
+    "308": {
+        "word": "cave",
+        "frequency": 4.24
+    },
+    "309": {
+        "word": "cavy",
+        "frequency": 1.74
+    },
+    "310": {
+        "word": "cdna",
+        "frequency": -1
+    },
+    "311": {
+        "word": "cebu",
+        "frequency": 2.12
+    },
+    "312": {
+        "word": "cedi",
+        "frequency": -1
+    },
+    "313": {
+        "word": "celt",
+        "frequency": 1.97
+    },
+    "314": {
+        "word": "cent",
+        "frequency": 3.96
+    },
+    "315": {
+        "word": "cero",
+        "frequency": 1.9
+    },
+    "316": {
+        "word": "cert",
+        "frequency": 2.08
+    },
+    "317": {
+        "word": "cewa",
+        "frequency": -1
+    },
+    "318": {
+        "word": "cftr",
+        "frequency": -1
+    },
+    "319": {
+        "word": "chad",
+        "frequency": 3.8
+    },
+    "320": {
+        "word": "chap",
+        "frequency": 3.78
+    },
+    "321": {
+        "word": "char",
+        "frequency": 3.16
+    },
+    "322": {
+        "word": "chat",
+        "frequency": 4.36
+    },
+    "323": {
+        "word": "chaw",
+        "frequency": 2.17
+    },
+    "324": {
+        "word": "chef",
+        "frequency": 4.22
+    },
+    "325": {
+        "word": "chen",
+        "frequency": 3.94
+    },
+    "326": {
+        "word": "chew",
+        "frequency": 3.95
+    },
+    "327": {
+        "word": "chin",
+        "frequency": 4.01
+    },
+    "328": {
+        "word": "chip",
+        "frequency": 4.15
+    },
+    "329": {
+        "word": "chit",
+        "frequency": 3.38
+    },
+    "330": {
+        "word": "chon",
+        "frequency": 2.86
+    },
+    "331": {
+        "word": "chop",
+        "frequency": 4.22
+    },
+    "332": {
+        "word": "chou",
+        "frequency": 3.14
+    },
+    "333": {
+        "word": "chow",
+        "frequency": 3.84
+    },
+    "334": {
+        "word": "chub",
+        "frequency": 2.24
+    },
+    "335": {
+        "word": "chug",
+        "frequency": 3.27
+    },
+    "336": {
+        "word": "chum",
+        "frequency": 3.25
+    },
+    "337": {
+        "word": "ciao",
+        "frequency": 3.88
+    },
+    "338": {
+        "word": "cira",
+        "frequency": -1
+    },
+    "339": {
+        "word": "cite",
+        "frequency": 2.89
+    },
+    "340": {
+        "word": "city",
+        "frequency": 5.27
+    },
+    "341": {
+        "word": "cive",
+        "frequency": 2.02
+    },
+    "342": {
+        "word": "clad",
+        "frequency": 2.92
+    },
+    "343": {
+        "word": "clam",
+        "frequency": 3.42
+    },
+    "344": {
+        "word": "clan",
+        "frequency": 4.06
+    },
+    "345": {
+        "word": "clap",
+        "frequency": 3.76
+    },
+    "346": {
+        "word": "claw",
+        "frequency": 3.67
+    },
+    "347": {
+        "word": "clay",
+        "frequency": 3.92
+    },
+    "348": {
+        "word": "clef",
+        "frequency": 1.82
+    },
+    "349": {
+        "word": "cleg",
+        "frequency": -1
+    },
+    "350": {
+        "word": "clew",
+        "frequency": 1.82
+    },
+    "351": {
+        "word": "clio",
+        "frequency": 3.1
+    },
+    "352": {
+        "word": "clip",
+        "frequency": 3.75
+    },
+    "353": {
+        "word": "clit",
+        "frequency": 3.05
+    },
+    "354": {
+        "word": "clod",
+        "frequency": 2.57
+    },
+    "355": {
+        "word": "clog",
+        "frequency": 2.9
+    },
+    "356": {
+        "word": "clon",
+        "frequency": -1
+    },
+    "357": {
+        "word": "clop",
+        "frequency": 2.38
+    },
+    "358": {
+        "word": "clot",
+        "frequency": 3.19
+    },
+    "359": {
+        "word": "cloy",
+        "frequency": 1.73
+    },
+    "360": {
+        "word": "club",
+        "frequency": 4.92
+    },
+    "361": {
+        "word": "clue",
+        "frequency": 4.33
+    },
+    "362": {
+        "word": "clxv",
+        "frequency": -1
+    },
+    "363": {
+        "word": "cmbr",
+        "frequency": -1
+    },
+    "364": {
+        "word": "cnpz",
+        "frequency": -1
+    },
+    "365": {
+        "word": "cnut",
+        "frequency": -1
+    },
+    "366": {
+        "word": "coal",
+        "frequency": 3.9
+    },
+    "367": {
+        "word": "coat",
+        "frequency": 4.46
+    },
+    "368": {
+        "word": "coax",
+        "frequency": 2.79
+    },
+    "369": {
+        "word": "coda",
+        "frequency": 2.45
+    },
+    "370": {
+        "word": "code",
+        "frequency": 4.66
+    },
+    "371": {
+        "word": "cody",
+        "frequency": 3.95
+    },
+    "372": {
+        "word": "cohn",
+        "frequency": 2.59
+    },
+    "373": {
+        "word": "coif",
+        "frequency": 2.19
+    },
+    "374": {
+        "word": "coil",
+        "frequency": 3.16
+    },
+    "375": {
+        "word": "coin",
+        "frequency": 4.06
+    },
+    "376": {
+        "word": "coir",
+        "frequency": -1
+    },
+    "377": {
+        "word": "coke",
+        "frequency": 4.28
+    },
+    "378": {
+        "word": "cola",
+        "frequency": 3.75
+    },
+    "379": {
+        "word": "cold",
+        "frequency": 5.18
+    },
+    "380": {
+        "word": "cole",
+        "frequency": 4.05
+    },
+    "381": {
+        "word": "colt",
+        "frequency": 3.46
+    },
+    "382": {
+        "word": "coma",
+        "frequency": 4.06
+    },
+    "383": {
+        "word": "comb",
+        "frequency": 3.66
+    },
+    "384": {
+        "word": "come",
+        "frequency": 6.53
+    },
+    "385": {
+        "word": "comp",
+        "frequency": 3.05
+    },
+    "386": {
+        "word": "cone",
+        "frequency": 3.56
+    },
+    "387": {
+        "word": "conk",
+        "frequency": 2.52
+    },
+    "388": {
+        "word": "cony",
+        "frequency": 1.74
+    },
+    "389": {
+        "word": "cope",
+        "frequency": 3.86
+    },
+    "390": {
+        "word": "copt",
+        "frequency": -1
+    },
+    "391": {
+        "word": "copy",
+        "frequency": 4.65
+    },
+    "392": {
+        "word": "cora",
+        "frequency": 3.44
+    },
+    "393": {
+        "word": "cord",
+        "frequency": 3.76
+    },
+    "394": {
+        "word": "core",
+        "frequency": 4.13
+    },
+    "395": {
+        "word": "cork",
+        "frequency": 3.46
+    },
+    "396": {
+        "word": "corm",
+        "frequency": -1
+    },
+    "397": {
+        "word": "corn",
+        "frequency": 4.12
+    },
+    "398": {
+        "word": "corp",
+        "frequency": 2.81
+    },
+    "399": {
+        "word": "cosh",
+        "frequency": 1.9
+    },
+    "400": {
+        "word": "cost",
+        "frequency": 4.73
+    },
+    "401": {
+        "word": "cosy",
+        "frequency": 3.3
+    },
+    "402": {
+        "word": "cote",
+        "frequency": 2.17
+    },
+    "403": {
+        "word": "coue",
+        "frequency": -1
+    },
+    "404": {
+        "word": "coup",
+        "frequency": 3.68
+    },
+    "405": {
+        "word": "cove",
+        "frequency": 3.3
+    },
+    "406": {
+        "word": "cowl",
+        "frequency": 2.08
+    },
+    "407": {
+        "word": "cows",
+        "frequency": 4.11
+    },
+    "408": {
+        "word": "coxa",
+        "frequency": -1
+    },
+    "409": {
+        "word": "cozy",
+        "frequency": 3.61
+    },
+    "410": {
+        "word": "crab",
+        "frequency": 3.86
+    },
+    "411": {
+        "word": "crag",
+        "frequency": 1.6
+    },
+    "412": {
+        "word": "cram",
+        "frequency": 3.18
+    },
+    "413": {
+        "word": "cran",
+        "frequency": 1.82
+    },
+    "414": {
+        "word": "crap",
+        "frequency": 4.87
+    },
+    "415": {
+        "word": "craw",
+        "frequency": 2.12
+    },
+    "416": {
+        "word": "crax",
+        "frequency": -1
+    },
+    "417": {
+        "word": "cred",
+        "frequency": 2.45
+    },
+    "418": {
+        "word": "crew",
+        "frequency": 4.57
+    },
+    "419": {
+        "word": "crex",
+        "frequency": -1
+    },
+    "420": {
+        "word": "crib",
+        "frequency": 3.67
+    },
+    "421": {
+        "word": "crit",
+        "frequency": 1.97
+    },
+    "422": {
+        "word": "crop",
+        "frequency": 3.66
+    },
+    "423": {
+        "word": "crow",
+        "frequency": 3.8
+    },
+    "424": {
+        "word": "crud",
+        "frequency": 2.64
+    },
+    "425": {
+        "word": "crus",
+        "frequency": 1.6
+    },
+    "426": {
+        "word": "crux",
+        "frequency": 2.57
+    },
+    "427": {
+        "word": "cuba",
+        "frequency": 4.01
+    },
+    "428": {
+        "word": "cube",
+        "frequency": 3.52
+    },
+    "429": {
+        "word": "cuke",
+        "frequency": 1.73
+    },
+    "430": {
+        "word": "culm",
+        "frequency": -1
+    },
+    "431": {
+        "word": "cult",
+        "frequency": 3.74
+    },
+    "432": {
+        "word": "cunt",
+        "frequency": 4.25
+    },
+    "433": {
+        "word": "cuon",
+        "frequency": -1
+    },
+    "434": {
+        "word": "curb",
+        "frequency": 3.48
+    },
+    "435": {
+        "word": "curd",
+        "frequency": 3.03
+    },
+    "436": {
+        "word": "cure",
+        "frequency": 4.37
+    },
+    "437": {
+        "word": "curl",
+        "frequency": 3.34
+    },
+    "438": {
+        "word": "curt",
+        "frequency": 2.98
+    },
+    "439": {
+        "word": "cusk",
+        "frequency": -1
+    },
+    "440": {
+        "word": "cusp",
+        "frequency": 2.81
+    },
+    "441": {
+        "word": "cute",
+        "frequency": 4.91
+    },
+    "442": {
+        "word": "cxlv",
+        "frequency": -1
+    },
+    "443": {
+        "word": "cyan",
+        "frequency": 1.9
+    },
+    "444": {
+        "word": "cyma",
+        "frequency": -1
+    },
+    "445": {
+        "word": "cyme",
+        "frequency": 1.74
+    },
+    "446": {
+        "word": "cyon",
+        "frequency": -1
+    },
+    "447": {
+        "word": "cyst",
+        "frequency": 2.7
+    },
+    "448": {
+        "word": "czar",
+        "frequency": 2.77
+    },
+    "449": {
+        "word": "dace",
+        "frequency": 1.73
+    },
+    "450": {
+        "word": "daft",
+        "frequency": 3.38
+    },
+    "451": {
+        "word": "dago",
+        "frequency": 2.59
+    },
+    "452": {
+        "word": "dahl",
+        "frequency": 2.77
+    },
+    "453": {
+        "word": "dail",
+        "frequency": 1.82
+    },
+    "454": {
+        "word": "dais",
+        "frequency": 2.38
+    },
+    "455": {
+        "word": "dale",
+        "frequency": 4
+    },
+    "456": {
+        "word": "dali",
+        "frequency": 2.94
+    },
+    "457": {
+        "word": "dalo",
+        "frequency": 1.82
+    },
+    "458": {
+        "word": "dame",
+        "frequency": 3.71
+    },
+    "459": {
+        "word": "damn",
+        "frequency": 5.49
+    },
+    "460": {
+        "word": "damp",
+        "frequency": 3.46
+    },
+    "461": {
+        "word": "dane",
+        "frequency": 3.43
+    },
+    "462": {
+        "word": "dank",
+        "frequency": 2.49
+    },
+    "463": {
+        "word": "danu",
+        "frequency": 2.68
+    },
+    "464": {
+        "word": "dare",
+        "frequency": 4.92
+    },
+    "465": {
+        "word": "dari",
+        "frequency": 2.27
+    },
+    "466": {
+        "word": "dark",
+        "frequency": 5
+    },
+    "467": {
+        "word": "darn",
+        "frequency": 3.97
+    },
+    "468": {
+        "word": "dart",
+        "frequency": 3.21
+    },
+    "469": {
+        "word": "dash",
+        "frequency": 3.79
+    },
+    "470": {
+        "word": "date",
+        "frequency": 5
+    },
+    "471": {
+        "word": "daub",
+        "frequency": 2.08
+    },
+    "472": {
+        "word": "davy",
+        "frequency": 3.37
+    },
+    "473": {
+        "word": "dawn",
+        "frequency": 4.4
+    },
+    "474": {
+        "word": "days",
+        "frequency": 5.56
+    },
+    "475": {
+        "word": "daze",
+        "frequency": 2.91
+    },
+    "476": {
+        "word": "dbms",
+        "frequency": -1
+    },
+    "477": {
+        "word": "deaf",
+        "frequency": 4.31
+    },
+    "478": {
+        "word": "deal",
+        "frequency": 5.33
+    },
+    "479": {
+        "word": "dean",
+        "frequency": 4.28
+    },
+    "480": {
+        "word": "dear",
+        "frequency": 5.29
+    },
+    "481": {
+        "word": "debs",
+        "frequency": 2.52
+    },
+    "482": {
+        "word": "debt",
+        "frequency": 4.46
+    },
+    "483": {
+        "word": "deck",
+        "frequency": 4.12
+    },
+    "484": {
+        "word": "deco",
+        "frequency": 2.73
+    },
+    "485": {
+        "word": "deft",
+        "frequency": 2.24
+    },
+    "486": {
+        "word": "defy",
+        "frequency": 3.43
+    },
+    "487": {
+        "word": "delf",
+        "frequency": -1
+    },
+    "488": {
+        "word": "deli",
+        "frequency": 3.2
+    },
+    "489": {
+        "word": "demo",
+        "frequency": 3.7
+    },
+    "490": {
+        "word": "dent",
+        "frequency": 3.51
+    },
+    "491": {
+        "word": "deny",
+        "frequency": 4.24
+    },
+    "492": {
+        "word": "derv",
+        "frequency": -1
+    },
+    "493": {
+        "word": "desk",
+        "frequency": 4.45
+    },
+    "494": {
+        "word": "devi",
+        "frequency": 3.3
+    },
+    "495": {
+        "word": "dewy",
+        "frequency": 2.86
+    },
+    "496": {
+        "word": "dflp",
+        "frequency": -1
+    },
+    "497": {
+        "word": "dhak",
+        "frequency": -1
+    },
+    "498": {
+        "word": "dhal",
+        "frequency": 1.73
+    },
+    "499": {
+        "word": "dhow",
+        "frequency": 1.82
+    },
+    "500": {
+        "word": "dial",
+        "frequency": 3.97
+    },
+    "501": {
+        "word": "diam",
+        "frequency": -1
+    },
+    "502": {
+        "word": "dias",
+        "frequency": 3.1
+    },
+    "503": {
+        "word": "diaz",
+        "frequency": 3.24
+    },
+    "504": {
+        "word": "dibs",
+        "frequency": 3.06
+    },
+    "505": {
+        "word": "dice",
+        "frequency": 3.76
+    },
+    "506": {
+        "word": "dick",
+        "frequency": 4.79
+    },
+    "507": {
+        "word": "diet",
+        "frequency": 4.19
+    },
+    "508": {
+        "word": "digs",
+        "frequency": 3.42
+    },
+    "509": {
+        "word": "dika",
+        "frequency": 2.2
+    },
+    "510": {
+        "word": "dike",
+        "frequency": 3.05
+    },
+    "511": {
+        "word": "dime",
+        "frequency": 3.91
+    },
+    "512": {
+        "word": "dine",
+        "frequency": 3.65
+    },
+    "513": {
+        "word": "ding",
+        "frequency": 3.93
+    },
+    "514": {
+        "word": "dink",
+        "frequency": 2.98
+    },
+    "515": {
+        "word": "dint",
+        "frequency": 2.63
+    },
+    "516": {
+        "word": "diol",
+        "frequency": -1
+    },
+    "517": {
+        "word": "dior",
+        "frequency": 2.78
+    },
+    "518": {
+        "word": "dire",
+        "frequency": 3.37
+    },
+    "519": {
+        "word": "dirk",
+        "frequency": 3.56
+    },
+    "520": {
+        "word": "dirt",
+        "frequency": 4.28
+    },
+    "521": {
+        "word": "disa",
+        "frequency": 2.36
+    },
+    "522": {
+        "word": "disc",
+        "frequency": 3.61
+    },
+    "523": {
+        "word": "dish",
+        "frequency": 4.15
+    },
+    "524": {
+        "word": "disk",
+        "frequency": 3.75
+    },
+    "525": {
+        "word": "dita",
+        "frequency": 2.08
+    },
+    "526": {
+        "word": "diva",
+        "frequency": 3.14
+    },
+    "527": {
+        "word": "dive",
+        "frequency": 4.11
+    },
+    "528": {
+        "word": "dmus",
+        "frequency": -1
+    },
+    "529": {
+        "word": "dock",
+        "frequency": 3.75
+    },
+    "530": {
+        "word": "doei",
+        "frequency": 1.6
+    },
+    "531": {
+        "word": "doer",
+        "frequency": 2.57
+    },
+    "532": {
+        "word": "doge",
+        "frequency": 2.72
+    },
+    "533": {
+        "word": "dogy",
+        "frequency": -1
+    },
+    "534": {
+        "word": "doha",
+        "frequency": -1
+    },
+    "535": {
+        "word": "dojc",
+        "frequency": -1
+    },
+    "536": {
+        "word": "dole",
+        "frequency": 3.17
+    },
+    "537": {
+        "word": "dolt",
+        "frequency": 2.7
+    },
+    "538": {
+        "word": "dome",
+        "frequency": 3.55
+    },
+    "539": {
+        "word": "dona",
+        "frequency": 3.33
+    },
+    "540": {
+        "word": "done",
+        "frequency": 5.72
+    },
+    "541": {
+        "word": "dong",
+        "frequency": 4.24
+    },
+    "542": {
+        "word": "dopa",
+        "frequency": 1.6
+    },
+    "543": {
+        "word": "dope",
+        "frequency": 4.06
+    },
+    "544": {
+        "word": "dopy",
+        "frequency": -1
+    },
+    "545": {
+        "word": "dork",
+        "frequency": 3.66
+    },
+    "546": {
+        "word": "dorm",
+        "frequency": 3.69
+    },
+    "547": {
+        "word": "dory",
+        "frequency": 3.48
+    },
+    "548": {
+        "word": "dose",
+        "frequency": 3.76
+    },
+    "549": {
+        "word": "dote",
+        "frequency": 2.57
+    },
+    "550": {
+        "word": "dour",
+        "frequency": 2.2
+    },
+    "551": {
+        "word": "dove",
+        "frequency": 3.63
+    },
+    "552": {
+        "word": "down",
+        "frequency": 6.12
+    },
+    "553": {
+        "word": "doxy",
+        "frequency": 2.27
+    },
+    "554": {
+        "word": "doze",
+        "frequency": 2.98
+    },
+    "555": {
+        "word": "dozy",
+        "frequency": 2.57
+    },
+    "556": {
+        "word": "dprk",
+        "frequency": 1.9
+    },
+    "557": {
+        "word": "drab",
+        "frequency": 2.93
+    },
+    "558": {
+        "word": "drag",
+        "frequency": 4.38
+    },
+    "559": {
+        "word": "dram",
+        "frequency": 2.24
+    },
+    "560": {
+        "word": "draw",
+        "frequency": 4.62
+    },
+    "561": {
+        "word": "dray",
+        "frequency": 1.82
+    },
+    "562": {
+        "word": "dreg",
+        "frequency": 2.2
+    },
+    "563": {
+        "word": "drew",
+        "frequency": 4.22
+    },
+    "564": {
+        "word": "drey",
+        "frequency": 2.57
+    },
+    "565": {
+        "word": "drib",
+        "frequency": 1.74
+    },
+    "566": {
+        "word": "drip",
+        "frequency": 3.52
+    },
+    "567": {
+        "word": "drms",
+        "frequency": -1
+    },
+    "568": {
+        "word": "drop",
+        "frequency": 5.06
+    },
+    "569": {
+        "word": "drub",
+        "frequency": -1
+    },
+    "570": {
+        "word": "drug",
+        "frequency": 4.69
+    },
+    "571": {
+        "word": "drum",
+        "frequency": 4.04
+    },
+    "572": {
+        "word": "dtic",
+        "frequency": -1
+    },
+    "573": {
+        "word": "dual",
+        "frequency": 3.12
+    },
+    "574": {
+        "word": "duce",
+        "frequency": 2.99
+    },
+    "575": {
+        "word": "duck",
+        "frequency": 4.33
+    },
+    "576": {
+        "word": "duct",
+        "frequency": 3.41
+    },
+    "577": {
+        "word": "duel",
+        "frequency": 3.69
+    },
+    "578": {
+        "word": "duet",
+        "frequency": 3.08
+    },
+    "579": {
+        "word": "dufy",
+        "frequency": -1
+    },
+    "580": {
+        "word": "duke",
+        "frequency": 4.17
+    },
+    "581": {
+        "word": "duly",
+        "frequency": 3
+    },
+    "582": {
+        "word": "duma",
+        "frequency": 3.26
+    },
+    "583": {
+        "word": "dumb",
+        "frequency": 4.68
+    },
+    "584": {
+        "word": "dump",
+        "frequency": 4.43
+    },
+    "585": {
+        "word": "dune",
+        "frequency": 2.87
+    },
+    "586": {
+        "word": "dung",
+        "frequency": 3.48
+    },
+    "587": {
+        "word": "dunk",
+        "frequency": 3.31
+    },
+    "588": {
+        "word": "dupe",
+        "frequency": 2.64
+    },
+    "589": {
+        "word": "dura",
+        "frequency": 2.33
+    },
+    "590": {
+        "word": "duse",
+        "frequency": 1.9
+    },
+    "591": {
+        "word": "dusk",
+        "frequency": 3.45
+    },
+    "592": {
+        "word": "dust",
+        "frequency": 4.4
+    },
+    "593": {
+        "word": "duty",
+        "frequency": 4.71
+    },
+    "594": {
+        "word": "dyer",
+        "frequency": 2.47
+    },
+    "595": {
+        "word": "dyke",
+        "frequency": 3.46
+    },
+    "596": {
+        "word": "dyne",
+        "frequency": -1
+    },
+    "597": {
+        "word": "each",
+        "frequency": 5.47
+    },
+    "598": {
+        "word": "earl",
+        "frequency": 4.05
+    },
+    "599": {
+        "word": "earn",
+        "frequency": 4.44
+    },
+    "600": {
+        "word": "east",
+        "frequency": 4.71
+    },
+    "601": {
+        "word": "easy",
+        "frequency": 5.42
+    },
+    "602": {
+        "word": "eats",
+        "frequency": 4.14
+    },
+    "603": {
+        "word": "ebit",
+        "frequency": -1
+    },
+    "604": {
+        "word": "ebon",
+        "frequency": -1
+    },
+    "605": {
+        "word": "ebro",
+        "frequency": 2.03
+    },
+    "606": {
+        "word": "echo",
+        "frequency": 3.89
+    },
+    "607": {
+        "word": "echt",
+        "frequency": -1
+    },
+    "608": {
+        "word": "ecru",
+        "frequency": 1.97
+    },
+    "609": {
+        "word": "edam",
+        "frequency": 1.82
+    },
+    "610": {
+        "word": "edgy",
+        "frequency": 3.26
+    },
+    "611": {
+        "word": "edit",
+        "frequency": 3.55
+    },
+    "612": {
+        "word": "edta",
+        "frequency": 1.73
+    },
+    "613": {
+        "word": "edwy",
+        "frequency": -1
+    },
+    "614": {
+        "word": "egis",
+        "frequency": -1
+    },
+    "615": {
+        "word": "egtk",
+        "frequency": -1
+    },
+    "616": {
+        "word": "eira",
+        "frequency": -1
+    },
+    "617": {
+        "word": "elam",
+        "frequency": 2.03
+    },
+    "618": {
+        "word": "elan",
+        "frequency": 2.03
+    },
+    "619": {
+        "word": "elia",
+        "frequency": 2.73
+    },
+    "620": {
+        "word": "emda",
+        "frequency": -1
+    },
+    "621": {
+        "word": "emir",
+        "frequency": 2.68
+    },
+    "622": {
+        "word": "emit",
+        "frequency": 2.84
+    },
+    "623": {
+        "word": "enid",
+        "frequency": 3.26
+    },
+    "624": {
+        "word": "enki",
+        "frequency": -1
+    },
+    "625": {
+        "word": "enol",
+        "frequency": -1
+    },
+    "626": {
+        "word": "envy",
+        "frequency": 4.04
+    },
+    "627": {
+        "word": "epha",
+        "frequency": -1
+    },
+    "628": {
+        "word": "epic",
+        "frequency": 3.51
+    },
+    "629": {
+        "word": "epos",
+        "frequency": -1
+    },
+    "630": {
+        "word": "ergo",
+        "frequency": 2.87
+    },
+    "631": {
+        "word": "erin",
+        "frequency": 3.59
+    },
+    "632": {
+        "word": "eris",
+        "frequency": 2.24
+    },
+    "633": {
+        "word": "eros",
+        "frequency": 2.89
+    },
+    "634": {
+        "word": "erst",
+        "frequency": -1
+    },
+    "635": {
+        "word": "esau",
+        "frequency": 1.74
+    },
+    "636": {
+        "word": "esop",
+        "frequency": -1
+    },
+    "637": {
+        "word": "esox",
+        "frequency": -1
+    },
+    "638": {
+        "word": "espy",
+        "frequency": 2.33
+    },
+    "639": {
+        "word": "etch",
+        "frequency": 2.56
+    },
+    "640": {
+        "word": "etna",
+        "frequency": 2.43
+    },
+    "641": {
+        "word": "etui",
+        "frequency": -1
+    },
+    "642": {
+        "word": "euro",
+        "frequency": 3.78
+    },
+    "643": {
+        "word": "evil",
+        "frequency": 4.86
+    },
+    "644": {
+        "word": "exam",
+        "frequency": 4.26
+    },
+    "645": {
+        "word": "exit",
+        "frequency": 4.26
+    },
+    "646": {
+        "word": "exon",
+        "frequency": -1
+    },
+    "647": {
+        "word": "expo",
+        "frequency": 3.03
+    },
+    "648": {
+        "word": "eyas",
+        "frequency": -1
+    },
+    "649": {
+        "word": "eyck",
+        "frequency": 1.9
+    },
+    "650": {
+        "word": "eyra",
+        "frequency": -1
+    },
+    "651": {
+        "word": "ezra",
+        "frequency": 3.05
+    },
+    "652": {
+        "word": "face",
+        "frequency": 5.49
+    },
+    "653": {
+        "word": "fact",
+        "frequency": 5.19
+    },
+    "654": {
+        "word": "fade",
+        "frequency": 3.76
+    },
+    "655": {
+        "word": "fado",
+        "frequency": 2.96
+    },
+    "656": {
+        "word": "fahd",
+        "frequency": -1
+    },
+    "657": {
+        "word": "fail",
+        "frequency": 4.41
+    },
+    "658": {
+        "word": "fain",
+        "frequency": 2.38
+    },
+    "659": {
+        "word": "fair",
+        "frequency": 4.89
+    },
+    "660": {
+        "word": "fake",
+        "frequency": 4.6
+    },
+    "661": {
+        "word": "fame",
+        "frequency": 4.04
+    },
+    "662": {
+        "word": "fang",
+        "frequency": 3.63
+    },
+    "663": {
+        "word": "farc",
+        "frequency": 2.52
+    },
+    "664": {
+        "word": "fare",
+        "frequency": 3.83
+    },
+    "665": {
+        "word": "farm",
+        "frequency": 4.51
+    },
+    "666": {
+        "word": "faro",
+        "frequency": 2.49
+    },
+    "667": {
+        "word": "fart",
+        "frequency": 3.99
+    },
+    "668": {
+        "word": "fast",
+        "frequency": 5.15
+    },
+    "669": {
+        "word": "fate",
+        "frequency": 4.59
+    },
+    "670": {
+        "word": "faun",
+        "frequency": 2.17
+    },
+    "671": {
+        "word": "faux",
+        "frequency": 2.84
+    },
+    "672": {
+        "word": "fawn",
+        "frequency": 2.76
+    },
+    "673": {
+        "word": "faze",
+        "frequency": 2.3
+    },
+    "674": {
+        "word": "fdic",
+        "frequency": -1
+    },
+    "675": {
+        "word": "fear",
+        "frequency": 4.98
+    },
+    "676": {
+        "word": "feat",
+        "frequency": 3.18
+    },
+    "677": {
+        "word": "felt",
+        "frequency": 5.11
+    },
+    "678": {
+        "word": "fema",
+        "frequency": 3.17
+    },
+    "679": {
+        "word": "fend",
+        "frequency": 3.13
+    },
+    "680": {
+        "word": "fern",
+        "frequency": 3.12
+    },
+    "681": {
+        "word": "feud",
+        "frequency": 3.04
+    },
+    "682": {
+        "word": "fiat",
+        "frequency": 3.05
+    },
+    "683": {
+        "word": "fica",
+        "frequency": 1.6
+    },
+    "684": {
+        "word": "fice",
+        "frequency": -1
+    },
+    "685": {
+        "word": "file",
+        "frequency": 4.61
+    },
+    "686": {
+        "word": "film",
+        "frequency": 5.16
+    },
+    "687": {
+        "word": "fils",
+        "frequency": 1.73
+    },
+    "688": {
+        "word": "find",
+        "frequency": 5.9
+    },
+    "689": {
+        "word": "fine",
+        "frequency": 5.75
+    },
+    "690": {
+        "word": "fink",
+        "frequency": 2.94
+    },
+    "691": {
+        "word": "fire",
+        "frequency": 5.3
+    },
+    "692": {
+        "word": "firm",
+        "frequency": 4.38
+    },
+    "693": {
+        "word": "fisa",
+        "frequency": -1
+    },
+    "694": {
+        "word": "fisc",
+        "frequency": -1
+    },
+    "695": {
+        "word": "fish",
+        "frequency": 4.97
+    },
+    "696": {
+        "word": "fist",
+        "frequency": 4.02
+    },
+    "697": {
+        "word": "five",
+        "frequency": 5.42
+    },
+    "698": {
+        "word": "flab",
+        "frequency": 2.5
+    },
+    "699": {
+        "word": "flag",
+        "frequency": 4.22
+    },
+    "700": {
+        "word": "flak",
+        "frequency": 2.77
+    },
+    "701": {
+        "word": "flan",
+        "frequency": 3.01
+    },
+    "702": {
+        "word": "flap",
+        "frequency": 3.37
+    },
+    "703": {
+        "word": "flat",
+        "frequency": 4.62
+    },
+    "704": {
+        "word": "flaw",
+        "frequency": 3.44
+    },
+    "705": {
+        "word": "flax",
+        "frequency": 2.4
+    },
+    "706": {
+        "word": "flay",
+        "frequency": 2.59
+    },
+    "707": {
+        "word": "flea",
+        "frequency": 3.53
+    },
+    "708": {
+        "word": "flex",
+        "frequency": 2.98
+    },
+    "709": {
+        "word": "flip",
+        "frequency": 4.07
+    },
+    "710": {
+        "word": "flit",
+        "frequency": 2.62
+    },
+    "711": {
+        "word": "flnc",
+        "frequency": -1
+    },
+    "712": {
+        "word": "floc",
+        "frequency": -1
+    },
+    "713": {
+        "word": "floe",
+        "frequency": 2.27
+    },
+    "714": {
+        "word": "flog",
+        "frequency": 2.79
+    },
+    "715": {
+        "word": "flop",
+        "frequency": 3.47
+    },
+    "716": {
+        "word": "flow",
+        "frequency": 4.21
+    },
+    "717": {
+        "word": "flub",
+        "frequency": 1.6
+    },
+    "718": {
+        "word": "flue",
+        "frequency": 2.2
+    },
+    "719": {
+        "word": "flux",
+        "frequency": 2.83
+    },
+    "720": {
+        "word": "fmri",
+        "frequency": -1
+    },
+    "721": {
+        "word": "fnma",
+        "frequency": -1
+    },
+    "722": {
+        "word": "foal",
+        "frequency": 2.67
+    },
+    "723": {
+        "word": "foam",
+        "frequency": 3.57
+    },
+    "724": {
+        "word": "fogy",
+        "frequency": 1.9
+    },
+    "725": {
+        "word": "fohn",
+        "frequency": -1
+    },
+    "726": {
+        "word": "foil",
+        "frequency": 3.19
+    },
+    "727": {
+        "word": "fold",
+        "frequency": 4.01
+    },
+    "728": {
+        "word": "folk",
+        "frequency": 4.06
+    },
+    "729": {
+        "word": "fond",
+        "frequency": 4.07
+    },
+    "730": {
+        "word": "font",
+        "frequency": 2.92
+    },
+    "731": {
+        "word": "ford",
+        "frequency": 4.01
+    },
+    "732": {
+        "word": "fore",
+        "frequency": 3.32
+    },
+    "733": {
+        "word": "fork",
+        "frequency": 3.82
+    },
+    "734": {
+        "word": "form",
+        "frequency": 4.77
+    },
+    "735": {
+        "word": "fort",
+        "frequency": 3.93
+    },
+    "736": {
+        "word": "fots",
+        "frequency": -1
+    },
+    "737": {
+        "word": "foul",
+        "frequency": 4.08
+    },
+    "738": {
+        "word": "four",
+        "frequency": 5.37
+    },
+    "739": {
+        "word": "fowl",
+        "frequency": 2.77
+    },
+    "740": {
+        "word": "foxy",
+        "frequency": 3.27
+    },
+    "741": {
+        "word": "frap",
+        "frequency": 1.74
+    },
+    "742": {
+        "word": "frat",
+        "frequency": 3.33
+    },
+    "743": {
+        "word": "frau",
+        "frequency": 3.28
+    },
+    "744": {
+        "word": "fray",
+        "frequency": 2.74
+    },
+    "745": {
+        "word": "fret",
+        "frequency": 3.21
+    },
+    "746": {
+        "word": "frey",
+        "frequency": 2.3
+    },
+    "747": {
+        "word": "frog",
+        "frequency": 4.01
+    },
+    "748": {
+        "word": "from",
+        "frequency": 6.35
+    },
+    "749": {
+        "word": "frye",
+        "frequency": 2.43
+    },
+    "750": {
+        "word": "fthm",
+        "frequency": -1
+    },
+    "751": {
+        "word": "fuck",
+        "frequency": 5.78
+    },
+    "752": {
+        "word": "fuel",
+        "frequency": 4.22
+    },
+    "753": {
+        "word": "fugo",
+        "frequency": -1
+    },
+    "754": {
+        "word": "fuji",
+        "frequency": 3.33
+    },
+    "755": {
+        "word": "fula",
+        "frequency": 1.74
+    },
+    "756": {
+        "word": "fume",
+        "frequency": 2.47
+    },
+    "757": {
+        "word": "fund",
+        "frequency": 4.03
+    },
+    "758": {
+        "word": "funk",
+        "frequency": 3.52
+    },
+    "759": {
+        "word": "furl",
+        "frequency": 2.48
+    },
+    "760": {
+        "word": "fury",
+        "frequency": 3.64
+    },
+    "761": {
+        "word": "fuse",
+        "frequency": 3.66
+    },
+    "762": {
+        "word": "fuze",
+        "frequency": 1.97
+    },
+    "763": {
+        "word": "gael",
+        "frequency": 3.56
+    },
+    "764": {
+        "word": "gain",
+        "frequency": 4.19
+    },
+    "765": {
+        "word": "gait",
+        "frequency": 2.87
+    },
+    "766": {
+        "word": "gale",
+        "frequency": 3.41
+    },
+    "767": {
+        "word": "game",
+        "frequency": 5.32
+    },
+    "768": {
+        "word": "gamp",
+        "frequency": -1
+    },
+    "769": {
+        "word": "gamy",
+        "frequency": 2.7
+    },
+    "770": {
+        "word": "gand",
+        "frequency": 1.82
+    },
+    "771": {
+        "word": "gaol",
+        "frequency": 2.24
+    },
+    "772": {
+        "word": "gape",
+        "frequency": 2.24
+    },
+    "773": {
+        "word": "garb",
+        "frequency": 2.62
+    },
+    "774": {
+        "word": "gari",
+        "frequency": -1
+    },
+    "775": {
+        "word": "gary",
+        "frequency": 4.29
+    },
+    "776": {
+        "word": "gash",
+        "frequency": 2.85
+    },
+    "777": {
+        "word": "gasp",
+        "frequency": 3.62
+    },
+    "778": {
+        "word": "gate",
+        "frequency": 4.55
+    },
+    "779": {
+        "word": "gaud",
+        "frequency": -1
+    },
+    "780": {
+        "word": "gaul",
+        "frequency": 3.21
+    },
+    "781": {
+        "word": "gaur",
+        "frequency": -1
+    },
+    "782": {
+        "word": "gawk",
+        "frequency": 2.3
+    },
+    "783": {
+        "word": "gawp",
+        "frequency": 1.73
+    },
+    "784": {
+        "word": "gaze",
+        "frequency": 3.74
+    },
+    "785": {
+        "word": "gbit",
+        "frequency": -1
+    },
+    "786": {
+        "word": "gcse",
+        "frequency": 1.82
+    },
+    "787": {
+        "word": "gean",
+        "frequency": -1
+    },
+    "788": {
+        "word": "gear",
+        "frequency": 4.21
+    },
+    "789": {
+        "word": "geld",
+        "frequency": 1.9
+    },
+    "790": {
+        "word": "gelt",
+        "frequency": 1.74
+    },
+    "791": {
+        "word": "genf",
+        "frequency": -1
+    },
+    "792": {
+        "word": "gens",
+        "frequency": 2.03
+    },
+    "793": {
+        "word": "gent",
+        "frequency": 3.12
+    },
+    "794": {
+        "word": "genu",
+        "frequency": -1
+    },
+    "795": {
+        "word": "germ",
+        "frequency": 2.97
+    },
+    "796": {
+        "word": "geta",
+        "frequency": 1.9
+    },
+    "797": {
+        "word": "geum",
+        "frequency": 3.17
+    },
+    "798": {
+        "word": "ghat",
+        "frequency": 2.12
+    },
+    "799": {
+        "word": "ghrf",
+        "frequency": -1
+    },
+    "800": {
+        "word": "gibe",
+        "frequency": 1.6
+    },
+    "801": {
+        "word": "gide",
+        "frequency": 1.73
+    },
+    "802": {
+        "word": "gift",
+        "frequency": 4.85
+    },
+    "803": {
+        "word": "gila",
+        "frequency": 2.57
+    },
+    "804": {
+        "word": "gild",
+        "frequency": 2.36
+    },
+    "805": {
+        "word": "gilt",
+        "frequency": 2.17
+    },
+    "806": {
+        "word": "gimp",
+        "frequency": 2.8
+    },
+    "807": {
+        "word": "gird",
+        "frequency": 1.97
+    },
+    "808": {
+        "word": "girl",
+        "frequency": 5.78
+    },
+    "809": {
+        "word": "giro",
+        "frequency": 2.63
+    },
+    "810": {
+        "word": "gish",
+        "frequency": 1.73
+    },
+    "811": {
+        "word": "gist",
+        "frequency": 2.78
+    },
+    "812": {
+        "word": "gita",
+        "frequency": 3.12
+    },
+    "813": {
+        "word": "give",
+        "frequency": 6.09
+    },
+    "814": {
+        "word": "giza",
+        "frequency": 2.88
+    },
+    "815": {
+        "word": "glad",
+        "frequency": 5.03
+    },
+    "816": {
+        "word": "glen",
+        "frequency": 3.69
+    },
+    "817": {
+        "word": "glia",
+        "frequency": -1
+    },
+    "818": {
+        "word": "glib",
+        "frequency": 2.57
+    },
+    "819": {
+        "word": "glis",
+        "frequency": -1
+    },
+    "820": {
+        "word": "glob",
+        "frequency": 2.3
+    },
+    "821": {
+        "word": "glom",
+        "frequency": 1.9
+    },
+    "822": {
+        "word": "glop",
+        "frequency": 1.82
+    },
+    "823": {
+        "word": "glow",
+        "frequency": 3.78
+    },
+    "824": {
+        "word": "glue",
+        "frequency": 3.81
+    },
+    "825": {
+        "word": "glum",
+        "frequency": 3.01
+    },
+    "826": {
+        "word": "glut",
+        "frequency": 2.08
+    },
+    "827": {
+        "word": "gnat",
+        "frequency": 2.3
+    },
+    "828": {
+        "word": "gnaw",
+        "frequency": 2.49
+    },
+    "829": {
+        "word": "goad",
+        "frequency": 2.17
+    },
+    "830": {
+        "word": "goal",
+        "frequency": 4.54
+    },
+    "831": {
+        "word": "goat",
+        "frequency": 4.11
+    },
+    "832": {
+        "word": "gobi",
+        "frequency": 2.73
+    },
+    "833": {
+        "word": "gobs",
+        "frequency": 2.33
+    },
+    "834": {
+        "word": "goby",
+        "frequency": 1.97
+    },
+    "835": {
+        "word": "goer",
+        "frequency": 2.47
+    },
+    "836": {
+        "word": "gold",
+        "frequency": 4.84
+    },
+    "837": {
+        "word": "golf",
+        "frequency": 4.23
+    },
+    "838": {
+        "word": "goma",
+        "frequency": 2.12
+    },
+    "839": {
+        "word": "gond",
+        "frequency": -1
+    },
+    "840": {
+        "word": "gone",
+        "frequency": 5.49
+    },
+    "841": {
+        "word": "gore",
+        "frequency": 3.47
+    },
+    "842": {
+        "word": "gory",
+        "frequency": 2.69
+    },
+    "843": {
+        "word": "goth",
+        "frequency": 3.03
+    },
+    "844": {
+        "word": "gout",
+        "frequency": 2.63
+    },
+    "845": {
+        "word": "gown",
+        "frequency": 3.66
+    },
+    "846": {
+        "word": "goya",
+        "frequency": 2.94
+    },
+    "847": {
+        "word": "grab",
+        "frequency": 4.78
+    },
+    "848": {
+        "word": "grad",
+        "frequency": 3.28
+    },
+    "849": {
+        "word": "graf",
+        "frequency": 2.79
+    },
+    "850": {
+        "word": "gram",
+        "frequency": 3.59
+    },
+    "851": {
+        "word": "gran",
+        "frequency": 3.69
+    },
+    "852": {
+        "word": "gray",
+        "frequency": 4.13
+    },
+    "853": {
+        "word": "graz",
+        "frequency": 2.54
+    },
+    "854": {
+        "word": "grey",
+        "frequency": 4.04
+    },
+    "855": {
+        "word": "grid",
+        "frequency": 3.64
+    },
+    "856": {
+        "word": "grim",
+        "frequency": 3.57
+    },
+    "857": {
+        "word": "grin",
+        "frequency": 3.38
+    },
+    "858": {
+        "word": "grip",
+        "frequency": 4.04
+    },
+    "859": {
+        "word": "gris",
+        "frequency": 2.27
+    },
+    "860": {
+        "word": "grit",
+        "frequency": 3.05
+    },
+    "861": {
+        "word": "grok",
+        "frequency": 1.73
+    },
+    "862": {
+        "word": "grot",
+        "frequency": 2.08
+    },
+    "863": {
+        "word": "grow",
+        "frequency": 4.82
+    },
+    "864": {
+        "word": "grub",
+        "frequency": 3.38
+    },
+    "865": {
+        "word": "grus",
+        "frequency": 1.6
+    },
+    "866": {
+        "word": "gspc",
+        "frequency": -1
+    },
+    "867": {
+        "word": "guam",
+        "frequency": 2.68
+    },
+    "868": {
+        "word": "guan",
+        "frequency": 3.35
+    },
+    "869": {
+        "word": "guar",
+        "frequency": 1.6
+    },
+    "870": {
+        "word": "guck",
+        "frequency": 1.73
+    },
+    "871": {
+        "word": "guib",
+        "frequency": -1
+    },
+    "872": {
+        "word": "gula",
+        "frequency": -1
+    },
+    "873": {
+        "word": "gulf",
+        "frequency": 3.66
+    },
+    "874": {
+        "word": "gulo",
+        "frequency": -1
+    },
+    "875": {
+        "word": "gulp",
+        "frequency": 3.17
+    },
+    "876": {
+        "word": "gunk",
+        "frequency": 2.4
+    },
+    "877": {
+        "word": "gush",
+        "frequency": 2.72
+    },
+    "878": {
+        "word": "gust",
+        "frequency": 2.94
+    },
+    "879": {
+        "word": "guts",
+        "frequency": 4.32
+    },
+    "880": {
+        "word": "gwyn",
+        "frequency": 2.56
+    },
+    "881": {
+        "word": "gybe",
+        "frequency": -1
+    },
+    "882": {
+        "word": "gyps",
+        "frequency": 1.74
+    },
+    "883": {
+        "word": "gyre",
+        "frequency": 1.73
+    },
+    "884": {
+        "word": "gyro",
+        "frequency": 2.57
+    },
+    "885": {
+        "word": "gywn",
+        "frequency": -1
+    },
+    "886": {
+        "word": "hack",
+        "frequency": 3.8
+    },
+    "887": {
+        "word": "hadj",
+        "frequency": 2.03
+    },
+    "888": {
+        "word": "haem",
+        "frequency": -1
+    },
+    "889": {
+        "word": "haft",
+        "frequency": 1.6
+    },
+    "890": {
+        "word": "haik",
+        "frequency": -1
+    },
+    "891": {
+        "word": "hail",
+        "frequency": 4.25
+    },
+    "892": {
+        "word": "hair",
+        "frequency": 5.2
+    },
+    "893": {
+        "word": "haji",
+        "frequency": 3.21
+    },
+    "894": {
+        "word": "hake",
+        "frequency": 2.2
+    },
+    "895": {
+        "word": "hale",
+        "frequency": 3.37
+    },
+    "896": {
+        "word": "half",
+        "frequency": 5.32
+    },
+    "897": {
+        "word": "halm",
+        "frequency": -1
+    },
+    "898": {
+        "word": "halo",
+        "frequency": 3.22
+    },
+    "899": {
+        "word": "hals",
+        "frequency": -1
+    },
+    "900": {
+        "word": "halt",
+        "frequency": 3.92
+    },
+    "901": {
+        "word": "hame",
+        "frequency": 1.73
+    },
+    "902": {
+        "word": "hand",
+        "frequency": 5.47
+    },
+    "903": {
+        "word": "hang",
+        "frequency": 5.13
+    },
+    "904": {
+        "word": "hani",
+        "frequency": 3.3
+    },
+    "905": {
+        "word": "hank",
+        "frequency": 4.12
+    },
+    "906": {
+        "word": "hard",
+        "frequency": 5.53
+    },
+    "907": {
+        "word": "hare",
+        "frequency": 3.64
+    },
+    "908": {
+        "word": "hark",
+        "frequency": 2.79
+    },
+    "909": {
+        "word": "harm",
+        "frequency": 4.48
+    },
+    "910": {
+        "word": "harp",
+        "frequency": 3.26
+    },
+    "911": {
+        "word": "hart",
+        "frequency": 3.5
+    },
+    "912": {
+        "word": "hasp",
+        "frequency": 2.19
+    },
+    "913": {
+        "word": "hate",
+        "frequency": 5.23
+    },
+    "914": {
+        "word": "haul",
+        "frequency": 3.74
+    },
+    "915": {
+        "word": "have",
+        "frequency": 6.82
+    },
+    "916": {
+        "word": "hawk",
+        "frequency": 3.79
+    },
+    "917": {
+        "word": "hays",
+        "frequency": 2.66
+    },
+    "918": {
+        "word": "haze",
+        "frequency": 3.26
+    },
+    "919": {
+        "word": "hazy",
+        "frequency": 2.89
+    },
+    "920": {
+        "word": "hdtv",
+        "frequency": 2.24
+    },
+    "921": {
+        "word": "head",
+        "frequency": 5.56
+    },
+    "922": {
+        "word": "heal",
+        "frequency": 4.07
+    },
+    "923": {
+        "word": "heap",
+        "frequency": 3.6
+    },
+    "924": {
+        "word": "hear",
+        "frequency": 5.69
+    },
+    "925": {
+        "word": "heat",
+        "frequency": 4.63
+    },
+    "926": {
+        "word": "hefa",
+        "frequency": -1
+    },
+    "927": {
+        "word": "heft",
+        "frequency": 1.97
+    },
+    "928": {
+        "word": "heir",
+        "frequency": 3.84
+    },
+    "929": {
+        "word": "hela",
+        "frequency": 2.24
+    },
+    "930": {
+        "word": "held",
+        "frequency": 4.62
+    },
+    "931": {
+        "word": "helm",
+        "frequency": 3.29
+    },
+    "932": {
+        "word": "help",
+        "frequency": 5.96
+    },
+    "933": {
+        "word": "hemp",
+        "frequency": 3.04
+    },
+    "934": {
+        "word": "hera",
+        "frequency": 3.2
+    },
+    "935": {
+        "word": "herb",
+        "frequency": 3.69
+    },
+    "936": {
+        "word": "herd",
+        "frequency": 3.89
+    },
+    "937": {
+        "word": "herm",
+        "frequency": 3
+    },
+    "938": {
+        "word": "hero",
+        "frequency": 4.74
+    },
+    "939": {
+        "word": "hewn",
+        "frequency": 2.3
+    },
+    "940": {
+        "word": "hick",
+        "frequency": 3.36
+    },
+    "941": {
+        "word": "hide",
+        "frequency": 4.94
+    },
+    "942": {
+        "word": "hike",
+        "frequency": 3.85
+    },
+    "943": {
+        "word": "hilo",
+        "frequency": 1.6
+    },
+    "944": {
+        "word": "hilt",
+        "frequency": 2.69
+    },
+    "945": {
+        "word": "hind",
+        "frequency": 3.27
+    },
+    "946": {
+        "word": "hint",
+        "frequency": 3.76
+    },
+    "947": {
+        "word": "hire",
+        "frequency": 4.32
+    },
+    "948": {
+        "word": "hive",
+        "frequency": 3.25
+    },
+    "949": {
+        "word": "hoar",
+        "frequency": -1
+    },
+    "950": {
+        "word": "hoax",
+        "frequency": 3.4
+    },
+    "951": {
+        "word": "hock",
+        "frequency": 3.12
+    },
+    "952": {
+        "word": "hodr",
+        "frequency": -1
+    },
+    "953": {
+        "word": "hoka",
+        "frequency": -1
+    },
+    "954": {
+        "word": "hold",
+        "frequency": 5.57
+    },
+    "955": {
+        "word": "hole",
+        "frequency": 4.78
+    },
+    "956": {
+        "word": "holy",
+        "frequency": 4.88
+    },
+    "957": {
+        "word": "home",
+        "frequency": 5.9
+    },
+    "958": {
+        "word": "homy",
+        "frequency": 1.9
+    },
+    "959": {
+        "word": "hone",
+        "frequency": 2.84
+    },
+    "960": {
+        "word": "honk",
+        "frequency": 3.4
+    },
+    "961": {
+        "word": "hope",
+        "frequency": 5.45
+    },
+    "962": {
+        "word": "hopi",
+        "frequency": 2.78
+    },
+    "963": {
+        "word": "hops",
+        "frequency": 2.9
+    },
+    "964": {
+        "word": "horn",
+        "frequency": 4.36
+    },
+    "965": {
+        "word": "hose",
+        "frequency": 3.69
+    },
+    "966": {
+        "word": "host",
+        "frequency": 4.12
+    },
+    "967": {
+        "word": "hour",
+        "frequency": 5.19
+    },
+    "968": {
+        "word": "howe",
+        "frequency": 2.87
+    },
+    "969": {
+        "word": "howl",
+        "frequency": 3.49
+    },
+    "970": {
+        "word": "hoya",
+        "frequency": 1.82
+    },
+    "971": {
+        "word": "html",
+        "frequency": 2.2
+    },
+    "972": {
+        "word": "huck",
+        "frequency": 2.96
+    },
+    "973": {
+        "word": "huge",
+        "frequency": 4.85
+    },
+    "974": {
+        "word": "hugo",
+        "frequency": 3.88
+    },
+    "975": {
+        "word": "huji",
+        "frequency": -1
+    },
+    "976": {
+        "word": "hula",
+        "frequency": 3.17
+    },
+    "977": {
+        "word": "hulk",
+        "frequency": 3.29
+    },
+    "978": {
+        "word": "hume",
+        "frequency": 2.63
+    },
+    "979": {
+        "word": "hump",
+        "frequency": 3.58
+    },
+    "980": {
+        "word": "hunk",
+        "frequency": 3.41
+    },
+    "981": {
+        "word": "hunt",
+        "frequency": 4.4
+    },
+    "982": {
+        "word": "hupa",
+        "frequency": -1
+    },
+    "983": {
+        "word": "hurl",
+        "frequency": 3.23
+    },
+    "984": {
+        "word": "hurt",
+        "frequency": 5.34
+    },
+    "985": {
+        "word": "husk",
+        "frequency": 2.68
+    },
+    "986": {
+        "word": "hyla",
+        "frequency": -1
+    },
+    "987": {
+        "word": "hymn",
+        "frequency": 3.16
+    },
+    "988": {
+        "word": "hype",
+        "frequency": 3.12
+    },
+    "989": {
+        "word": "hypo",
+        "frequency": 2.27
+    },
+    "990": {
+        "word": "iago",
+        "frequency": 2.2
+    },
+    "991": {
+        "word": "iamb",
+        "frequency": 2.08
+    },
+    "992": {
+        "word": "ibex",
+        "frequency": 2.38
+    },
+    "993": {
+        "word": "ibrd",
+        "frequency": -1
+    },
+    "994": {
+        "word": "icao",
+        "frequency": -1
+    },
+    "995": {
+        "word": "icbm",
+        "frequency": 2.2
+    },
+    "996": {
+        "word": "icky",
+        "frequency": 3.02
+    },
+    "997": {
+        "word": "icon",
+        "frequency": 3.39
+    },
+    "998": {
+        "word": "icsh",
+        "frequency": -1
+    },
+    "999": {
+        "word": "idea",
+        "frequency": 5.52
+    },
+    "1000": {
+        "word": "ides",
+        "frequency": 2.4
+    },
+    "1001": {
+        "word": "idle",
+        "frequency": 3.52
+    },
+    "1002": {
+        "word": "idly",
+        "frequency": 2.89
+    },
+    "1003": {
+        "word": "idol",
+        "frequency": 3.8
+    },
+    "1004": {
+        "word": "idun",
+        "frequency": -1
+    },
+    "1005": {
+        "word": "idyl",
+        "frequency": -1
+    },
+    "1006": {
+        "word": "igbo",
+        "frequency": -1
+    },
+    "1007": {
+        "word": "iglu",
+        "frequency": -1
+    },
+    "1008": {
+        "word": "ikon",
+        "frequency": -1
+    },
+    "1009": {
+        "word": "ilex",
+        "frequency": -1
+    },
+    "1010": {
+        "word": "inca",
+        "frequency": 2.78
+    },
+    "1011": {
+        "word": "inch",
+        "frequency": 4.16
+    },
+    "1012": {
+        "word": "info",
+        "frequency": 3.9
+    },
+    "1013": {
+        "word": "inga",
+        "frequency": 3.04
+    },
+    "1014": {
+        "word": "inge",
+        "frequency": 3.07
+    },
+    "1015": {
+        "word": "inka",
+        "frequency": 1.6
+    },
+    "1016": {
+        "word": "inky",
+        "frequency": 2.33
+    },
+    "1017": {
+        "word": "inla",
+        "frequency": -1
+    },
+    "1018": {
+        "word": "inst",
+        "frequency": 1.73
+    },
+    "1019": {
+        "word": "into",
+        "frequency": 5.88
+    },
+    "1020": {
+        "word": "iota",
+        "frequency": 2.68
+    },
+    "1021": {
+        "word": "iowa",
+        "frequency": 3.2
+    },
+    "1022": {
+        "word": "ipod",
+        "frequency": 3.3
+    },
+    "1023": {
+        "word": "irak",
+        "frequency": 2.2
+    },
+    "1024": {
+        "word": "iran",
+        "frequency": 3.57
+    },
+    "1025": {
+        "word": "iraq",
+        "frequency": 4.16
+    },
+    "1026": {
+        "word": "iron",
+        "frequency": 4.41
+    },
+    "1027": {
+        "word": "isle",
+        "frequency": 3.21
+    },
+    "1028": {
+        "word": "itch",
+        "frequency": 3.48
+    },
+    "1029": {
+        "word": "item",
+        "frequency": 4.06
+    },
+    "1030": {
+        "word": "ives",
+        "frequency": 2.94
+    },
+    "1031": {
+        "word": "ivry",
+        "frequency": 1.73
+    },
+    "1032": {
+        "word": "iyar",
+        "frequency": -1
+    },
+    "1033": {
+        "word": "izar",
+        "frequency": -1
+    },
+    "1034": {
+        "word": "jack",
+        "frequency": 5.11
+    },
+    "1035": {
+        "word": "jade",
+        "frequency": 3.77
+    },
+    "1036": {
+        "word": "jail",
+        "frequency": 4.85
+    },
+    "1037": {
+        "word": "jain",
+        "frequency": 2.59
+    },
+    "1038": {
+        "word": "jamb",
+        "frequency": 2.02
+    },
+    "1039": {
+        "word": "jape",
+        "frequency": 2.31
+    },
+    "1040": {
+        "word": "jati",
+        "frequency": -1
+    },
+    "1041": {
+        "word": "jdam",
+        "frequency": -1
+    },
+    "1042": {
+        "word": "jean",
+        "frequency": 4.49
+    },
+    "1043": {
+        "word": "jena",
+        "frequency": 2.69
+    },
+    "1044": {
+        "word": "jerk",
+        "frequency": 4.61
+    },
+    "1045": {
+        "word": "jest",
+        "frequency": 3.05
+    },
+    "1046": {
+        "word": "jeth",
+        "frequency": -1
+    },
+    "1047": {
+        "word": "jiao",
+        "frequency": 2.17
+    },
+    "1048": {
+        "word": "jibe",
+        "frequency": 2.3
+    },
+    "1049": {
+        "word": "jilt",
+        "frequency": 1.73
+    },
+    "1050": {
+        "word": "jinx",
+        "frequency": 3.56
+    },
+    "1051": {
+        "word": "jird",
+        "frequency": -1
+    },
+    "1052": {
+        "word": "jive",
+        "frequency": 3.03
+    },
+    "1053": {
+        "word": "jock",
+        "frequency": 3.55
+    },
+    "1054": {
+        "word": "joel",
+        "frequency": 3.72
+    },
+    "1055": {
+        "word": "john",
+        "frequency": 5.14
+    },
+    "1056": {
+        "word": "join",
+        "frequency": 4.95
+    },
+    "1057": {
+        "word": "joke",
+        "frequency": 4.88
+    },
+    "1058": {
+        "word": "jolt",
+        "frequency": 3.01
+    },
+    "1059": {
+        "word": "jong",
+        "frequency": 3.77
+    },
+    "1060": {
+        "word": "josh",
+        "frequency": 4.29
+    },
+    "1061": {
+        "word": "jove",
+        "frequency": 2.3
+    },
+    "1062": {
+        "word": "jowl",
+        "frequency": 1.73
+    },
+    "1063": {
+        "word": "juda",
+        "frequency": -1
+    },
+    "1064": {
+        "word": "jude",
+        "frequency": 3.55
+    },
+    "1065": {
+        "word": "judo",
+        "frequency": 3.3
+    },
+    "1066": {
+        "word": "juke",
+        "frequency": 2.36
+    },
+    "1067": {
+        "word": "july",
+        "frequency": 4.19
+    },
+    "1068": {
+        "word": "jump",
+        "frequency": 4.85
+    },
+    "1069": {
+        "word": "june",
+        "frequency": 4.31
+    },
+    "1070": {
+        "word": "jung",
+        "frequency": 4.31
+    },
+    "1071": {
+        "word": "junk",
+        "frequency": 4.15
+    },
+    "1072": {
+        "word": "juno",
+        "frequency": 3.33
+    },
+    "1073": {
+        "word": "jury",
+        "frequency": 4.31
+    },
+    "1074": {
+        "word": "just",
+        "frequency": 6.62
+    },
+    "1075": {
+        "word": "jute",
+        "frequency": 2.27
+    },
+    "1076": {
+        "word": "jynx",
+        "frequency": -1
+    },
+    "1077": {
+        "word": "kach",
+        "frequency": -1
+    },
+    "1078": {
+        "word": "kahn",
+        "frequency": 3.06
+    },
+    "1079": {
+        "word": "kail",
+        "frequency": 2.48
+    },
+    "1080": {
+        "word": "kale",
+        "frequency": 2.84
+    },
+    "1081": {
+        "word": "kali",
+        "frequency": 3.26
+    },
+    "1082": {
+        "word": "kami",
+        "frequency": 2.3
+    },
+    "1083": {
+        "word": "kant",
+        "frequency": 2.72
+    },
+    "1084": {
+        "word": "kaon",
+        "frequency": -1
+    },
+    "1085": {
+        "word": "kaph",
+        "frequency": 2.02
+    },
+    "1086": {
+        "word": "kayo",
+        "frequency": 2.43
+    },
+    "1087": {
+        "word": "kbit",
+        "frequency": -1
+    },
+    "1088": {
+        "word": "kean",
+        "frequency": 2.08
+    },
+    "1089": {
+        "word": "kelp",
+        "frequency": 2.93
+    },
+    "1090": {
+        "word": "kelt",
+        "frequency": -1
+    },
+    "1091": {
+        "word": "keno",
+        "frequency": 2.38
+    },
+    "1092": {
+        "word": "kent",
+        "frequency": 3.68
+    },
+    "1093": {
+        "word": "kepi",
+        "frequency": 2.02
+    },
+    "1094": {
+        "word": "kept",
+        "frequency": 4.98
+    },
+    "1095": {
+        "word": "kera",
+        "frequency": 1.6
+    },
+    "1096": {
+        "word": "kerb",
+        "frequency": 2.36
+    },
+    "1097": {
+        "word": "kern",
+        "frequency": 2.68
+    },
+    "1098": {
+        "word": "khan",
+        "frequency": 4.04
+    },
+    "1099": {
+        "word": "khat",
+        "frequency": 1.6
+    },
+    "1100": {
+        "word": "kibe",
+        "frequency": -1
+    },
+    "1101": {
+        "word": "kiev",
+        "frequency": 3.1
+    },
+    "1102": {
+        "word": "kiln",
+        "frequency": 2.45
+    },
+    "1103": {
+        "word": "kilo",
+        "frequency": 3.59
+    },
+    "1104": {
+        "word": "kilt",
+        "frequency": 2.67
+    },
+    "1105": {
+        "word": "kina",
+        "frequency": 1.6
+    },
+    "1106": {
+        "word": "kind",
+        "frequency": 5.68
+    },
+    "1107": {
+        "word": "kine",
+        "frequency": 2.02
+    },
+    "1108": {
+        "word": "king",
+        "frequency": 5.16
+    },
+    "1109": {
+        "word": "kino",
+        "frequency": 2.27
+    },
+    "1110": {
+        "word": "kite",
+        "frequency": 3.54
+    },
+    "1111": {
+        "word": "kith",
+        "frequency": 1.82
+    },
+    "1112": {
+        "word": "kivu",
+        "frequency": 1.82
+    },
+    "1113": {
+        "word": "klan",
+        "frequency": 3.08
+    },
+    "1114": {
+        "word": "knap",
+        "frequency": 1.6
+    },
+    "1115": {
+        "word": "knit",
+        "frequency": 3.43
+    },
+    "1116": {
+        "word": "knob",
+        "frequency": 3.35
+    },
+    "1117": {
+        "word": "knot",
+        "frequency": 3.8
+    },
+    "1118": {
+        "word": "know",
+        "frequency": 6.71
+    },
+    "1119": {
+        "word": "knox",
+        "frequency": 3.2
+    },
+    "1120": {
+        "word": "knut",
+        "frequency": 3.01
+    },
+    "1121": {
+        "word": "koan",
+        "frequency": 1.9
+    },
+    "1122": {
+        "word": "kobe",
+        "frequency": 3.3
+    },
+    "1123": {
+        "word": "koch",
+        "frequency": 2.69
+    },
+    "1124": {
+        "word": "kohl",
+        "frequency": 2.96
+    },
+    "1125": {
+        "word": "kola",
+        "frequency": 2.27
+    },
+    "1126": {
+        "word": "koln",
+        "frequency": 1.73
+    },
+    "1127": {
+        "word": "komi",
+        "frequency": -1
+    },
+    "1128": {
+        "word": "kore",
+        "frequency": 1.6
+    },
+    "1129": {
+        "word": "kota",
+        "frequency": 2.24
+    },
+    "1130": {
+        "word": "kris",
+        "frequency": 3.21
+    },
+    "1131": {
+        "word": "kuhn",
+        "frequency": 1.97
+    },
+    "1132": {
+        "word": "kura",
+        "frequency": 1.9
+    },
+    "1133": {
+        "word": "kurd",
+        "frequency": 2.59
+    },
+    "1134": {
+        "word": "kuvi",
+        "frequency": -1
+    },
+    "1135": {
+        "word": "kwai",
+        "frequency": 3.02
+    },
+    "1136": {
+        "word": "kyat",
+        "frequency": -1
+    },
+    "1137": {
+        "word": "lace",
+        "frequency": 3.42
+    },
+    "1138": {
+        "word": "lack",
+        "frequency": 4.36
+    },
+    "1139": {
+        "word": "lacy",
+        "frequency": 2.56
+    },
+    "1140": {
+        "word": "lade",
+        "frequency": 2.45
+    },
+    "1141": {
+        "word": "lady",
+        "frequency": 5.23
+    },
+    "1142": {
+        "word": "lahu",
+        "frequency": -1
+    },
+    "1143": {
+        "word": "laic",
+        "frequency": -1
+    },
+    "1144": {
+        "word": "laid",
+        "frequency": 4.46
+    },
+    "1145": {
+        "word": "lair",
+        "frequency": 3.4
+    },
+    "1146": {
+        "word": "lake",
+        "frequency": 4.55
+    },
+    "1147": {
+        "word": "lakh",
+        "frequency": 3.41
+    },
+    "1148": {
+        "word": "lamb",
+        "frequency": 3.99
+    },
+    "1149": {
+        "word": "lame",
+        "frequency": 4.02
+    },
+    "1150": {
+        "word": "lamp",
+        "frequency": 4.05
+    },
+    "1151": {
+        "word": "land",
+        "frequency": 5.05
+    },
+    "1152": {
+        "word": "lane",
+        "frequency": 4.07
+    },
+    "1153": {
+        "word": "lank",
+        "frequency": 1.73
+    },
+    "1154": {
+        "word": "laos",
+        "frequency": 2.54
+    },
+    "1155": {
+        "word": "lard",
+        "frequency": 3.09
+    },
+    "1156": {
+        "word": "lari",
+        "frequency": 2.2
+    },
+    "1157": {
+        "word": "lark",
+        "frequency": 3.12
+    },
+    "1158": {
+        "word": "larn",
+        "frequency": 2.31
+    },
+    "1159": {
+        "word": "lash",
+        "frequency": 3.03
+    },
+    "1160": {
+        "word": "last",
+        "frequency": 5.82
+    },
+    "1161": {
+        "word": "late",
+        "frequency": 5.46
+    },
+    "1162": {
+        "word": "lath",
+        "frequency": 2.19
+    },
+    "1163": {
+        "word": "lats",
+        "frequency": 2.03
+    },
+    "1164": {
+        "word": "laud",
+        "frequency": 2.12
+    },
+    "1165": {
+        "word": "lave",
+        "frequency": 2.27
+    },
+    "1166": {
+        "word": "lawn",
+        "frequency": 3.86
+    },
+    "1167": {
+        "word": "laws",
+        "frequency": 4.35
+    },
+    "1168": {
+        "word": "laze",
+        "frequency": 2.47
+    },
+    "1169": {
+        "word": "lazy",
+        "frequency": 4.16
+    },
+    "1170": {
+        "word": "lead",
+        "frequency": 4.89
+    },
+    "1171": {
+        "word": "leaf",
+        "frequency": 3.95
+    },
+    "1172": {
+        "word": "leak",
+        "frequency": 4.02
+    },
+    "1173": {
+        "word": "lean",
+        "frequency": 3.97
+    },
+    "1174": {
+        "word": "leap",
+        "frequency": 3.8
+    },
+    "1175": {
+        "word": "lear",
+        "frequency": 3.07
+    },
+    "1176": {
+        "word": "lech",
+        "frequency": 2.24
+    },
+    "1177": {
+        "word": "leda",
+        "frequency": 2.27
+    },
+    "1178": {
+        "word": "left",
+        "frequency": 5.72
+    },
+    "1179": {
+        "word": "lego",
+        "frequency": 2.77
+    },
+    "1180": {
+        "word": "legs",
+        "frequency": 4.83
+    },
+    "1181": {
+        "word": "lena",
+        "frequency": 3.93
+    },
+    "1182": {
+        "word": "lend",
+        "frequency": 4.3
+    },
+    "1183": {
+        "word": "lens",
+        "frequency": 3.75
+    },
+    "1184": {
+        "word": "lent",
+        "frequency": 3.8
+    },
+    "1185": {
+        "word": "leon",
+        "frequency": 4.07
+    },
+    "1186": {
+        "word": "leto",
+        "frequency": 2.36
+    },
+    "1187": {
+        "word": "levi",
+        "frequency": 3.12
+    },
+    "1188": {
+        "word": "levy",
+        "frequency": 2.95
+    },
+    "1189": {
+        "word": "lewd",
+        "frequency": 2.88
+    },
+    "1190": {
+        "word": "liao",
+        "frequency": 2.66
+    },
+    "1191": {
+        "word": "liar",
+        "frequency": 4.53
+    },
+    "1192": {
+        "word": "lick",
+        "frequency": 4.06
+    },
+    "1193": {
+        "word": "lido",
+        "frequency": 2.78
+    },
+    "1194": {
+        "word": "lied",
+        "frequency": 4.56
+    },
+    "1195": {
+        "word": "lief",
+        "frequency": 1.97
+    },
+    "1196": {
+        "word": "lien",
+        "frequency": 2.9
+    },
+    "1197": {
+        "word": "lieu",
+        "frequency": 2.68
+    },
+    "1198": {
+        "word": "life",
+        "frequency": 5.95
+    },
+    "1199": {
+        "word": "lifo",
+        "frequency": -1
+    },
+    "1200": {
+        "word": "lift",
+        "frequency": 4.66
+    },
+    "1201": {
+        "word": "like",
+        "frequency": 6.6
+    },
+    "1202": {
+        "word": "lima",
+        "frequency": 3.32
+    },
+    "1203": {
+        "word": "limb",
+        "frequency": 3.49
+    },
+    "1204": {
+        "word": "lime",
+        "frequency": 3.5
+    },
+    "1205": {
+        "word": "limn",
+        "frequency": -1
+    },
+    "1206": {
+        "word": "limo",
+        "frequency": 3.73
+    },
+    "1207": {
+        "word": "limp",
+        "frequency": 3.6
+    },
+    "1208": {
+        "word": "lind",
+        "frequency": 2.66
+    },
+    "1209": {
+        "word": "line",
+        "frequency": 5.22
+    },
+    "1210": {
+        "word": "ling",
+        "frequency": 4.15
+    },
+    "1211": {
+        "word": "link",
+        "frequency": 4.15
+    },
+    "1212": {
+        "word": "lino",
+        "frequency": 3.2
+    },
+    "1213": {
+        "word": "lint",
+        "frequency": 2.72
+    },
+    "1214": {
+        "word": "linz",
+        "frequency": 2.27
+    },
+    "1215": {
+        "word": "lion",
+        "frequency": 4.26
+    },
+    "1216": {
+        "word": "lira",
+        "frequency": 3.11
+    },
+    "1217": {
+        "word": "lisp",
+        "frequency": 2.59
+    },
+    "1218": {
+        "word": "list",
+        "frequency": 4.83
+    },
+    "1219": {
+        "word": "lisu",
+        "frequency": -1
+    },
+    "1220": {
+        "word": "lite",
+        "frequency": 2.7
+    },
+    "1221": {
+        "word": "live",
+        "frequency": 5.63
+    },
+    "1222": {
+        "word": "livy",
+        "frequency": 2.03
+    },
+    "1223": {
+        "word": "liza",
+        "frequency": 3.52
+    },
+    "1224": {
+        "word": "load",
+        "frequency": 4.41
+    },
+    "1225": {
+        "word": "loaf",
+        "frequency": 3.43
+    },
+    "1226": {
+        "word": "loam",
+        "frequency": 2.12
+    },
+    "1227": {
+        "word": "loan",
+        "frequency": 4.38
+    },
+    "1228": {
+        "word": "lobe",
+        "frequency": 3.32
+    },
+    "1229": {
+        "word": "loch",
+        "frequency": 3.14
+    },
+    "1230": {
+        "word": "lock",
+        "frequency": 4.71
+    },
+    "1231": {
+        "word": "lode",
+        "frequency": 2.76
+    },
+    "1232": {
+        "word": "lodz",
+        "frequency": 2.43
+    },
+    "1233": {
+        "word": "loeb",
+        "frequency": 2.2
+    },
+    "1234": {
+        "word": "loft",
+        "frequency": 3.49
+    },
+    "1235": {
+        "word": "loge",
+        "frequency": 1.73
+    },
+    "1236": {
+        "word": "logy",
+        "frequency": 2.02
+    },
+    "1237": {
+        "word": "loin",
+        "frequency": 2.7
+    },
+    "1238": {
+        "word": "loir",
+        "frequency": 1.9
+    },
+    "1239": {
+        "word": "loki",
+        "frequency": 2.76
+    },
+    "1240": {
+        "word": "lome",
+        "frequency": -1
+    },
+    "1241": {
+        "word": "lone",
+        "frequency": 3.65
+    },
+    "1242": {
+        "word": "long",
+        "frequency": 5.83
+    },
+    "1243": {
+        "word": "lope",
+        "frequency": 2.4
+    },
+    "1244": {
+        "word": "lord",
+        "frequency": 5.21
+    },
+    "1245": {
+        "word": "lore",
+        "frequency": 2.82
+    },
+    "1246": {
+        "word": "lory",
+        "frequency": 2.03
+    },
+    "1247": {
+        "word": "lose",
+        "frequency": 5.23
+    },
+    "1248": {
+        "word": "lost",
+        "frequency": 5.52
+    },
+    "1249": {
+        "word": "lota",
+        "frequency": 2.68
+    },
+    "1250": {
+        "word": "loth",
+        "frequency": -1
+    },
+    "1251": {
+        "word": "loti",
+        "frequency": -1
+    },
+    "1252": {
+        "word": "lots",
+        "frequency": 4.87
+    },
+    "1253": {
+        "word": "loud",
+        "frequency": 4.6
+    },
+    "1254": {
+        "word": "lour",
+        "frequency": 2.31
+    },
+    "1255": {
+        "word": "lout",
+        "frequency": 2.76
+    },
+    "1256": {
+        "word": "love",
+        "frequency": 6.1
+    },
+    "1257": {
+        "word": "luba",
+        "frequency": 2.24
+    },
+    "1258": {
+        "word": "lube",
+        "frequency": 3.11
+    },
+    "1259": {
+        "word": "luce",
+        "frequency": 3.28
+    },
+    "1260": {
+        "word": "luck",
+        "frequency": 5.14
+    },
+    "1261": {
+        "word": "lucy",
+        "frequency": 4.37
+    },
+    "1262": {
+        "word": "luda",
+        "frequency": -1
+    },
+    "1263": {
+        "word": "ludo",
+        "frequency": 3.3
+    },
+    "1264": {
+        "word": "lues",
+        "frequency": -1
+    },
+    "1265": {
+        "word": "luge",
+        "frequency": 2.12
+    },
+    "1266": {
+        "word": "lugh",
+        "frequency": -1
+    },
+    "1267": {
+        "word": "luik",
+        "frequency": 1.82
+    },
+    "1268": {
+        "word": "luke",
+        "frequency": 4.26
+    },
+    "1269": {
+        "word": "lump",
+        "frequency": 3.66
+    },
+    "1270": {
+        "word": "luna",
+        "frequency": 3.7
+    },
+    "1271": {
+        "word": "lund",
+        "frequency": 2.83
+    },
+    "1272": {
+        "word": "lung",
+        "frequency": 4
+    },
+    "1273": {
+        "word": "lunt",
+        "frequency": 1.9
+    },
+    "1274": {
+        "word": "lure",
+        "frequency": 3.67
+    },
+    "1275": {
+        "word": "lurk",
+        "frequency": 2.72
+    },
+    "1276": {
+        "word": "lush",
+        "frequency": 3.19
+    },
+    "1277": {
+        "word": "lust",
+        "frequency": 3.81
+    },
+    "1278": {
+        "word": "luta",
+        "frequency": -1
+    },
+    "1279": {
+        "word": "lute",
+        "frequency": 2.77
+    },
+    "1280": {
+        "word": "luxe",
+        "frequency": 2.08
+    },
+    "1281": {
+        "word": "lwei",
+        "frequency": -1
+    },
+    "1282": {
+        "word": "lxiv",
+        "frequency": -1
+    },
+    "1283": {
+        "word": "lxvi",
+        "frequency": -1
+    },
+    "1284": {
+        "word": "lynx",
+        "frequency": 2.63
+    },
+    "1285": {
+        "word": "lyon",
+        "frequency": 3.32
+    },
+    "1286": {
+        "word": "lyra",
+        "frequency": 3.22
+    },
+    "1287": {
+        "word": "lyre",
+        "frequency": 2.6
+    },
+    "1288": {
+        "word": "mace",
+        "frequency": 3.25
+    },
+    "1289": {
+        "word": "mach",
+        "frequency": 2.81
+    },
+    "1290": {
+        "word": "mack",
+        "frequency": 3.69
+    },
+    "1291": {
+        "word": "made",
+        "frequency": 5.74
+    },
+    "1292": {
+        "word": "magh",
+        "frequency": -1
+    },
+    "1293": {
+        "word": "magi",
+        "frequency": 2.49
+    },
+    "1294": {
+        "word": "maid",
+        "frequency": 4.25
+    },
+    "1295": {
+        "word": "mail",
+        "frequency": 4.58
+    },
+    "1296": {
+        "word": "main",
+        "frequency": 4.67
+    },
+    "1297": {
+        "word": "make",
+        "frequency": 6.11
+    },
+    "1298": {
+        "word": "mako",
+        "frequency": 2.88
+    },
+    "1299": {
+        "word": "male",
+        "frequency": 4.57
+    },
+    "1300": {
+        "word": "mali",
+        "frequency": 3.31
+    },
+    "1301": {
+        "word": "mals",
+        "frequency": -1
+    },
+    "1302": {
+        "word": "malt",
+        "frequency": 3.26
+    },
+    "1303": {
+        "word": "mane",
+        "frequency": 3.05
+    },
+    "1304": {
+        "word": "manx",
+        "frequency": 2.02
+    },
+    "1305": {
+        "word": "many",
+        "frequency": 5.68
+    },
+    "1306": {
+        "word": "maoi",
+        "frequency": -1
+    },
+    "1307": {
+        "word": "marc",
+        "frequency": 3.96
+    },
+    "1308": {
+        "word": "mare",
+        "frequency": 3.51
+    },
+    "1309": {
+        "word": "mari",
+        "frequency": 3.57
+    },
+    "1310": {
+        "word": "mark",
+        "frequency": 4.85
+    },
+    "1311": {
+        "word": "marl",
+        "frequency": 2.3
+    },
+    "1312": {
+        "word": "mars",
+        "frequency": 4.19
+    },
+    "1313": {
+        "word": "mart",
+        "frequency": 3.64
+    },
+    "1314": {
+        "word": "marx",
+        "frequency": 3.43
+    },
+    "1315": {
+        "word": "mary",
+        "frequency": 4.82
+    },
+    "1316": {
+        "word": "mash",
+        "frequency": 3.12
+    },
+    "1317": {
+        "word": "mask",
+        "frequency": 4.29
+    },
+    "1318": {
+        "word": "mast",
+        "frequency": 3.26
+    },
+    "1319": {
+        "word": "mate",
+        "frequency": 4.84
+    },
+    "1320": {
+        "word": "math",
+        "frequency": 4.16
+    },
+    "1321": {
+        "word": "maui",
+        "frequency": 2.89
+    },
+    "1322": {
+        "word": "maul",
+        "frequency": 2.36
+    },
+    "1323": {
+        "word": "maxi",
+        "frequency": 3.33
+    },
+    "1324": {
+        "word": "mayo",
+        "frequency": 3.31
+    },
+    "1325": {
+        "word": "mays",
+        "frequency": 3.19
+    },
+    "1326": {
+        "word": "maze",
+        "frequency": 3.4
+    },
+    "1327": {
+        "word": "mazy",
+        "frequency": -1
+    },
+    "1328": {
+        "word": "mbit",
+        "frequency": -1
+    },
+    "1329": {
+        "word": "mcia",
+        "frequency": -1
+    },
+    "1330": {
+        "word": "mdiv",
+        "frequency": -1
+    },
+    "1331": {
+        "word": "mead",
+        "frequency": 3.21
+    },
+    "1332": {
+        "word": "meal",
+        "frequency": 4.52
+    },
+    "1333": {
+        "word": "mean",
+        "frequency": 6
+    },
+    "1334": {
+        "word": "meat",
+        "frequency": 4.73
+    },
+    "1335": {
+        "word": "meir",
+        "frequency": 3.15
+    },
+    "1336": {
+        "word": "meld",
+        "frequency": 2.56
+    },
+    "1337": {
+        "word": "melt",
+        "frequency": 3.87
+    },
+    "1338": {
+        "word": "mend",
+        "frequency": 3.51
+    },
+    "1339": {
+        "word": "menu",
+        "frequency": 4.01
+    },
+    "1340": {
+        "word": "meow",
+        "frequency": 3.41
+    },
+    "1341": {
+        "word": "merl",
+        "frequency": 2.45
+    },
+    "1342": {
+        "word": "mesa",
+        "frequency": 2.97
+    },
+    "1343": {
+        "word": "mesh",
+        "frequency": 2.87
+    },
+    "1344": {
+        "word": "meth",
+        "frequency": 3.52
+    },
+    "1345": {
+        "word": "mewl",
+        "frequency": 1.74
+    },
+    "1346": {
+        "word": "mews",
+        "frequency": 2.2
+    },
+    "1347": {
+        "word": "miao",
+        "frequency": 3.14
+    },
+    "1348": {
+        "word": "mica",
+        "frequency": 2.4
+    },
+    "1349": {
+        "word": "mick",
+        "frequency": 4.07
+    },
+    "1350": {
+        "word": "mien",
+        "frequency": 1.82
+    },
+    "1351": {
+        "word": "mike",
+        "frequency": 4.76
+    },
+    "1352": {
+        "word": "mild",
+        "frequency": 3.67
+    },
+    "1353": {
+        "word": "mile",
+        "frequency": 4.23
+    },
+    "1354": {
+        "word": "milk",
+        "frequency": 4.71
+    },
+    "1355": {
+        "word": "milo",
+        "frequency": 3.82
+    },
+    "1356": {
+        "word": "milt",
+        "frequency": 2.52
+    },
+    "1357": {
+        "word": "mina",
+        "frequency": 3.74
+    },
+    "1358": {
+        "word": "mind",
+        "frequency": 5.6
+    },
+    "1359": {
+        "word": "mine",
+        "frequency": 5.39
+    },
+    "1360": {
+        "word": "ming",
+        "frequency": 4.03
+    },
+    "1361": {
+        "word": "mink",
+        "frequency": 3.24
+    },
+    "1362": {
+        "word": "mint",
+        "frequency": 3.69
+    },
+    "1363": {
+        "word": "minx",
+        "frequency": 2.9
+    },
+    "1364": {
+        "word": "mips",
+        "frequency": -1
+    },
+    "1365": {
+        "word": "mire",
+        "frequency": 2.78
+    },
+    "1366": {
+        "word": "miro",
+        "frequency": 3.2
+    },
+    "1367": {
+        "word": "miry",
+        "frequency": -1
+    },
+    "1368": {
+        "word": "miso",
+        "frequency": 3.09
+    },
+    "1369": {
+        "word": "mist",
+        "frequency": 3.48
+    },
+    "1370": {
+        "word": "mite",
+        "frequency": 2.92
+    },
+    "1371": {
+        "word": "moan",
+        "frequency": 3.6
+    },
+    "1372": {
+        "word": "moat",
+        "frequency": 2.97
+    },
+    "1373": {
+        "word": "mock",
+        "frequency": 3.69
+    },
+    "1374": {
+        "word": "mode",
+        "frequency": 3.66
+    },
+    "1375": {
+        "word": "mods",
+        "frequency": 2.08
+    },
+    "1376": {
+        "word": "moil",
+        "frequency": -1
+    },
+    "1377": {
+        "word": "moke",
+        "frequency": 2.24
+    },
+    "1378": {
+        "word": "mola",
+        "frequency": 1.97
+    },
+    "1379": {
+        "word": "mold",
+        "frequency": 3.49
+    },
+    "1380": {
+        "word": "mole",
+        "frequency": 3.95
+    },
+    "1381": {
+        "word": "molt",
+        "frequency": 2.03
+    },
+    "1382": {
+        "word": "mona",
+        "frequency": 3.95
+    },
+    "1383": {
+        "word": "monk",
+        "frequency": 4.3
+    },
+    "1384": {
+        "word": "mons",
+        "frequency": 2.45
+    },
+    "1385": {
+        "word": "mope",
+        "frequency": 2.82
+    },
+    "1386": {
+        "word": "more",
+        "frequency": 6.13
+    },
+    "1387": {
+        "word": "morn",
+        "frequency": 2.93
+    },
+    "1388": {
+        "word": "mors",
+        "frequency": 1.6
+    },
+    "1389": {
+        "word": "mosh",
+        "frequency": 2.36
+    },
+    "1390": {
+        "word": "most",
+        "frequency": 5.56
+    },
+    "1391": {
+        "word": "mote",
+        "frequency": 1.97
+    },
+    "1392": {
+        "word": "moth",
+        "frequency": 3.39
+    },
+    "1393": {
+        "word": "moue",
+        "frequency": -1
+    },
+    "1394": {
+        "word": "move",
+        "frequency": 5.63
+    },
+    "1395": {
+        "word": "mown",
+        "frequency": 1.82
+    },
+    "1396": {
+        "word": "mpeg",
+        "frequency": 2.68
+    },
+    "1397": {
+        "word": "mrna",
+        "frequency": -1
+    },
+    "1398": {
+        "word": "mrta",
+        "frequency": -1
+    },
+    "1399": {
+        "word": "msec",
+        "frequency": -1
+    },
+    "1400": {
+        "word": "much",
+        "frequency": 6
+    },
+    "1401": {
+        "word": "muck",
+        "frequency": 3.3
+    },
+    "1402": {
+        "word": "muir",
+        "frequency": 2.64
+    },
+    "1403": {
+        "word": "mule",
+        "frequency": 3.59
+    },
+    "1404": {
+        "word": "mung",
+        "frequency": 2.43
+    },
+    "1405": {
+        "word": "munj",
+        "frequency": -1
+    },
+    "1406": {
+        "word": "muon",
+        "frequency": 1.73
+    },
+    "1407": {
+        "word": "murk",
+        "frequency": 2.08
+    },
+    "1408": {
+        "word": "musa",
+        "frequency": 3.23
+    },
+    "1409": {
+        "word": "musd",
+        "frequency": -1
+    },
+    "1410": {
+        "word": "muse",
+        "frequency": 3.34
+    },
+    "1411": {
+        "word": "mush",
+        "frequency": 3.31
+    },
+    "1412": {
+        "word": "musk",
+        "frequency": 2.93
+    },
+    "1413": {
+        "word": "must",
+        "frequency": 5.9
+    },
+    "1414": {
+        "word": "mute",
+        "frequency": 3.75
+    },
+    "1415": {
+        "word": "myna",
+        "frequency": 1.9
+    },
+    "1416": {
+        "word": "myth",
+        "frequency": 3.94
+    },
+    "1417": {
+        "word": "nabu",
+        "frequency": -1
+    },
+    "1418": {
+        "word": "nadp",
+        "frequency": -1
+    },
+    "1419": {
+        "word": "nagi",
+        "frequency": -1
+    },
+    "1420": {
+        "word": "naif",
+        "frequency": 1.6
+    },
+    "1421": {
+        "word": "nail",
+        "frequency": 4.22
+    },
+    "1422": {
+        "word": "najd",
+        "frequency": -1
+    },
+    "1423": {
+        "word": "name",
+        "frequency": 5.82
+    },
+    "1424": {
+        "word": "nape",
+        "frequency": 2.52
+    },
+    "1425": {
+        "word": "napu",
+        "frequency": 1.74
+    },
+    "1426": {
+        "word": "narc",
+        "frequency": 2.93
+    },
+    "1427": {
+        "word": "nard",
+        "frequency": 1.73
+    },
+    "1428": {
+        "word": "nark",
+        "frequency": 2.56
+    },
+    "1429": {
+        "word": "nary",
+        "frequency": 2.43
+    },
+    "1430": {
+        "word": "nash",
+        "frequency": 3.44
+    },
+    "1431": {
+        "word": "nast",
+        "frequency": 1.82
+    },
+    "1432": {
+        "word": "nato",
+        "frequency": 3.37
+    },
+    "1433": {
+        "word": "nave",
+        "frequency": 2.73
+    },
+    "1434": {
+        "word": "navy",
+        "frequency": 4.06
+    },
+    "1435": {
+        "word": "naze",
+        "frequency": -1
+    },
+    "1436": {
+        "word": "nazi",
+        "frequency": 4.03
+    },
+    "1437": {
+        "word": "neap",
+        "frequency": 1.74
+    },
+    "1438": {
+        "word": "near",
+        "frequency": 4.96
+    },
+    "1439": {
+        "word": "neat",
+        "frequency": 3.93
+    },
+    "1440": {
+        "word": "nebo",
+        "frequency": 1.6
+    },
+    "1441": {
+        "word": "neck",
+        "frequency": 4.69
+    },
+    "1442": {
+        "word": "nejd",
+        "frequency": -1
+    },
+    "1443": {
+        "word": "nepa",
+        "frequency": -1
+    },
+    "1444": {
+        "word": "nerd",
+        "frequency": 3.68
+    },
+    "1445": {
+        "word": "nero",
+        "frequency": 3.21
+    },
+    "1446": {
+        "word": "nest",
+        "frequency": 4.05
+    },
+    "1447": {
+        "word": "neva",
+        "frequency": 1.9
+    },
+    "1448": {
+        "word": "news",
+        "frequency": 5.2
+    },
+    "1449": {
+        "word": "newt",
+        "frequency": 3.05
+    },
+    "1450": {
+        "word": "next",
+        "frequency": 5.66
+    },
+    "1451": {
+        "word": "nice",
+        "frequency": 5.78
+    },
+    "1452": {
+        "word": "nick",
+        "frequency": 4.69
+    },
+    "1453": {
+        "word": "nicu",
+        "frequency": 2.77
+    },
+    "1454": {
+        "word": "nigh",
+        "frequency": 2.94
+    },
+    "1455": {
+        "word": "nike",
+        "frequency": 3.25
+    },
+    "1456": {
+        "word": "nile",
+        "frequency": 3.48
+    },
+    "1457": {
+        "word": "nipa",
+        "frequency": 1.6
+    },
+    "1458": {
+        "word": "nipr",
+        "frequency": -1
+    },
+    "1459": {
+        "word": "nist",
+        "frequency": -1
+    },
+    "1460": {
+        "word": "nlrb",
+        "frequency": -1
+    },
+    "1461": {
+        "word": "noah",
+        "frequency": 3.92
+    },
+    "1462": {
+        "word": "nock",
+        "frequency": 2.08
+    },
+    "1463": {
+        "word": "node",
+        "frequency": 2.7
+    },
+    "1464": {
+        "word": "noel",
+        "frequency": 3.45
+    },
+    "1465": {
+        "word": "noma",
+        "frequency": 2.73
+    },
+    "1466": {
+        "word": "nome",
+        "frequency": 2.68
+    },
+    "1467": {
+        "word": "norm",
+        "frequency": 3.42
+    },
+    "1468": {
+        "word": "nose",
+        "frequency": 4.75
+    },
+    "1469": {
+        "word": "nosh",
+        "frequency": 2.43
+    },
+    "1470": {
+        "word": "nosy",
+        "frequency": 3.49
+    },
+    "1471": {
+        "word": "note",
+        "frequency": 4.62
+    },
+    "1472": {
+        "word": "nous",
+        "frequency": 2.66
+    },
+    "1473": {
+        "word": "nova",
+        "frequency": 3.5
+    },
+    "1474": {
+        "word": "nrem",
+        "frequency": -1
+    },
+    "1475": {
+        "word": "nrti",
+        "frequency": -1
+    },
+    "1476": {
+        "word": "nswc",
+        "frequency": -1
+    },
+    "1477": {
+        "word": "ntis",
+        "frequency": -1
+    },
+    "1478": {
+        "word": "nuda",
+        "frequency": -1
+    },
+    "1479": {
+        "word": "nude",
+        "frequency": 3.81
+    },
+    "1480": {
+        "word": "nuke",
+        "frequency": 3.25
+    },
+    "1481": {
+        "word": "numb",
+        "frequency": 3.7
+    },
+    "1482": {
+        "word": "nuts",
+        "frequency": 4.73
+    },
+    "1483": {
+        "word": "nuwc",
+        "frequency": -1
+    },
+    "1484": {
+        "word": "nypa",
+        "frequency": -1
+    },
+    "1485": {
+        "word": "nyse",
+        "frequency": -1
+    },
+    "1486": {
+        "word": "oahu",
+        "frequency": 2.36
+    },
+    "1487": {
+        "word": "oast",
+        "frequency": 1.74
+    },
+    "1488": {
+        "word": "oath",
+        "frequency": 3.92
+    },
+    "1489": {
+        "word": "obey",
+        "frequency": 4.14
+    },
+    "1490": {
+        "word": "obit",
+        "frequency": 2.03
+    },
+    "1491": {
+        "word": "ochs",
+        "frequency": -1
+    },
+    "1492": {
+        "word": "oder",
+        "frequency": 2.4
+    },
+    "1493": {
+        "word": "odin",
+        "frequency": 3.15
+    },
+    "1494": {
+        "word": "ogle",
+        "frequency": 2.73
+    },
+    "1495": {
+        "word": "ogre",
+        "frequency": 3.5
+    },
+    "1496": {
+        "word": "oily",
+        "frequency": 3.17
+    },
+    "1497": {
+        "word": "oink",
+        "frequency": 2.95
+    },
+    "1498": {
+        "word": "okay",
+        "frequency": 6.26
+    },
+    "1499": {
+        "word": "okeh",
+        "frequency": -1
+    },
+    "1500": {
+        "word": "oken",
+        "frequency": 1.82
+    },
+    "1501": {
+        "word": "okey",
+        "frequency": 3.67
+    },
+    "1502": {
+        "word": "okra",
+        "frequency": 2.5
+    },
+    "1503": {
+        "word": "olea",
+        "frequency": -1
+    },
+    "1504": {
+        "word": "oled",
+        "frequency": -1
+    },
+    "1505": {
+        "word": "oman",
+        "frequency": 2.33
+    },
+    "1506": {
+        "word": "ombu",
+        "frequency": -1
+    },
+    "1507": {
+        "word": "omen",
+        "frequency": 3.44
+    },
+    "1508": {
+        "word": "omit",
+        "frequency": 2.52
+    },
+    "1509": {
+        "word": "omsk",
+        "frequency": 2.4
+    },
+    "1510": {
+        "word": "once",
+        "frequency": 5.56
+    },
+    "1511": {
+        "word": "only",
+        "frequency": 6.09
+    },
+    "1512": {
+        "word": "onus",
+        "frequency": 2.24
+    },
+    "1513": {
+        "word": "onyx",
+        "frequency": 2.36
+    },
+    "1514": {
+        "word": "opah",
+        "frequency": 1.74
+    },
+    "1515": {
+        "word": "opal",
+        "frequency": 2.74
+    },
+    "1516": {
+        "word": "opcw",
+        "frequency": -1
+    },
+    "1517": {
+        "word": "opec",
+        "frequency": 2.03
+    },
+    "1518": {
+        "word": "opel",
+        "frequency": 2.24
+    },
+    "1519": {
+        "word": "open",
+        "frequency": 5.54
+    },
+    "1520": {
+        "word": "opus",
+        "frequency": 2.79
+    },
+    "1521": {
+        "word": "orad",
+        "frequency": -1
+    },
+    "1522": {
+        "word": "oral",
+        "frequency": 3.62
+    },
+    "1523": {
+        "word": "oran",
+        "frequency": 2.47
+    },
+    "1524": {
+        "word": "orca",
+        "frequency": 2.47
+    },
+    "1525": {
+        "word": "orgy",
+        "frequency": 3.33
+    },
+    "1526": {
+        "word": "orly",
+        "frequency": 2.38
+    },
+    "1527": {
+        "word": "oryx",
+        "frequency": 1.6
+    },
+    "1528": {
+        "word": "osha",
+        "frequency": 2.3
+    },
+    "1529": {
+        "word": "otic",
+        "frequency": -1
+    },
+    "1530": {
+        "word": "otis",
+        "frequency": 3.72
+    },
+    "1531": {
+        "word": "otus",
+        "frequency": -1
+    },
+    "1532": {
+        "word": "ouse",
+        "frequency": 1.9
+    },
+    "1533": {
+        "word": "oust",
+        "frequency": 2.12
+    },
+    "1534": {
+        "word": "oval",
+        "frequency": 3.03
+    },
+    "1535": {
+        "word": "oven",
+        "frequency": 3.92
+    },
+    "1536": {
+        "word": "over",
+        "frequency": 6.06
+    },
+    "1537": {
+        "word": "ovid",
+        "frequency": 2.38
+    },
+    "1538": {
+        "word": "ovis",
+        "frequency": -1
+    },
+    "1539": {
+        "word": "ovum",
+        "frequency": 2.4
+    },
+    "1540": {
+        "word": "owen",
+        "frequency": 3.91
+    },
+    "1541": {
+        "word": "owlt",
+        "frequency": -1
+    },
+    "1542": {
+        "word": "oxen",
+        "frequency": 3.08
+    },
+    "1543": {
+        "word": "pace",
+        "frequency": 3.93
+    },
+    "1544": {
+        "word": "pack",
+        "frequency": 4.65
+    },
+    "1545": {
+        "word": "pact",
+        "frequency": 3.58
+    },
+    "1546": {
+        "word": "page",
+        "frequency": 4.5
+    },
+    "1547": {
+        "word": "paid",
+        "frequency": 4.97
+    },
+    "1548": {
+        "word": "pail",
+        "frequency": 2.94
+    },
+    "1549": {
+        "word": "pain",
+        "frequency": 5.05
+    },
+    "1550": {
+        "word": "pair",
+        "frequency": 4.49
+    },
+    "1551": {
+        "word": "pale",
+        "frequency": 3.97
+    },
+    "1552": {
+        "word": "pali",
+        "frequency": 2.38
+    },
+    "1553": {
+        "word": "palm",
+        "frequency": 4.07
+    },
+    "1554": {
+        "word": "pane",
+        "frequency": 2.96
+    },
+    "1555": {
+        "word": "pang",
+        "frequency": 3.25
+    },
+    "1556": {
+        "word": "pant",
+        "frequency": 3.26
+    },
+    "1557": {
+        "word": "pare",
+        "frequency": 2.03
+    },
+    "1558": {
+        "word": "park",
+        "frequency": 4.87
+    },
+    "1559": {
+        "word": "part",
+        "frequency": 5.39
+    },
+    "1560": {
+        "word": "past",
+        "frequency": 5.12
+    },
+    "1561": {
+        "word": "pate",
+        "frequency": 2.93
+    },
+    "1562": {
+        "word": "path",
+        "frequency": 4.57
+    },
+    "1563": {
+        "word": "paul",
+        "frequency": 4.9
+    },
+    "1564": {
+        "word": "pave",
+        "frequency": 2.78
+    },
+    "1565": {
+        "word": "pavo",
+        "frequency": 2.03
+    },
+    "1566": {
+        "word": "pawl",
+        "frequency": -1
+    },
+    "1567": {
+        "word": "pawn",
+        "frequency": 3.64
+    },
+    "1568": {
+        "word": "paye",
+        "frequency": -1
+    },
+    "1569": {
+        "word": "pbit",
+        "frequency": -1
+    },
+    "1570": {
+        "word": "peag",
+        "frequency": -1
+    },
+    "1571": {
+        "word": "peak",
+        "frequency": 3.86
+    },
+    "1572": {
+        "word": "peal",
+        "frequency": 2.4
+    },
+    "1573": {
+        "word": "pean",
+        "frequency": 1.73
+    },
+    "1574": {
+        "word": "pear",
+        "frequency": 3.33
+    },
+    "1575": {
+        "word": "peat",
+        "frequency": 2.67
+    },
+    "1576": {
+        "word": "peba",
+        "frequency": -1
+    },
+    "1577": {
+        "word": "peck",
+        "frequency": 3.43
+    },
+    "1578": {
+        "word": "pecs",
+        "frequency": 2.63
+    },
+    "1579": {
+        "word": "pelf",
+        "frequency": -1
+    },
+    "1580": {
+        "word": "pelt",
+        "frequency": 2.91
+    },
+    "1581": {
+        "word": "pent",
+        "frequency": 2.8
+    },
+    "1582": {
+        "word": "peon",
+        "frequency": 2.68
+    },
+    "1583": {
+        "word": "peri",
+        "frequency": 2.38
+    },
+    "1584": {
+        "word": "perk",
+        "frequency": 2.92
+    },
+    "1585": {
+        "word": "perm",
+        "frequency": 3.14
+    },
+    "1586": {
+        "word": "pert",
+        "frequency": 2.52
+    },
+    "1587": {
+        "word": "peru",
+        "frequency": 3.53
+    },
+    "1588": {
+        "word": "peso",
+        "frequency": 2.98
+    },
+    "1589": {
+        "word": "pest",
+        "frequency": 3.49
+    },
+    "1590": {
+        "word": "peul",
+        "frequency": -1
+    },
+    "1591": {
+        "word": "phiz",
+        "frequency": 1.82
+    },
+    "1592": {
+        "word": "phon",
+        "frequency": 1.97
+    },
+    "1593": {
+        "word": "phot",
+        "frequency": -1
+    },
+    "1594": {
+        "word": "piaf",
+        "frequency": 2.56
+    },
+    "1595": {
+        "word": "pica",
+        "frequency": 2.52
+    },
+    "1596": {
+        "word": "pick",
+        "frequency": 5.21
+    },
+    "1597": {
+        "word": "pied",
+        "frequency": 2.79
+    },
+    "1598": {
+        "word": "pier",
+        "frequency": 3.71
+    },
+    "1599": {
+        "word": "pika",
+        "frequency": 3.1
+    },
+    "1600": {
+        "word": "pike",
+        "frequency": 3.39
+    },
+    "1601": {
+        "word": "pile",
+        "frequency": 4.07
+    },
+    "1602": {
+        "word": "pima",
+        "frequency": 1.82
+    },
+    "1603": {
+        "word": "pine",
+        "frequency": 3.82
+    },
+    "1604": {
+        "word": "ping",
+        "frequency": 3.86
+    },
+    "1605": {
+        "word": "pink",
+        "frequency": 4.35
+    },
+    "1606": {
+        "word": "pint",
+        "frequency": 3.61
+    },
+    "1607": {
+        "word": "pion",
+        "frequency": 2.03
+    },
+    "1608": {
+        "word": "pisa",
+        "frequency": 2.56
+    },
+    "1609": {
+        "word": "pita",
+        "frequency": 3.14
+    },
+    "1610": {
+        "word": "pith",
+        "frequency": 2.08
+    },
+    "1611": {
+        "word": "pity",
+        "frequency": 4.53
+    },
+    "1612": {
+        "word": "pixy",
+        "frequency": 1.82
+    },
+    "1613": {
+        "word": "plan",
+        "frequency": 5.15
+    },
+    "1614": {
+        "word": "plat",
+        "frequency": 2.24
+    },
+    "1615": {
+        "word": "play",
+        "frequency": 5.58
+    },
+    "1616": {
+        "word": "plea",
+        "frequency": 3.65
+    },
+    "1617": {
+        "word": "pleb",
+        "frequency": 1.6
+    },
+    "1618": {
+        "word": "plod",
+        "frequency": 2.17
+    },
+    "1619": {
+        "word": "plot",
+        "frequency": 4.04
+    },
+    "1620": {
+        "word": "plow",
+        "frequency": 3.11
+    },
+    "1621": {
+        "word": "ploy",
+        "frequency": 3.27
+    },
+    "1622": {
+        "word": "plug",
+        "frequency": 3.93
+    },
+    "1623": {
+        "word": "plum",
+        "frequency": 3.5
+    },
+    "1624": {
+        "word": "plus",
+        "frequency": 4.63
+    },
+    "1625": {
+        "word": "pock",
+        "frequency": 2.27
+    },
+    "1626": {
+        "word": "poem",
+        "frequency": 4.18
+    },
+    "1627": {
+        "word": "poet",
+        "frequency": 4.14
+    },
+    "1628": {
+        "word": "pogy",
+        "frequency": -1
+    },
+    "1629": {
+        "word": "poke",
+        "frequency": 3.72
+    },
+    "1630": {
+        "word": "poky",
+        "frequency": 2.2
+    },
+    "1631": {
+        "word": "pole",
+        "frequency": 4.16
+    },
+    "1632": {
+        "word": "polk",
+        "frequency": 2.56
+    },
+    "1633": {
+        "word": "pome",
+        "frequency": 1.74
+    },
+    "1634": {
+        "word": "pond",
+        "frequency": 3.92
+    },
+    "1635": {
+        "word": "pone",
+        "frequency": 2.47
+    },
+    "1636": {
+        "word": "pong",
+        "frequency": 3.85
+    },
+    "1637": {
+        "word": "pons",
+        "frequency": 2.08
+    },
+    "1638": {
+        "word": "pony",
+        "frequency": 3.72
+    },
+    "1639": {
+        "word": "porc",
+        "frequency": 1.6
+    },
+    "1640": {
+        "word": "pore",
+        "frequency": 2.64
+    },
+    "1641": {
+        "word": "pork",
+        "frequency": 4.15
+    },
+    "1642": {
+        "word": "porn",
+        "frequency": 4.27
+    },
+    "1643": {
+        "word": "port",
+        "frequency": 4.16
+    },
+    "1644": {
+        "word": "pose",
+        "frequency": 3.85
+    },
+    "1645": {
+        "word": "posh",
+        "frequency": 3.5
+    },
+    "1646": {
+        "word": "post",
+        "frequency": 4.57
+    },
+    "1647": {
+        "word": "posy",
+        "frequency": 2.66
+    },
+    "1648": {
+        "word": "pouf",
+        "frequency": 2.03
+    },
+    "1649": {
+        "word": "pour",
+        "frequency": 4.21
+    },
+    "1650": {
+        "word": "pout",
+        "frequency": 2.81
+    },
+    "1651": {
+        "word": "prag",
+        "frequency": 1.82
+    },
+    "1652": {
+        "word": "pram",
+        "frequency": 2.96
+    },
+    "1653": {
+        "word": "prat",
+        "frequency": 2.91
+    },
+    "1654": {
+        "word": "pray",
+        "frequency": 4.7
+    },
+    "1655": {
+        "word": "prey",
+        "frequency": 3.97
+    },
+    "1656": {
+        "word": "prig",
+        "frequency": 2.17
+    },
+    "1657": {
+        "word": "prim",
+        "frequency": 2.62
+    },
+    "1658": {
+        "word": "prod",
+        "frequency": 2.9
+    },
+    "1659": {
+        "word": "prof",
+        "frequency": 2.9
+    },
+    "1660": {
+        "word": "prom",
+        "frequency": 4.01
+    },
+    "1661": {
+        "word": "prow",
+        "frequency": 2.2
+    },
+    "1662": {
+        "word": "prox",
+        "frequency": 1.74
+    },
+    "1663": {
+        "word": "ptah",
+        "frequency": -1
+    },
+    "1664": {
+        "word": "ptsd",
+        "frequency": 2.49
+    },
+    "1665": {
+        "word": "puce",
+        "frequency": 1.6
+    },
+    "1666": {
+        "word": "puck",
+        "frequency": 3.38
+    },
+    "1667": {
+        "word": "puka",
+        "frequency": 1.73
+    },
+    "1668": {
+        "word": "puke",
+        "frequency": 3.88
+    },
+    "1669": {
+        "word": "pula",
+        "frequency": 2.68
+    },
+    "1670": {
+        "word": "pule",
+        "frequency": 1.6
+    },
+    "1671": {
+        "word": "puma",
+        "frequency": 3.02
+    },
+    "1672": {
+        "word": "pung",
+        "frequency": 2.67
+    },
+    "1673": {
+        "word": "punk",
+        "frequency": 4.41
+    },
+    "1674": {
+        "word": "punt",
+        "frequency": 2.72
+    },
+    "1675": {
+        "word": "puny",
+        "frequency": 3.01
+    },
+    "1676": {
+        "word": "pure",
+        "frequency": 4.5
+    },
+    "1677": {
+        "word": "purl",
+        "frequency": 1.73
+    },
+    "1678": {
+        "word": "push",
+        "frequency": 4.82
+    },
+    "1679": {
+        "word": "putz",
+        "frequency": 2.89
+    },
+    "1680": {
+        "word": "pyle",
+        "frequency": 2.88
+    },
+    "1681": {
+        "word": "pyre",
+        "frequency": 2.87
+    },
+    "1682": {
+        "word": "qadi",
+        "frequency": -1
+    },
+    "1683": {
+        "word": "qing",
+        "frequency": 3.24
+    },
+    "1684": {
+        "word": "qoph",
+        "frequency": -1
+    },
+    "1685": {
+        "word": "quad",
+        "frequency": 3.03
+    },
+    "1686": {
+        "word": "quag",
+        "frequency": 1.74
+    },
+    "1687": {
+        "word": "quat",
+        "frequency": 1.73
+    },
+    "1688": {
+        "word": "quay",
+        "frequency": 2.67
+    },
+    "1689": {
+        "word": "quid",
+        "frequency": 3.69
+    },
+    "1690": {
+        "word": "quin",
+        "frequency": 2.3
+    },
+    "1691": {
+        "word": "quip",
+        "frequency": 2.33
+    },
+    "1692": {
+        "word": "quit",
+        "frequency": 4.91
+    },
+    "1693": {
+        "word": "quiz",
+        "frequency": 3.61
+    },
+    "1694": {
+        "word": "race",
+        "frequency": 4.75
+    },
+    "1695": {
+        "word": "rack",
+        "frequency": 3.81
+    },
+    "1696": {
+        "word": "racy",
+        "frequency": 2.76
+    },
+    "1697": {
+        "word": "raft",
+        "frequency": 3.53
+    },
+    "1698": {
+        "word": "rage",
+        "frequency": 4.04
+    },
+    "1699": {
+        "word": "ragi",
+        "frequency": -1
+    },
+    "1700": {
+        "word": "rahu",
+        "frequency": -1
+    },
+    "1701": {
+        "word": "raid",
+        "frequency": 3.93
+    },
+    "1702": {
+        "word": "rail",
+        "frequency": 3.65
+    },
+    "1703": {
+        "word": "rain",
+        "frequency": 4.77
+    },
+    "1704": {
+        "word": "raiu",
+        "frequency": -1
+    },
+    "1705": {
+        "word": "rake",
+        "frequency": 3.37
+    },
+    "1706": {
+        "word": "rale",
+        "frequency": 2.4
+    },
+    "1707": {
+        "word": "ramp",
+        "frequency": 3.46
+    },
+    "1708": {
+        "word": "rand",
+        "frequency": 3.07
+    },
+    "1709": {
+        "word": "rani",
+        "frequency": 3.33
+    },
+    "1710": {
+        "word": "rank",
+        "frequency": 3.86
+    },
+    "1711": {
+        "word": "rant",
+        "frequency": 2.87
+    },
+    "1712": {
+        "word": "rape",
+        "frequency": 4.31
+    },
+    "1713": {
+        "word": "rapt",
+        "frequency": 1.97
+    },
+    "1714": {
+        "word": "rase",
+        "frequency": -1
+    },
+    "1715": {
+        "word": "rash",
+        "frequency": 3.76
+    },
+    "1716": {
+        "word": "rask",
+        "frequency": -1
+    },
+    "1717": {
+        "word": "rasp",
+        "frequency": 2.4
+    },
+    "1718": {
+        "word": "rate",
+        "frequency": 4.44
+    },
+    "1719": {
+        "word": "rave",
+        "frequency": 3.36
+    },
+    "1720": {
+        "word": "raze",
+        "frequency": 2.63
+    },
+    "1721": {
+        "word": "rcmp",
+        "frequency": 2.12
+    },
+    "1722": {
+        "word": "read",
+        "frequency": 5.36
+    },
+    "1723": {
+        "word": "real",
+        "frequency": 5.62
+    },
+    "1724": {
+        "word": "ream",
+        "frequency": 2.49
+    },
+    "1725": {
+        "word": "reap",
+        "frequency": 3.31
+    },
+    "1726": {
+        "word": "redo",
+        "frequency": 3.16
+    },
+    "1727": {
+        "word": "reid",
+        "frequency": 3.11
+    },
+    "1728": {
+        "word": "rein",
+        "frequency": 2.93
+    },
+    "1729": {
+        "word": "reit",
+        "frequency": -1
+    },
+    "1730": {
+        "word": "rely",
+        "frequency": 3.93
+    },
+    "1731": {
+        "word": "rend",
+        "frequency": 2.33
+    },
+    "1732": {
+        "word": "reno",
+        "frequency": 3.46
+    },
+    "1733": {
+        "word": "rent",
+        "frequency": 4.63
+    },
+    "1734": {
+        "word": "resh",
+        "frequency": -1
+    },
+    "1735": {
+        "word": "rest",
+        "frequency": 5.32
+    },
+    "1736": {
+        "word": "rhea",
+        "frequency": 3.39
+    },
+    "1737": {
+        "word": "rhus",
+        "frequency": 1.74
+    },
+    "1738": {
+        "word": "rial",
+        "frequency": 1.74
+    },
+    "1739": {
+        "word": "rice",
+        "frequency": 4.5
+    },
+    "1740": {
+        "word": "rich",
+        "frequency": 4.94
+    },
+    "1741": {
+        "word": "rick",
+        "frequency": 4.19
+    },
+    "1742": {
+        "word": "rico",
+        "frequency": 3.87
+    },
+    "1743": {
+        "word": "ride",
+        "frequency": 5
+    },
+    "1744": {
+        "word": "riel",
+        "frequency": -1
+    },
+    "1745": {
+        "word": "rife",
+        "frequency": 2.81
+    },
+    "1746": {
+        "word": "rift",
+        "frequency": 3.39
+    },
+    "1747": {
+        "word": "riga",
+        "frequency": 2.38
+    },
+    "1748": {
+        "word": "rile",
+        "frequency": 2.4
+    },
+    "1749": {
+        "word": "rima",
+        "frequency": 2.7
+    },
+    "1750": {
+        "word": "rime",
+        "frequency": 2.08
+    },
+    "1751": {
+        "word": "rimu",
+        "frequency": -1
+    },
+    "1752": {
+        "word": "rimy",
+        "frequency": 1.74
+    },
+    "1753": {
+        "word": "rind",
+        "frequency": 2.43
+    },
+    "1754": {
+        "word": "ring",
+        "frequency": 4.93
+    },
+    "1755": {
+        "word": "rink",
+        "frequency": 3.27
+    },
+    "1756": {
+        "word": "riot",
+        "frequency": 3.87
+    },
+    "1757": {
+        "word": "ripe",
+        "frequency": 3.59
+    },
+    "1758": {
+        "word": "risc",
+        "frequency": -1
+    },
+    "1759": {
+        "word": "rise",
+        "frequency": 4.5
+    },
+    "1760": {
+        "word": "risk",
+        "frequency": 4.69
+    },
+    "1761": {
+        "word": "rite",
+        "frequency": 3.38
+    },
+    "1762": {
+        "word": "ritz",
+        "frequency": 3.21
+    },
+    "1763": {
+        "word": "rive",
+        "frequency": 1.82
+    },
+    "1764": {
+        "word": "road",
+        "frequency": 5.08
+    },
+    "1765": {
+        "word": "roam",
+        "frequency": 3.55
+    },
+    "1766": {
+        "word": "roan",
+        "frequency": 2.64
+    },
+    "1767": {
+        "word": "robe",
+        "frequency": 3.76
+    },
+    "1768": {
+        "word": "rock",
+        "frequency": 5.01
+    },
+    "1769": {
+        "word": "roil",
+        "frequency": 2.52
+    },
+    "1770": {
+        "word": "role",
+        "frequency": 4.48
+    },
+    "1771": {
+        "word": "rolf",
+        "frequency": 2.99
+    },
+    "1772": {
+        "word": "roma",
+        "frequency": 3.36
+    },
+    "1773": {
+        "word": "rome",
+        "frequency": 4.43
+    },
+    "1774": {
+        "word": "romp",
+        "frequency": 2.54
+    },
+    "1775": {
+        "word": "rope",
+        "frequency": 4.29
+    },
+    "1776": {
+        "word": "ropy",
+        "frequency": 1.97
+    },
+    "1777": {
+        "word": "rosa",
+        "frequency": 4
+    },
+    "1778": {
+        "word": "rose",
+        "frequency": 4.62
+    },
+    "1779": {
+        "word": "rosy",
+        "frequency": 3.38
+    },
+    "1780": {
+        "word": "rota",
+        "frequency": 2.56
+    },
+    "1781": {
+        "word": "rotc",
+        "frequency": 2.27
+    },
+    "1782": {
+        "word": "rote",
+        "frequency": 2.43
+    },
+    "1783": {
+        "word": "roth",
+        "frequency": 3.16
+    },
+    "1784": {
+        "word": "rotl",
+        "frequency": -1
+    },
+    "1785": {
+        "word": "roue",
+        "frequency": 1.73
+    },
+    "1786": {
+        "word": "rous",
+        "frequency": 1.6
+    },
+    "1787": {
+        "word": "rout",
+        "frequency": 2.57
+    },
+    "1788": {
+        "word": "roux",
+        "frequency": 2.54
+    },
+    "1789": {
+        "word": "rove",
+        "frequency": 2.17
+    },
+    "1790": {
+        "word": "rube",
+        "frequency": 2.68
+    },
+    "1791": {
+        "word": "ruby",
+        "frequency": 4.03
+    },
+    "1792": {
+        "word": "ruck",
+        "frequency": 2.2
+    },
+    "1793": {
+        "word": "rude",
+        "frequency": 4.38
+    },
+    "1794": {
+        "word": "ruga",
+        "frequency": -1
+    },
+    "1795": {
+        "word": "ruin",
+        "frequency": 4.47
+    },
+    "1796": {
+        "word": "rule",
+        "frequency": 4.69
+    },
+    "1797": {
+        "word": "ruly",
+        "frequency": 1.74
+    },
+    "1798": {
+        "word": "rump",
+        "frequency": 2.96
+    },
+    "1799": {
+        "word": "rune",
+        "frequency": 2.63
+    },
+    "1800": {
+        "word": "rung",
+        "frequency": 3.27
+    },
+    "1801": {
+        "word": "runt",
+        "frequency": 3.32
+    },
+    "1802": {
+        "word": "ruse",
+        "frequency": 2.92
+    },
+    "1803": {
+        "word": "rush",
+        "frequency": 4.53
+    },
+    "1804": {
+        "word": "rusk",
+        "frequency": 2.54
+    },
+    "1805": {
+        "word": "rust",
+        "frequency": 3.48
+    },
+    "1806": {
+        "word": "ruta",
+        "frequency": 2.2
+    },
+    "1807": {
+        "word": "ruth",
+        "frequency": 3.93
+    },
+    "1808": {
+        "word": "sack",
+        "frequency": 4.1
+    },
+    "1809": {
+        "word": "sade",
+        "frequency": 2.77
+    },
+    "1810": {
+        "word": "saek",
+        "frequency": -1
+    },
+    "1811": {
+        "word": "safe",
+        "frequency": 5.12
+    },
+    "1812": {
+        "word": "sage",
+        "frequency": 3.4
+    },
+    "1813": {
+        "word": "sago",
+        "frequency": 1.82
+    },
+    "1814": {
+        "word": "said",
+        "frequency": 6.06
+    },
+    "1815": {
+        "word": "sail",
+        "frequency": 4
+    },
+    "1816": {
+        "word": "sake",
+        "frequency": 4.9
+    },
+    "1817": {
+        "word": "saki",
+        "frequency": 3.21
+    },
+    "1818": {
+        "word": "sale",
+        "frequency": 4.39
+    },
+    "1819": {
+        "word": "salk",
+        "frequency": 2.43
+    },
+    "1820": {
+        "word": "salp",
+        "frequency": -1
+    },
+    "1821": {
+        "word": "salt",
+        "frequency": 4.34
+    },
+    "1822": {
+        "word": "same",
+        "frequency": 5.68
+    },
+    "1823": {
+        "word": "sami",
+        "frequency": 3.41
+    },
+    "1824": {
+        "word": "sand",
+        "frequency": 4.36
+    },
+    "1825": {
+        "word": "sane",
+        "frequency": 3.56
+    },
+    "1826": {
+        "word": "sang",
+        "frequency": 4.31
+    },
+    "1827": {
+        "word": "sard",
+        "frequency": 1.74
+    },
+    "1828": {
+        "word": "sari",
+        "frequency": 3.56
+    },
+    "1829": {
+        "word": "sate",
+        "frequency": 2.33
+    },
+    "1830": {
+        "word": "sauk",
+        "frequency": -1
+    },
+    "1831": {
+        "word": "saul",
+        "frequency": 3.57
+    },
+    "1832": {
+        "word": "save",
+        "frequency": 5.22
+    },
+    "1833": {
+        "word": "sawm",
+        "frequency": -1
+    },
+    "1834": {
+        "word": "saxe",
+        "frequency": -1
+    },
+    "1835": {
+        "word": "scab",
+        "frequency": 3.2
+    },
+    "1836": {
+        "word": "scad",
+        "frequency": -1
+    },
+    "1837": {
+        "word": "scag",
+        "frequency": 1.97
+    },
+    "1838": {
+        "word": "scam",
+        "frequency": 3.79
+    },
+    "1839": {
+        "word": "scan",
+        "frequency": 3.88
+    },
+    "1840": {
+        "word": "scar",
+        "frequency": 4.04
+    },
+    "1841": {
+        "word": "scat",
+        "frequency": 2.89
+    },
+    "1842": {
+        "word": "scet",
+        "frequency": -1
+    },
+    "1843": {
+        "word": "scid",
+        "frequency": -1
+    },
+    "1844": {
+        "word": "sclk",
+        "frequency": -1
+    },
+    "1845": {
+        "word": "scnt",
+        "frequency": -1
+    },
+    "1846": {
+        "word": "scot",
+        "frequency": 3.39
+    },
+    "1847": {
+        "word": "scow",
+        "frequency": 1.73
+    },
+    "1848": {
+        "word": "scpo",
+        "frequency": -1
+    },
+    "1849": {
+        "word": "scry",
+        "frequency": 2.87
+    },
+    "1850": {
+        "word": "scud",
+        "frequency": 2.63
+    },
+    "1851": {
+        "word": "scum",
+        "frequency": 4.08
+    },
+    "1852": {
+        "word": "scup",
+        "frequency": 1.74
+    },
+    "1853": {
+        "word": "scut",
+        "frequency": 1.6
+    },
+    "1854": {
+        "word": "seal",
+        "frequency": 4.18
+    },
+    "1855": {
+        "word": "seam",
+        "frequency": 2.83
+    },
+    "1856": {
+        "word": "sear",
+        "frequency": 2.47
+    },
+    "1857": {
+        "word": "seat",
+        "frequency": 4.9
+    },
+    "1858": {
+        "word": "sect",
+        "frequency": 3.29
+    },
+    "1859": {
+        "word": "self",
+        "frequency": 4.82
+    },
+    "1860": {
+        "word": "semi",
+        "frequency": 3.66
+    },
+    "1861": {
+        "word": "send",
+        "frequency": 5.23
+    },
+    "1862": {
+        "word": "sent",
+        "frequency": 5.15
+    },
+    "1863": {
+        "word": "sept",
+        "frequency": 2.78
+    },
+    "1864": {
+        "word": "serb",
+        "frequency": 3.05
+    },
+    "1865": {
+        "word": "serf",
+        "frequency": 2.08
+    },
+    "1866": {
+        "word": "seta",
+        "frequency": 1.6
+    },
+    "1867": {
+        "word": "seth",
+        "frequency": 4.01
+    },
+    "1868": {
+        "word": "sewn",
+        "frequency": 3.17
+    },
+    "1869": {
+        "word": "sext",
+        "frequency": -1
+    },
+    "1870": {
+        "word": "sexy",
+        "frequency": 4.56
+    },
+    "1871": {
+        "word": "sfax",
+        "frequency": -1
+    },
+    "1872": {
+        "word": "sgml",
+        "frequency": -1
+    },
+    "1873": {
+        "word": "shad",
+        "frequency": 2.94
+    },
+    "1874": {
+        "word": "shag",
+        "frequency": 3.6
+    },
+    "1875": {
+        "word": "sham",
+        "frequency": 3.36
+    },
+    "1876": {
+        "word": "shan",
+        "frequency": 3.81
+    },
+    "1877": {
+        "word": "shaw",
+        "frequency": 3.83
+    },
+    "1878": {
+        "word": "shay",
+        "frequency": 2.95
+    },
+    "1879": {
+        "word": "shed",
+        "frequency": 4.14
+    },
+    "1880": {
+        "word": "shem",
+        "frequency": 2.2
+    },
+    "1881": {
+        "word": "shew",
+        "frequency": 1.73
+    },
+    "1882": {
+        "word": "shia",
+        "frequency": 2.5
+    },
+    "1883": {
+        "word": "shim",
+        "frequency": 3.02
+    },
+    "1884": {
+        "word": "shin",
+        "frequency": 3.93
+    },
+    "1885": {
+        "word": "ship",
+        "frequency": 4.85
+    },
+    "1886": {
+        "word": "shit",
+        "frequency": 5.8
+    },
+    "1887": {
+        "word": "shiv",
+        "frequency": 3.42
+    },
+    "1888": {
+        "word": "shmo",
+        "frequency": 1.74
+    },
+    "1889": {
+        "word": "shod",
+        "frequency": 2.17
+    },
+    "1890": {
+        "word": "shoe",
+        "frequency": 4.27
+    },
+    "1891": {
+        "word": "shop",
+        "frequency": 4.87
+    },
+    "1892": {
+        "word": "shot",
+        "frequency": 5.26
+    },
+    "1893": {
+        "word": "show",
+        "frequency": 5.69
+    },
+    "1894": {
+        "word": "shua",
+        "frequency": -1
+    },
+    "1895": {
+        "word": "shun",
+        "frequency": 3.22
+    },
+    "1896": {
+        "word": "shut",
+        "frequency": 5.48
+    },
+    "1897": {
+        "word": "shwa",
+        "frequency": -1
+    },
+    "1898": {
+        "word": "sial",
+        "frequency": -1
+    },
+    "1899": {
+        "word": "siam",
+        "frequency": 2.92
+    },
+    "1900": {
+        "word": "sian",
+        "frequency": 2.49
+    },
+    "1901": {
+        "word": "sick",
+        "frequency": 5.22
+    },
+    "1902": {
+        "word": "sida",
+        "frequency": 2.63
+    },
+    "1903": {
+        "word": "side",
+        "frequency": 5.31
+    },
+    "1904": {
+        "word": "sift",
+        "frequency": 2.63
+    },
+    "1905": {
+        "word": "sigh",
+        "frequency": 3.86
+    },
+    "1906": {
+        "word": "sign",
+        "frequency": 5.1
+    },
+    "1907": {
+        "word": "sika",
+        "frequency": -1
+    },
+    "1908": {
+        "word": "sikh",
+        "frequency": 2.76
+    },
+    "1909": {
+        "word": "sild",
+        "frequency": -1
+    },
+    "1910": {
+        "word": "silk",
+        "frequency": 3.86
+    },
+    "1911": {
+        "word": "silo",
+        "frequency": 2.85
+    },
+    "1912": {
+        "word": "silt",
+        "frequency": 2.88
+    },
+    "1913": {
+        "word": "sima",
+        "frequency": 3.26
+    },
+    "1914": {
+        "word": "sind",
+        "frequency": 2.08
+    },
+    "1915": {
+        "word": "sine",
+        "frequency": 2.69
+    },
+    "1916": {
+        "word": "sing",
+        "frequency": 5.15
+    },
+    "1917": {
+        "word": "sink",
+        "frequency": 4.17
+    },
+    "1918": {
+        "word": "sion",
+        "frequency": 2.33
+    },
+    "1919": {
+        "word": "sirc",
+        "frequency": -1
+    },
+    "1920": {
+        "word": "sire",
+        "frequency": 3.79
+    },
+    "1921": {
+        "word": "sita",
+        "frequency": 2.94
+    },
+    "1922": {
+        "word": "site",
+        "frequency": 4.51
+    },
+    "1923": {
+        "word": "sium",
+        "frequency": -1
+    },
+    "1924": {
+        "word": "siva",
+        "frequency": 2.9
+    },
+    "1925": {
+        "word": "size",
+        "frequency": 4.68
+    },
+    "1926": {
+        "word": "skag",
+        "frequency": 1.6
+    },
+    "1927": {
+        "word": "skaw",
+        "frequency": -1
+    },
+    "1928": {
+        "word": "skeg",
+        "frequency": -1
+    },
+    "1929": {
+        "word": "skep",
+        "frequency": -1
+    },
+    "1930": {
+        "word": "skew",
+        "frequency": 2.3
+    },
+    "1931": {
+        "word": "skid",
+        "frequency": 3.22
+    },
+    "1932": {
+        "word": "skim",
+        "frequency": 2.84
+    },
+    "1933": {
+        "word": "skin",
+        "frequency": 4.7
+    },
+    "1934": {
+        "word": "skip",
+        "frequency": 4.22
+    },
+    "1935": {
+        "word": "skit",
+        "frequency": 2.67
+    },
+    "1936": {
+        "word": "skua",
+        "frequency": -1
+    },
+    "1937": {
+        "word": "slab",
+        "frequency": 3.2
+    },
+    "1938": {
+        "word": "slag",
+        "frequency": 3.24
+    },
+    "1939": {
+        "word": "slam",
+        "frequency": 3.78
+    },
+    "1940": {
+        "word": "slap",
+        "frequency": 4.21
+    },
+    "1941": {
+        "word": "slat",
+        "frequency": 2.03
+    },
+    "1942": {
+        "word": "slav",
+        "frequency": 2.57
+    },
+    "1943": {
+        "word": "slaw",
+        "frequency": 2.33
+    },
+    "1944": {
+        "word": "slay",
+        "frequency": 3.42
+    },
+    "1945": {
+        "word": "sled",
+        "frequency": 3.33
+    },
+    "1946": {
+        "word": "slew",
+        "frequency": 2.89
+    },
+    "1947": {
+        "word": "slim",
+        "frequency": 3.9
+    },
+    "1948": {
+        "word": "slip",
+        "frequency": 4.27
+    },
+    "1949": {
+        "word": "slit",
+        "frequency": 3.78
+    },
+    "1950": {
+        "word": "slob",
+        "frequency": 3.2
+    },
+    "1951": {
+        "word": "sloe",
+        "frequency": 1.6
+    },
+    "1952": {
+        "word": "slog",
+        "frequency": 2.64
+    },
+    "1953": {
+        "word": "slop",
+        "frequency": 2.98
+    },
+    "1954": {
+        "word": "slot",
+        "frequency": 3.52
+    },
+    "1955": {
+        "word": "slow",
+        "frequency": 4.86
+    },
+    "1956": {
+        "word": "slub",
+        "frequency": -1
+    },
+    "1957": {
+        "word": "slue",
+        "frequency": -1
+    },
+    "1958": {
+        "word": "slug",
+        "frequency": 3.48
+    },
+    "1959": {
+        "word": "slum",
+        "frequency": 3.24
+    },
+    "1960": {
+        "word": "slur",
+        "frequency": 2.68
+    },
+    "1961": {
+        "word": "slut",
+        "frequency": 4.32
+    },
+    "1962": {
+        "word": "smew",
+        "frequency": 1.74
+    },
+    "1963": {
+        "word": "smog",
+        "frequency": 2.69
+    },
+    "1964": {
+        "word": "smug",
+        "frequency": 3.34
+    },
+    "1965": {
+        "word": "smut",
+        "frequency": 2.69
+    },
+    "1966": {
+        "word": "snag",
+        "frequency": 3.09
+    },
+    "1967": {
+        "word": "snap",
+        "frequency": 4.12
+    },
+    "1968": {
+        "word": "snip",
+        "frequency": 2.92
+    },
+    "1969": {
+        "word": "snit",
+        "frequency": 1.97
+    },
+    "1970": {
+        "word": "snob",
+        "frequency": 3.33
+    },
+    "1971": {
+        "word": "snog",
+        "frequency": 2.36
+    },
+    "1972": {
+        "word": "snot",
+        "frequency": 3.36
+    },
+    "1973": {
+        "word": "snow",
+        "frequency": 4.61
+    },
+    "1974": {
+        "word": "snub",
+        "frequency": 2.76
+    },
+    "1975": {
+        "word": "snug",
+        "frequency": 2.94
+    },
+    "1976": {
+        "word": "soak",
+        "frequency": 3.41
+    },
+    "1977": {
+        "word": "soap",
+        "frequency": 4.18
+    },
+    "1978": {
+        "word": "soar",
+        "frequency": 3.15
+    },
+    "1979": {
+        "word": "sock",
+        "frequency": 3.73
+    },
+    "1980": {
+        "word": "soda",
+        "frequency": 4.08
+    },
+    "1981": {
+        "word": "sofa",
+        "frequency": 3.96
+    },
+    "1982": {
+        "word": "soft",
+        "frequency": 4.57
+    },
+    "1983": {
+        "word": "soil",
+        "frequency": 4.06
+    },
+    "1984": {
+        "word": "soja",
+        "frequency": 1.6
+    },
+    "1985": {
+        "word": "sold",
+        "frequency": 4.74
+    },
+    "1986": {
+        "word": "sole",
+        "frequency": 3.87
+    },
+    "1987": {
+        "word": "soma",
+        "frequency": 2.93
+    },
+    "1988": {
+        "word": "some",
+        "frequency": 6.21
+    },
+    "1989": {
+        "word": "sone",
+        "frequency": 3.06
+    },
+    "1990": {
+        "word": "song",
+        "frequency": 5.09
+    },
+    "1991": {
+        "word": "soph",
+        "frequency": 2.74
+    },
+    "1992": {
+        "word": "sorb",
+        "frequency": -1
+    },
+    "1993": {
+        "word": "sore",
+        "frequency": 3.94
+    },
+    "1994": {
+        "word": "sort",
+        "frequency": 5.13
+    },
+    "1995": {
+        "word": "souk",
+        "frequency": 1.9
+    },
+    "1996": {
+        "word": "soul",
+        "frequency": 4.92
+    },
+    "1997": {
+        "word": "soup",
+        "frequency": 4.53
+    },
+    "1998": {
+        "word": "sour",
+        "frequency": 3.81
+    },
+    "1999": {
+        "word": "sown",
+        "frequency": 2.91
+    },
+    "2000": {
+        "word": "soya",
+        "frequency": 2.86
+    },
+    "2001": {
+        "word": "spam",
+        "frequency": 3.01
+    },
+    "2002": {
+        "word": "span",
+        "frequency": 3.35
+    },
+    "2003": {
+        "word": "spar",
+        "frequency": 2.81
+    },
+    "2004": {
+        "word": "spat",
+        "frequency": 3.4
+    },
+    "2005": {
+        "word": "spay",
+        "frequency": 1.9
+    },
+    "2006": {
+        "word": "spec",
+        "frequency": 2.87
+    },
+    "2007": {
+        "word": "spew",
+        "frequency": 2.7
+    },
+    "2008": {
+        "word": "spic",
+        "frequency": 2.77
+    },
+    "2009": {
+        "word": "spik",
+        "frequency": 1.6
+    },
+    "2010": {
+        "word": "spin",
+        "frequency": 4.13
+    },
+    "2011": {
+        "word": "spit",
+        "frequency": 4.31
+    },
+    "2012": {
+        "word": "spiv",
+        "frequency": -1
+    },
+    "2013": {
+        "word": "spot",
+        "frequency": 4.73
+    },
+    "2014": {
+        "word": "spry",
+        "frequency": 2.17
+    },
+    "2015": {
+        "word": "spud",
+        "frequency": 2.75
+    },
+    "2016": {
+        "word": "spue",
+        "frequency": -1
+    },
+    "2017": {
+        "word": "spur",
+        "frequency": 3.26
+    },
+    "2018": {
+        "word": "stab",
+        "frequency": 4.04
+    },
+    "2019": {
+        "word": "stag",
+        "frequency": 3.28
+    },
+    "2020": {
+        "word": "star",
+        "frequency": 4.94
+    },
+    "2021": {
+        "word": "stay",
+        "frequency": 5.74
+    },
+    "2022": {
+        "word": "stem",
+        "frequency": 3.43
+    },
+    "2023": {
+        "word": "step",
+        "frequency": 5.07
+    },
+    "2024": {
+        "word": "stew",
+        "frequency": 3.77
+    },
+    "2025": {
+        "word": "stir",
+        "frequency": 3.81
+    },
+    "2026": {
+        "word": "stob",
+        "frequency": 1.74
+    },
+    "2027": {
+        "word": "stop",
+        "frequency": 5.96
+    },
+    "2028": {
+        "word": "stow",
+        "frequency": 2.95
+    },
+    "2029": {
+        "word": "stub",
+        "frequency": 2.68
+    },
+    "2030": {
+        "word": "stud",
+        "frequency": 3.71
+    },
+    "2031": {
+        "word": "stun",
+        "frequency": 3.17
+    },
+    "2032": {
+        "word": "stye",
+        "frequency": 1.6
+    },
+    "2033": {
+        "word": "styx",
+        "frequency": 2.68
+    },
+    "2034": {
+        "word": "such",
+        "frequency": 5.56
+    },
+    "2035": {
+        "word": "suck",
+        "frequency": 4.6
+    },
+    "2036": {
+        "word": "suer",
+        "frequency": 2.19
+    },
+    "2037": {
+        "word": "suet",
+        "frequency": 2.54
+    },
+    "2038": {
+        "word": "suez",
+        "frequency": 2.4
+    },
+    "2039": {
+        "word": "sufi",
+        "frequency": 2.74
+    },
+    "2040": {
+        "word": "sugi",
+        "frequency": 1.73
+    },
+    "2041": {
+        "word": "suit",
+        "frequency": 4.75
+    },
+    "2042": {
+        "word": "sula",
+        "frequency": -1
+    },
+    "2043": {
+        "word": "sulk",
+        "frequency": 3.13
+    },
+    "2044": {
+        "word": "sumo",
+        "frequency": 3.37
+    },
+    "2045": {
+        "word": "sump",
+        "frequency": 2.12
+    },
+    "2046": {
+        "word": "sung",
+        "frequency": 4.33
+    },
+    "2047": {
+        "word": "sunk",
+        "frequency": 3.59
+    },
+    "2048": {
+        "word": "sura",
+        "frequency": 2.67
+    },
+    "2049": {
+        "word": "surd",
+        "frequency": 2.19
+    },
+    "2050": {
+        "word": "sure",
+        "frequency": 5.96
+    },
+    "2051": {
+        "word": "surf",
+        "frequency": 3.91
+    },
+    "2052": {
+        "word": "suva",
+        "frequency": 1.9
+    },
+    "2053": {
+        "word": "swab",
+        "frequency": 3.04
+    },
+    "2054": {
+        "word": "swad",
+        "frequency": -1
+    },
+    "2055": {
+        "word": "swag",
+        "frequency": 2.69
+    },
+    "2056": {
+        "word": "swan",
+        "frequency": 3.7
+    },
+    "2057": {
+        "word": "swap",
+        "frequency": 3.66
+    },
+    "2058": {
+        "word": "swat",
+        "frequency": 3.67
+    },
+    "2059": {
+        "word": "sway",
+        "frequency": 3.55
+    },
+    "2060": {
+        "word": "swig",
+        "frequency": 3.18
+    },
+    "2061": {
+        "word": "swim",
+        "frequency": 4.56
+    },
+    "2062": {
+        "word": "swiz",
+        "frequency": -1
+    },
+    "2063": {
+        "word": "swob",
+        "frequency": -1
+    },
+    "2064": {
+        "word": "swop",
+        "frequency": 2.08
+    },
+    "2065": {
+        "word": "swot",
+        "frequency": 2.08
+    },
+    "2066": {
+        "word": "sync",
+        "frequency": 3.71
+    },
+    "2067": {
+        "word": "syph",
+        "frequency": -1
+    },
+    "2068": {
+        "word": "tabi",
+        "frequency": 1.73
+    },
+    "2069": {
+        "word": "tabu",
+        "frequency": -1
+    },
+    "2070": {
+        "word": "tach",
+        "frequency": 2.24
+    },
+    "2071": {
+        "word": "tack",
+        "frequency": 3.24
+    },
+    "2072": {
+        "word": "taco",
+        "frequency": 3.5
+    },
+    "2073": {
+        "word": "tael",
+        "frequency": 1.97
+    },
+    "2074": {
+        "word": "taif",
+        "frequency": -1
+    },
+    "2075": {
+        "word": "tail",
+        "frequency": 4.34
+    },
+    "2076": {
+        "word": "take",
+        "frequency": 6.28
+    },
+    "2077": {
+        "word": "talc",
+        "frequency": 2.17
+    },
+    "2078": {
+        "word": "tale",
+        "frequency": 4.16
+    },
+    "2079": {
+        "word": "talk",
+        "frequency": 5.88
+    },
+    "2080": {
+        "word": "tame",
+        "frequency": 3.43
+    },
+    "2081": {
+        "word": "tamp",
+        "frequency": 2.17
+    },
+    "2082": {
+        "word": "tang",
+        "frequency": 3.86
+    },
+    "2083": {
+        "word": "tank",
+        "frequency": 4.4
+    },
+    "2084": {
+        "word": "taos",
+        "frequency": 2.5
+    },
+    "2085": {
+        "word": "tape",
+        "frequency": 4.71
+    },
+    "2086": {
+        "word": "taps",
+        "frequency": 3.33
+    },
+    "2087": {
+        "word": "tare",
+        "frequency": 2.08
+    },
+    "2088": {
+        "word": "tarn",
+        "frequency": 2.24
+    },
+    "2089": {
+        "word": "taro",
+        "frequency": 3.27
+    },
+    "2090": {
+        "word": "tarp",
+        "frequency": 2.75
+    },
+    "2091": {
+        "word": "task",
+        "frequency": 4.27
+    },
+    "2092": {
+        "word": "taxi",
+        "frequency": 4.57
+    },
+    "2093": {
+        "word": "teak",
+        "frequency": 2.52
+    },
+    "2094": {
+        "word": "teal",
+        "frequency": 3.2
+    },
+    "2095": {
+        "word": "team",
+        "frequency": 5.2
+    },
+    "2096": {
+        "word": "tear",
+        "frequency": 4.39
+    },
+    "2097": {
+        "word": "tech",
+        "frequency": 4.01
+    },
+    "2098": {
+        "word": "tegu",
+        "frequency": -1
+    },
+    "2099": {
+        "word": "teju",
+        "frequency": 1.82
+    },
+    "2100": {
+        "word": "temp",
+        "frequency": 3.33
+    },
+    "2101": {
+        "word": "tend",
+        "frequency": 4.08
+    },
+    "2102": {
+        "word": "tera",
+        "frequency": 2.3
+    },
+    "2103": {
+        "word": "term",
+        "frequency": 4.37
+    },
+    "2104": {
+        "word": "tern",
+        "frequency": 2.17
+    },
+    "2105": {
+        "word": "thai",
+        "frequency": 4
+    },
+    "2106": {
+        "word": "than",
+        "frequency": 5.84
+    },
+    "2107": {
+        "word": "thaw",
+        "frequency": 3.02
+    },
+    "2108": {
+        "word": "thea",
+        "frequency": 3.39
+    },
+    "2109": {
+        "word": "them",
+        "frequency": 6.26
+    },
+    "2110": {
+        "word": "then",
+        "frequency": 6.25
+    },
+    "2111": {
+        "word": "they",
+        "frequency": 6.63
+    },
+    "2112": {
+        "word": "thin",
+        "frequency": 4.34
+    },
+    "2113": {
+        "word": "this",
+        "frequency": 6.89
+    },
+    "2114": {
+        "word": "thor",
+        "frequency": 3.32
+    },
+    "2115": {
+        "word": "thou",
+        "frequency": 4.28
+    },
+    "2116": {
+        "word": "thud",
+        "frequency": 3.7
+    },
+    "2117": {
+        "word": "thug",
+        "frequency": 3.69
+    },
+    "2118": {
+        "word": "thus",
+        "frequency": 4.4
+    },
+    "2119": {
+        "word": "tick",
+        "frequency": 3.97
+    },
+    "2120": {
+        "word": "tide",
+        "frequency": 3.87
+    },
+    "2121": {
+        "word": "tidy",
+        "frequency": 3.81
+    },
+    "2122": {
+        "word": "tied",
+        "frequency": 4.38
+    },
+    "2123": {
+        "word": "tier",
+        "frequency": 2.88
+    },
+    "2124": {
+        "word": "tike",
+        "frequency": 2.48
+    },
+    "2125": {
+        "word": "tile",
+        "frequency": 3.5
+    },
+    "2126": {
+        "word": "time",
+        "frequency": 6.3
+    },
+    "2127": {
+        "word": "tine",
+        "frequency": 2.7
+    },
+    "2128": {
+        "word": "ting",
+        "frequency": 3.45
+    },
+    "2129": {
+        "word": "tink",
+        "frequency": 3.12
+    },
+    "2130": {
+        "word": "tiny",
+        "frequency": 4.57
+    },
+    "2131": {
+        "word": "tipu",
+        "frequency": 2.43
+    },
+    "2132": {
+        "word": "tire",
+        "frequency": 4.04
+    },
+    "2133": {
+        "word": "tiro",
+        "frequency": 1.73
+    },
+    "2134": {
+        "word": "toad",
+        "frequency": 3.63
+    },
+    "2135": {
+        "word": "toby",
+        "frequency": 3.95
+    },
+    "2136": {
+        "word": "toda",
+        "frequency": 2.69
+    },
+    "2137": {
+        "word": "tody",
+        "frequency": 2.12
+    },
+    "2138": {
+        "word": "toea",
+        "frequency": -1
+    },
+    "2139": {
+        "word": "toed",
+        "frequency": 2.66
+    },
+    "2140": {
+        "word": "tofu",
+        "frequency": 3.57
+    },
+    "2141": {
+        "word": "toga",
+        "frequency": 2.68
+    },
+    "2142": {
+        "word": "togs",
+        "frequency": 1.82
+    },
+    "2143": {
+        "word": "toil",
+        "frequency": 3.17
+    },
+    "2144": {
+        "word": "toke",
+        "frequency": 3.13
+    },
+    "2145": {
+        "word": "tole",
+        "frequency": 1.82
+    },
+    "2146": {
+        "word": "tolu",
+        "frequency": -1
+    },
+    "2147": {
+        "word": "tomb",
+        "frequency": 3.97
+    },
+    "2148": {
+        "word": "tome",
+        "frequency": 2.92
+    },
+    "2149": {
+        "word": "tone",
+        "frequency": 4.27
+    },
+    "2150": {
+        "word": "tons",
+        "frequency": 4.12
+    },
+    "2151": {
+        "word": "tope",
+        "frequency": 1.82
+    },
+    "2152": {
+        "word": "topi",
+        "frequency": 2.36
+    },
+    "2153": {
+        "word": "tops",
+        "frequency": 3.8
+    },
+    "2154": {
+        "word": "topv",
+        "frequency": -1
+    },
+    "2155": {
+        "word": "tore",
+        "frequency": 3.9
+    },
+    "2156": {
+        "word": "torn",
+        "frequency": 4.03
+    },
+    "2157": {
+        "word": "tory",
+        "frequency": 3.24
+    },
+    "2158": {
+        "word": "tosh",
+        "frequency": 3.17
+    },
+    "2159": {
+        "word": "tosk",
+        "frequency": -1
+    },
+    "2160": {
+        "word": "tour",
+        "frequency": 4.49
+    },
+    "2161": {
+        "word": "town",
+        "frequency": 5.24
+    },
+    "2162": {
+        "word": "trad",
+        "frequency": 2.2
+    },
+    "2163": {
+        "word": "tram",
+        "frequency": 3.44
+    },
+    "2164": {
+        "word": "trap",
+        "frequency": 4.38
+    },
+    "2165": {
+        "word": "tray",
+        "frequency": 3.56
+    },
+    "2166": {
+        "word": "tref",
+        "frequency": 1.74
+    },
+    "2167": {
+        "word": "trek",
+        "frequency": 3.44
+    },
+    "2168": {
+        "word": "trey",
+        "frequency": 3.73
+    },
+    "2169": {
+        "word": "trig",
+        "frequency": 2.64
+    },
+    "2170": {
+        "word": "trim",
+        "frequency": 3.58
+    },
+    "2171": {
+        "word": "trio",
+        "frequency": 3.23
+    },
+    "2172": {
+        "word": "trip",
+        "frequency": 4.92
+    },
+    "2173": {
+        "word": "trna",
+        "frequency": -1
+    },
+    "2174": {
+        "word": "troy",
+        "frequency": 4.08
+    },
+    "2175": {
+        "word": "true",
+        "frequency": 5.47
+    },
+    "2176": {
+        "word": "tsar",
+        "frequency": 3.33
+    },
+    "2177": {
+        "word": "tuba",
+        "frequency": 2.94
+    },
+    "2178": {
+        "word": "tube",
+        "frequency": 4
+    },
+    "2179": {
+        "word": "tuck",
+        "frequency": 3.74
+    },
+    "2180": {
+        "word": "tues",
+        "frequency": 1.82
+    },
+    "2181": {
+        "word": "tufa",
+        "frequency": 1.6
+    },
+    "2182": {
+        "word": "tums",
+        "frequency": 2.27
+    },
+    "2183": {
+        "word": "tuna",
+        "frequency": 3.72
+    },
+    "2184": {
+        "word": "tune",
+        "frequency": 4.18
+    },
+    "2185": {
+        "word": "tung",
+        "frequency": 3.43
+    },
+    "2186": {
+        "word": "tupi",
+        "frequency": 2.12
+    },
+    "2187": {
+        "word": "turd",
+        "frequency": 3.59
+    },
+    "2188": {
+        "word": "turf",
+        "frequency": 3.67
+    },
+    "2189": {
+        "word": "turk",
+        "frequency": 3.64
+    },
+    "2190": {
+        "word": "turn",
+        "frequency": 5.5
+    },
+    "2191": {
+        "word": "turp",
+        "frequency": -1
+    },
+    "2192": {
+        "word": "tush",
+        "frequency": 2.76
+    },
+    "2193": {
+        "word": "tusk",
+        "frequency": 2.81
+    },
+    "2194": {
+        "word": "twig",
+        "frequency": 3.23
+    },
+    "2195": {
+        "word": "twin",
+        "frequency": 4.02
+    },
+    "2196": {
+        "word": "tyke",
+        "frequency": 2.5
+    },
+    "2197": {
+        "word": "tyne",
+        "frequency": 2.2
+    },
+    "2198": {
+        "word": "type",
+        "frequency": 4.87
+    },
+    "2199": {
+        "word": "typo",
+        "frequency": 2.43
+    },
+    "2200": {
+        "word": "tyre",
+        "frequency": 3.4
+    },
+    "2201": {
+        "word": "tyro",
+        "frequency": 2.2
+    },
+    "2202": {
+        "word": "tzar",
+        "frequency": 2.81
+    },
+    "2203": {
+        "word": "ugli",
+        "frequency": -1
+    },
+    "2204": {
+        "word": "ugly",
+        "frequency": 4.71
+    },
+    "2205": {
+        "word": "ulex",
+        "frequency": -1
+    },
+    "2206": {
+        "word": "ulna",
+        "frequency": 2.43
+    },
+    "2207": {
+        "word": "ulva",
+        "frequency": -1
+    },
+    "2208": {
+        "word": "umbo",
+        "frequency": 2.02
+    },
+    "2209": {
+        "word": "unai",
+        "frequency": -1
+    },
+    "2210": {
+        "word": "unco",
+        "frequency": -1
+    },
+    "2211": {
+        "word": "undo",
+        "frequency": 3.61
+    },
+    "2212": {
+        "word": "unio",
+        "frequency": 1.82
+    },
+    "2213": {
+        "word": "unit",
+        "frequency": 4.51
+    },
+    "2214": {
+        "word": "unix",
+        "frequency": 2.36
+    },
+    "2215": {
+        "word": "upon",
+        "frequency": 4.76
+    },
+    "2216": {
+        "word": "urea",
+        "frequency": 1.97
+    },
+    "2217": {
+        "word": "urex",
+        "frequency": -1
+    },
+    "2218": {
+        "word": "urey",
+        "frequency": -1
+    },
+    "2219": {
+        "word": "urga",
+        "frequency": -1
+    },
+    "2220": {
+        "word": "urge",
+        "frequency": 3.79
+    },
+    "2221": {
+        "word": "uria",
+        "frequency": -1
+    },
+    "2222": {
+        "word": "uric",
+        "frequency": 2.4
+    },
+    "2223": {
+        "word": "urth",
+        "frequency": -1
+    },
+    "2224": {
+        "word": "usaf",
+        "frequency": 1.6
+    },
+    "2225": {
+        "word": "uscb",
+        "frequency": -1
+    },
+    "2226": {
+        "word": "usda",
+        "frequency": 2.52
+    },
+    "2227": {
+        "word": "used",
+        "frequency": 5.54
+    },
+    "2228": {
+        "word": "user",
+        "frequency": 3.33
+    },
+    "2229": {
+        "word": "usmc",
+        "frequency": -1
+    },
+    "2230": {
+        "word": "utah",
+        "frequency": 3.39
+    },
+    "2231": {
+        "word": "uvea",
+        "frequency": 1.73
+    },
+    "2232": {
+        "word": "uxor",
+        "frequency": -1
+    },
+    "2233": {
+        "word": "vain",
+        "frequency": 4.02
+    },
+    "2234": {
+        "word": "vale",
+        "frequency": 3.28
+    },
+    "2235": {
+        "word": "vali",
+        "frequency": 2.27
+    },
+    "2236": {
+        "word": "vamp",
+        "frequency": 2.43
+    },
+    "2237": {
+        "word": "vane",
+        "frequency": 2.8
+    },
+    "2238": {
+        "word": "vary",
+        "frequency": 3.17
+    },
+    "2239": {
+        "word": "vase",
+        "frequency": 3.7
+    },
+    "2240": {
+        "word": "vast",
+        "frequency": 4.02
+    },
+    "2241": {
+        "word": "vaux",
+        "frequency": -1
+    },
+    "2242": {
+        "word": "vayu",
+        "frequency": -1
+    },
+    "2243": {
+        "word": "veal",
+        "frequency": 3.38
+    },
+    "2244": {
+        "word": "veau",
+        "frequency": 2.74
+    },
+    "2245": {
+        "word": "veda",
+        "frequency": 2.82
+    },
+    "2246": {
+        "word": "vega",
+        "frequency": 3.14
+    },
+    "2247": {
+        "word": "veil",
+        "frequency": 3.77
+    },
+    "2248": {
+        "word": "vein",
+        "frequency": 3.43
+    },
+    "2249": {
+        "word": "vela",
+        "frequency": 1.6
+    },
+    "2250": {
+        "word": "veld",
+        "frequency": 1.9
+    },
+    "2251": {
+        "word": "vena",
+        "frequency": 2.5
+    },
+    "2252": {
+        "word": "vend",
+        "frequency": 1.6
+    },
+    "2253": {
+        "word": "vent",
+        "frequency": 3.56
+    },
+    "2254": {
+        "word": "veps",
+        "frequency": -1
+    },
+    "2255": {
+        "word": "verb",
+        "frequency": 3.2
+    },
+    "2256": {
+        "word": "very",
+        "frequency": 6.11
+    },
+    "2257": {
+        "word": "vest",
+        "frequency": 3.63
+    },
+    "2258": {
+        "word": "veto",
+        "frequency": 3.36
+    },
+    "2259": {
+        "word": "vial",
+        "frequency": 3.09
+    },
+    "2260": {
+        "word": "vibe",
+        "frequency": 3.59
+    },
+    "2261": {
+        "word": "vice",
+        "frequency": 4.26
+    },
+    "2262": {
+        "word": "view",
+        "frequency": 4.67
+    },
+    "2263": {
+        "word": "vila",
+        "frequency": 2.79
+    },
+    "2264": {
+        "word": "vile",
+        "frequency": 3.55
+    },
+    "2265": {
+        "word": "vine",
+        "frequency": 3.34
+    },
+    "2266": {
+        "word": "vino",
+        "frequency": 2.81
+    },
+    "2267": {
+        "word": "viol",
+        "frequency": 2.02
+    },
+    "2268": {
+        "word": "visa",
+        "frequency": 3.89
+    },
+    "2269": {
+        "word": "vise",
+        "frequency": 2.45
+    },
+    "2270": {
+        "word": "void",
+        "frequency": 3.69
+    },
+    "2271": {
+        "word": "vole",
+        "frequency": 2.08
+    },
+    "2272": {
+        "word": "volt",
+        "frequency": 2.67
+    },
+    "2273": {
+        "word": "vote",
+        "frequency": 4.46
+    },
+    "2274": {
+        "word": "waco",
+        "frequency": 2.5
+    },
+    "2275": {
+        "word": "wade",
+        "frequency": 3.71
+    },
+    "2276": {
+        "word": "wadi",
+        "frequency": 2.2
+    },
+    "2277": {
+        "word": "wads",
+        "frequency": 2.3
+    },
+    "2278": {
+        "word": "waft",
+        "frequency": 2.43
+    },
+    "2279": {
+        "word": "wage",
+        "frequency": 3.69
+    },
+    "2280": {
+        "word": "waif",
+        "frequency": 2.03
+    },
+    "2281": {
+        "word": "wail",
+        "frequency": 3.13
+    },
+    "2282": {
+        "word": "wain",
+        "frequency": 2.02
+    },
+    "2283": {
+        "word": "wait",
+        "frequency": 5.91
+    },
+    "2284": {
+        "word": "wake",
+        "frequency": 5.11
+    },
+    "2285": {
+        "word": "wale",
+        "frequency": 1.6
+    },
+    "2286": {
+        "word": "walk",
+        "frequency": 5.3
+    },
+    "2287": {
+        "word": "wand",
+        "frequency": 3.31
+    },
+    "2288": {
+        "word": "wane",
+        "frequency": 2.4
+    },
+    "2289": {
+        "word": "wank",
+        "frequency": 3.2
+    },
+    "2290": {
+        "word": "want",
+        "frequency": 6.46
+    },
+    "2291": {
+        "word": "ward",
+        "frequency": 4.06
+    },
+    "2292": {
+        "word": "ware",
+        "frequency": 2.84
+    },
+    "2293": {
+        "word": "warm",
+        "frequency": 4.74
+    },
+    "2294": {
+        "word": "warn",
+        "frequency": 4.36
+    },
+    "2295": {
+        "word": "warp",
+        "frequency": 3.31
+    },
+    "2296": {
+        "word": "wart",
+        "frequency": 2.92
+    },
+    "2297": {
+        "word": "wary",
+        "frequency": 3.24
+    },
+    "2298": {
+        "word": "wash",
+        "frequency": 4.71
+    },
+    "2299": {
+        "word": "wasp",
+        "frequency": 3.25
+    },
+    "2300": {
+        "word": "wats",
+        "frequency": 1.73
+    },
+    "2301": {
+        "word": "waul",
+        "frequency": 1.6
+    },
+    "2302": {
+        "word": "wave",
+        "frequency": 4.47
+    },
+    "2303": {
+        "word": "wavy",
+        "frequency": 2.78
+    },
+    "2304": {
+        "word": "waxy",
+        "frequency": 2.38
+    },
+    "2305": {
+        "word": "ways",
+        "frequency": 4.71
+    },
+    "2306": {
+        "word": "weak",
+        "frequency": 4.59
+    },
+    "2307": {
+        "word": "weal",
+        "frequency": 1.82
+    },
+    "2308": {
+        "word": "wean",
+        "frequency": 2.62
+    },
+    "2309": {
+        "word": "wear",
+        "frequency": 5
+    },
+    "2310": {
+        "word": "weft",
+        "frequency": 2.02
+    },
+    "2311": {
+        "word": "weil",
+        "frequency": 4.17
+    },
+    "2312": {
+        "word": "weir",
+        "frequency": 3.23
+    },
+    "2313": {
+        "word": "weka",
+        "frequency": -1
+    },
+    "2314": {
+        "word": "weld",
+        "frequency": 2.87
+    },
+    "2315": {
+        "word": "welt",
+        "frequency": 2.27
+    },
+    "2316": {
+        "word": "wend",
+        "frequency": 1.6
+    },
+    "2317": {
+        "word": "west",
+        "frequency": 4.71
+    },
+    "2318": {
+        "word": "wham",
+        "frequency": 3.24
+    },
+    "2319": {
+        "word": "whap",
+        "frequency": 2.17
+    },
+    "2320": {
+        "word": "what",
+        "frequency": 7
+    },
+    "2321": {
+        "word": "whet",
+        "frequency": 2.4
+    },
+    "2322": {
+        "word": "whey",
+        "frequency": 2.43
+    },
+    "2323": {
+        "word": "whig",
+        "frequency": 1.97
+    },
+    "2324": {
+        "word": "whim",
+        "frequency": 3.42
+    },
+    "2325": {
+        "word": "whin",
+        "frequency": -1
+    },
+    "2326": {
+        "word": "whip",
+        "frequency": 3.97
+    },
+    "2327": {
+        "word": "whir",
+        "frequency": 1.97
+    },
+    "2328": {
+        "word": "whit",
+        "frequency": 3.01
+    },
+    "2329": {
+        "word": "whiz",
+        "frequency": 3.22
+    },
+    "2330": {
+        "word": "whom",
+        "frequency": 4.75
+    },
+    "2331": {
+        "word": "whop",
+        "frequency": 2.12
+    },
+    "2332": {
+        "word": "wick",
+        "frequency": 3.02
+    },
+    "2333": {
+        "word": "wide",
+        "frequency": 4.43
+    },
+    "2334": {
+        "word": "wife",
+        "frequency": 5.55
+    },
+    "2335": {
+        "word": "wild",
+        "frequency": 4.73
+    },
+    "2336": {
+        "word": "wile",
+        "frequency": 2.3
+    },
+    "2337": {
+        "word": "wilt",
+        "frequency": 3.13
+    },
+    "2338": {
+        "word": "wily",
+        "frequency": 2.38
+    },
+    "2339": {
+        "word": "wimp",
+        "frequency": 3.56
+    },
+    "2340": {
+        "word": "wind",
+        "frequency": 4.81
+    },
+    "2341": {
+        "word": "wine",
+        "frequency": 4.84
+    },
+    "2342": {
+        "word": "wing",
+        "frequency": 4.34
+    },
+    "2343": {
+        "word": "wink",
+        "frequency": 3.4
+    },
+    "2344": {
+        "word": "wino",
+        "frequency": 2.62
+    },
+    "2345": {
+        "word": "winy",
+        "frequency": -1
+    },
+    "2346": {
+        "word": "wipe",
+        "frequency": 4.31
+    },
+    "2347": {
+        "word": "wire",
+        "frequency": 4.26
+    },
+    "2348": {
+        "word": "wiry",
+        "frequency": 2.49
+    },
+    "2349": {
+        "word": "wise",
+        "frequency": 4.41
+    },
+    "2350": {
+        "word": "wish",
+        "frequency": 5.31
+    },
+    "2351": {
+        "word": "wisp",
+        "frequency": 2.93
+    },
+    "2352": {
+        "word": "with",
+        "frequency": 6.71
+    },
+    "2353": {
+        "word": "wits",
+        "frequency": 3.43
+    },
+    "2354": {
+        "word": "wive",
+        "frequency": 1.6
+    },
+    "2355": {
+        "word": "wlan",
+        "frequency": -1
+    },
+    "2356": {
+        "word": "woad",
+        "frequency": 2.02
+    },
+    "2357": {
+        "word": "wold",
+        "frequency": 2.24
+    },
+    "2358": {
+        "word": "wolf",
+        "frequency": 4.38
+    },
+    "2359": {
+        "word": "womb",
+        "frequency": 3.8
+    },
+    "2360": {
+        "word": "wonk",
+        "frequency": 1.6
+    },
+    "2361": {
+        "word": "wont",
+        "frequency": 3.93
+    },
+    "2362": {
+        "word": "word",
+        "frequency": 5.32
+    },
+    "2363": {
+        "word": "work",
+        "frequency": 5.94
+    },
+    "2364": {
+        "word": "worm",
+        "frequency": 3.98
+    },
+    "2365": {
+        "word": "worn",
+        "frequency": 4.06
+    },
+    "2366": {
+        "word": "wort",
+        "frequency": 2.57
+    },
+    "2367": {
+        "word": "wouk",
+        "frequency": -1
+    },
+    "2368": {
+        "word": "wrap",
+        "frequency": 4.18
+    },
+    "2369": {
+        "word": "wren",
+        "frequency": 2.4
+    },
+    "2370": {
+        "word": "writ",
+        "frequency": 3.01
+    },
+    "2371": {
+        "word": "wyat",
+        "frequency": -1
+    },
+    "2372": {
+        "word": "wyrd",
+        "frequency": -1
+    },
+    "2373": {
+        "word": "xciv",
+        "frequency": -1
+    },
+    "2374": {
+        "word": "xcvi",
+        "frequency": -1
+    },
+    "2375": {
+        "word": "xian",
+        "frequency": 3.18
+    },
+    "2376": {
+        "word": "xliv",
+        "frequency": -1
+    },
+    "2377": {
+        "word": "xlvi",
+        "frequency": -1
+    },
+    "2378": {
+        "word": "xmas",
+        "frequency": 2.96
+    },
+    "2379": {
+        "word": "yack",
+        "frequency": 1.73
+    },
+    "2380": {
+        "word": "yafo",
+        "frequency": -1
+    },
+    "2381": {
+        "word": "yagi",
+        "frequency": 2.17
+    },
+    "2382": {
+        "word": "yahi",
+        "frequency": -1
+    },
+    "2383": {
+        "word": "yale",
+        "frequency": 3.48
+    },
+    "2384": {
+        "word": "yalu",
+        "frequency": 1.82
+    },
+    "2385": {
+        "word": "yang",
+        "frequency": 4.01
+    },
+    "2386": {
+        "word": "yank",
+        "frequency": 3.48
+    },
+    "2387": {
+        "word": "yard",
+        "frequency": 4.31
+    },
+    "2388": {
+        "word": "yarn",
+        "frequency": 3.17
+    },
+    "2389": {
+        "word": "yaup",
+        "frequency": -1
+    },
+    "2390": {
+        "word": "yawl",
+        "frequency": 2.78
+    },
+    "2391": {
+        "word": "yawn",
+        "frequency": 2.92
+    },
+    "2392": {
+        "word": "yawp",
+        "frequency": 2.81
+    },
+    "2393": {
+        "word": "yaws",
+        "frequency": 1.74
+    },
+    "2394": {
+        "word": "ybit",
+        "frequency": -1
+    },
+    "2395": {
+        "word": "yeah",
+        "frequency": 6.36
+    },
+    "2396": {
+        "word": "year",
+        "frequency": 5.54
+    },
+    "2397": {
+        "word": "yedo",
+        "frequency": -1
+    },
+    "2398": {
+        "word": "yelp",
+        "frequency": 2.49
+    },
+    "2399": {
+        "word": "yeti",
+        "frequency": 3.07
+    },
+    "2400": {
+        "word": "yezo",
+        "frequency": -1
+    },
+    "2401": {
+        "word": "yips",
+        "frequency": 2.24
+    },
+    "2402": {
+        "word": "ylem",
+        "frequency": -1
+    },
+    "2403": {
+        "word": "ymir",
+        "frequency": -1
+    },
+    "2404": {
+        "word": "yodh",
+        "frequency": -1
+    },
+    "2405": {
+        "word": "yoga",
+        "frequency": 3.83
+    },
+    "2406": {
+        "word": "yogi",
+        "frequency": 3.01
+    },
+    "2407": {
+        "word": "yoke",
+        "frequency": 2.79
+    },
+    "2408": {
+        "word": "yolk",
+        "frequency": 2.83
+    },
+    "2409": {
+        "word": "yore",
+        "frequency": 2.47
+    },
+    "2410": {
+        "word": "york",
+        "frequency": 4.89
+    },
+    "2411": {
+        "word": "yowl",
+        "frequency": 1.74
+    },
+    "2412": {
+        "word": "yuan",
+        "frequency": 3.76
+    },
+    "2413": {
+        "word": "yule",
+        "frequency": 2.47
+    },
+    "2414": {
+        "word": "yuma",
+        "frequency": 2.5
+    },
+    "2415": {
+        "word": "yurt",
+        "frequency": 2.38
+    },
+    "2416": {
+        "word": "zany",
+        "frequency": 2.4
+    },
+    "2417": {
+        "word": "zarf",
+        "frequency": -1
+    },
+    "2418": {
+        "word": "zbit",
+        "frequency": -1
+    },
+    "2419": {
+        "word": "zeal",
+        "frequency": 2.92
+    },
+    "2420": {
+        "word": "zebu",
+        "frequency": -1
+    },
+    "2421": {
+        "word": "zend",
+        "frequency": -1
+    },
+    "2422": {
+        "word": "zeno",
+        "frequency": 2.47
+    },
+    "2423": {
+        "word": "zero",
+        "frequency": 4.42
+    },
+    "2424": {
+        "word": "zest",
+        "frequency": 2.81
+    },
+    "2425": {
+        "word": "zeta",
+        "frequency": 3.14
+    },
+    "2426": {
+        "word": "zeus",
+        "frequency": 3.7
+    },
+    "2427": {
+        "word": "zhou",
+        "frequency": 3.41
+    },
+    "2428": {
+        "word": "zinc",
+        "frequency": 2.88
+    },
+    "2429": {
+        "word": "zing",
+        "frequency": 2.75
+    },
+    "2430": {
+        "word": "zion",
+        "frequency": 3.09
+    },
+    "2431": {
+        "word": "zoic",
+        "frequency": -1
+    },
+    "2432": {
+        "word": "zola",
+        "frequency": 2.27
+    },
+    "2433": {
+        "word": "zona",
+        "frequency": 2.49
+    },
+    "2434": {
+        "word": "zone",
+        "frequency": 4.29
+    },
+    "2435": {
+        "word": "zori",
+        "frequency": -1
+    },
+    "2436": {
+        "word": "zuni",
+        "frequency": 2.2
+    }
+}

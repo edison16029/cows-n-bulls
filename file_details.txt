@@ -1,0 +1,9 @@
+Files :
+1. _CNBFourLetterWordsDefined.json
+> Current Final List
+> Count : 2419
+
+2. _CNBFourLetterWordsExclusiveDef.json
+List of words defined in one of two APIs.
+> Count : 285
+

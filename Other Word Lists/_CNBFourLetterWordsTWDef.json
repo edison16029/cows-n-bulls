@@ -1,0 +1,10746 @@
+{
+    "0": {
+        "word": "abed",
+        "difficulty": 1
+    },
+    "1": {
+        "word": "abel",
+        "difficulty": 10
+    },
+    "2": {
+        "word": "abet",
+        "difficulty": 9
+    },
+    "3": {
+        "word": "abye",
+        "difficulty": 10
+    },
+    "4": {
+        "word": "able",
+        "difficulty": 1
+    },
+    "5": {
+        "word": "ably",
+        "difficulty": 1
+    },
+    "6": {
+        "word": "abut",
+        "difficulty": 9
+    },
+    "7": {
+        "word": "acer",
+        "difficulty": 6
+    },
+    "8": {
+        "word": "aces",
+        "difficulty": 5
+    },
+    "9": {
+        "word": "ache",
+        "difficulty": 7
+    },
+    "10": {
+        "word": "achy",
+        "difficulty": 10
+    },
+    "11": {
+        "word": "acid",
+        "difficulty": 2
+    },
+    "12": {
+        "word": "acyl",
+        "difficulty": 8
+    },
+    "13": {
+        "word": "acme",
+        "difficulty": 8
+    },
+    "14": {
+        "word": "acne",
+        "difficulty": 4
+    },
+    "15": {
+        "word": "acre",
+        "difficulty": 4
+    },
+    "16": {
+        "word": "acts",
+        "difficulty": 2
+    },
+    "17": {
+        "word": "aden",
+        "difficulty": 10
+    },
+    "18": {
+        "word": "adit",
+        "difficulty": 10
+    },
+    "19": {
+        "word": "adze",
+        "difficulty": 10
+    },
+    "20": {
+        "word": "aeon",
+        "difficulty": 10
+    },
+    "21": {
+        "word": "aery",
+        "difficulty": 10
+    },
+    "22": {
+        "word": "afro",
+        "difficulty": 8
+    },
+    "23": {
+        "word": "aged",
+        "difficulty": 3
+    },
+    "24": {
+        "word": "ages",
+        "difficulty": 1
+    },
+    "25": {
+        "word": "agio",
+        "difficulty": 10
+    },
+    "26": {
+        "word": "agon",
+        "difficulty": 10
+    },
+    "27": {
+        "word": "ague",
+        "difficulty": 10
+    },
+    "28": {
+        "word": "ahem",
+        "difficulty": 8
+    },
+    "29": {
+        "word": "aide",
+        "difficulty": 5
+    },
+    "30": {
+        "word": "aids",
+        "difficulty": 2
+    },
+    "31": {
+        "word": "ayin",
+        "difficulty": 10
+    },
+    "32": {
+        "word": "ails",
+        "difficulty": 8
+    },
+    "33": {
+        "word": "aims",
+        "difficulty": 2
+    },
+    "34": {
+        "word": "aire",
+        "difficulty": 8
+    },
+    "35": {
+        "word": "airy",
+        "difficulty": 7
+    },
+    "36": {
+        "word": "airs",
+        "difficulty": 1
+    },
+    "37": {
+        "word": "airt",
+        "difficulty": 10
+    },
+    "38": {
+        "word": "akin",
+        "difficulty": 6
+    },
+    "39": {
+        "word": "alky",
+        "difficulty": 10
+    },
+    "40": {
+        "word": "alms",
+        "difficulty": 8
+    },
+    "41": {
+        "word": "aloe",
+        "difficulty": 7
+    },
+    "42": {
+        "word": "alps",
+        "difficulty": 6
+    },
+    "43": {
+        "word": "also",
+        "difficulty": 1
+    },
+    "44": {
+        "word": "alto",
+        "difficulty": 6
+    },
+    "45": {
+        "word": "alum",
+        "difficulty": 8
+    },
+    "46": {
+        "word": "ambo",
+        "difficulty": 10
+    },
+    "47": {
+        "word": "amen",
+        "difficulty": 8
+    },
+    "48": {
+        "word": "amex",
+        "difficulty": 9
+    },
+    "49": {
+        "word": "amyl",
+        "difficulty": 10
+    },
+    "50": {
+        "word": "amir",
+        "difficulty": 9
+    },
+    "51": {
+        "word": "amoy",
+        "difficulty": 10
+    },
+    "52": {
+        "word": "amok",
+        "difficulty": 8
+    },
+    "53": {
+        "word": "amor",
+        "difficulty": 7
+    },
+    "54": {
+        "word": "amos",
+        "difficulty": 9
+    },
+    "55": {
+        "word": "anew",
+        "difficulty": 7
+    },
+    "56": {
+        "word": "anil",
+        "difficulty": 10
+    },
+    "57": {
+        "word": "ante",
+        "difficulty": 6
+    },
+    "58": {
+        "word": "anti",
+        "difficulty": 1
+    },
+    "59": {
+        "word": "ants",
+        "difficulty": 5
+    },
+    "60": {
+        "word": "anus",
+        "difficulty": 6
+    },
+    "61": {
+        "word": "aped",
+        "difficulty": 6
+    },
+    "62": {
+        "word": "aper",
+        "difficulty": 10
+    },
+    "63": {
+        "word": "apes",
+        "difficulty": 6
+    },
+    "64": {
+        "word": "apex",
+        "difficulty": 6
+    },
+    "65": {
+        "word": "apis",
+        "difficulty": 9
+    },
+    "66": {
+        "word": "apse",
+        "difficulty": 10
+    },
+    "67": {
+        "word": "apus",
+        "difficulty": 10
+    },
+    "68": {
+        "word": "arch",
+        "difficulty": 4
+    },
+    "69": {
+        "word": "arco",
+        "difficulty": 9
+    },
+    "70": {
+        "word": "arcs",
+        "difficulty": 4
+    },
+    "71": {
+        "word": "ares",
+        "difficulty": 8
+    },
+    "72": {
+        "word": "argo",
+        "difficulty": 10
+    },
+    "73": {
+        "word": "arid",
+        "difficulty": 6
+    },
+    "74": {
+        "word": "aril",
+        "difficulty": 10
+    },
+    "75": {
+        "word": "army",
+        "difficulty": 3
+    },
+    "76": {
+        "word": "arms",
+        "difficulty": 2
+    },
+    "77": {
+        "word": "arse",
+        "difficulty": 6
+    },
+    "78": {
+        "word": "arty",
+        "difficulty": 8
+    },
+    "79": {
+        "word": "arts",
+        "difficulty": 1
+    },
+    "80": {
+        "word": "arui",
+        "difficulty": 10
+    },
+    "81": {
+        "word": "arum",
+        "difficulty": 10
+    },
+    "82": {
+        "word": "ashy",
+        "difficulty": 4
+    },
+    "83": {
+        "word": "aten",
+        "difficulty": 10
+    },
+    "84": {
+        "word": "atom",
+        "difficulty": 4
+    },
+    "85": {
+        "word": "atop",
+        "difficulty": 6
+    },
+    "86": {
+        "word": "auld",
+        "difficulty": 9
+    },
+    "87": {
+        "word": "aunt",
+        "difficulty": 5
+    },
+    "88": {
+        "word": "auto",
+        "difficulty": 2
+    },
+    "89": {
+        "word": "aver",
+        "difficulty": 8
+    },
+    "90": {
+        "word": "aves",
+        "difficulty": 10
+    },
+    "91": {
+        "word": "avid",
+        "difficulty": 6
+    },
+    "92": {
+        "word": "avow",
+        "difficulty": 10
+    },
+    "93": {
+        "word": "awed",
+        "difficulty": 5
+    },
+    "94": {
+        "word": "awes",
+        "difficulty": 5
+    },
+    "95": {
+        "word": "awny",
+        "difficulty": 10
+    },
+    "96": {
+        "word": "awol",
+        "difficulty": 10
+    },
+    "97": {
+        "word": "awry",
+        "difficulty": 8
+    },
+    "98": {
+        "word": "axed",
+        "difficulty": 6
+    },
+    "99": {
+        "word": "axes",
+        "difficulty": 6
+    },
+    "100": {
+        "word": "axil",
+        "difficulty": 10
+    },
+    "101": {
+        "word": "axis",
+        "difficulty": 3
+    },
+    "102": {
+        "word": "axle",
+        "difficulty": 6
+    },
+    "103": {
+        "word": "axon",
+        "difficulty": 8
+    },
+    "104": {
+        "word": "bach",
+        "difficulty": 8
+    },
+    "105": {
+        "word": "back",
+        "difficulty": 1
+    },
+    "106": {
+        "word": "bade",
+        "difficulty": 1
+    },
+    "107": {
+        "word": "bags",
+        "difficulty": 2
+    },
+    "108": {
+        "word": "baht",
+        "difficulty": 8
+    },
+    "109": {
+        "word": "bail",
+        "difficulty": 5
+    },
+    "110": {
+        "word": "bays",
+        "difficulty": 3
+    },
+    "111": {
+        "word": "bait",
+        "difficulty": 5
+    },
+    "112": {
+        "word": "bake",
+        "difficulty": 6
+    },
+    "113": {
+        "word": "baku",
+        "difficulty": 10
+    },
+    "114": {
+        "word": "bald",
+        "difficulty": 4
+    },
+    "115": {
+        "word": "bale",
+        "difficulty": 8
+    },
+    "116": {
+        "word": "bali",
+        "difficulty": 7
+    },
+    "117": {
+        "word": "balk",
+        "difficulty": 9
+    },
+    "118": {
+        "word": "balm",
+        "difficulty": 7
+    },
+    "119": {
+        "word": "band",
+        "difficulty": 1
+    },
+    "120": {
+        "word": "bane",
+        "difficulty": 8
+    },
+    "121": {
+        "word": "bang",
+        "difficulty": 3
+    },
+    "122": {
+        "word": "bani",
+        "difficulty": 3
+    },
+    "123": {
+        "word": "bank",
+        "difficulty": 1
+    },
+    "124": {
+        "word": "bans",
+        "difficulty": 3
+    },
+    "125": {
+        "word": "bard",
+        "difficulty": 8
+    },
+    "126": {
+        "word": "bare",
+        "difficulty": 4
+    },
+    "127": {
+        "word": "barf",
+        "difficulty": 9
+    },
+    "128": {
+        "word": "bari",
+        "difficulty": 9
+    },
+    "129": {
+        "word": "bark",
+        "difficulty": 5
+    },
+    "130": {
+        "word": "barm",
+        "difficulty": 10
+    },
+    "131": {
+        "word": "barn",
+        "difficulty": 5
+    },
+    "132": {
+        "word": "bars",
+        "difficulty": 1
+    },
+    "133": {
+        "word": "bart",
+        "difficulty": 8
+    },
+    "134": {
+        "word": "base",
+        "difficulty": 1
+    },
+    "135": {
+        "word": "bash",
+        "difficulty": 5
+    },
+    "136": {
+        "word": "bask",
+        "difficulty": 8
+    },
+    "137": {
+        "word": "bast",
+        "difficulty": 10
+    },
+    "138": {
+        "word": "bate",
+        "difficulty": 9
+    },
+    "139": {
+        "word": "bath",
+        "difficulty": 3
+    },
+    "140": {
+        "word": "bats",
+        "difficulty": 4
+    },
+    "141": {
+        "word": "baud",
+        "difficulty": 7
+    },
+    "142": {
+        "word": "bawd",
+        "difficulty": 10
+    },
+    "143": {
+        "word": "bawl",
+        "difficulty": 10
+    },
+    "144": {
+        "word": "bead",
+        "difficulty": 5
+    },
+    "145": {
+        "word": "beak",
+        "difficulty": 8
+    },
+    "146": {
+        "word": "beam",
+        "difficulty": 3
+    },
+    "147": {
+        "word": "bean",
+        "difficulty": 4
+    },
+    "148": {
+        "word": "bear",
+        "difficulty": 2
+    },
+    "149": {
+        "word": "beat",
+        "difficulty": 2
+    },
+    "150": {
+        "word": "beau",
+        "difficulty": 8
+    },
+    "151": {
+        "word": "beck",
+        "difficulty": 7
+    },
+    "152": {
+        "word": "beds",
+        "difficulty": 1
+    },
+    "153": {
+        "word": "begs",
+        "difficulty": 5
+    },
+    "154": {
+        "word": "belt",
+        "difficulty": 3
+    },
+    "155": {
+        "word": "bema",
+        "difficulty": 10
+    },
+    "156": {
+        "word": "bend",
+        "difficulty": 5
+    },
+    "157": {
+        "word": "bent",
+        "difficulty": 4
+    },
+    "158": {
+        "word": "berg",
+        "difficulty": 7
+    },
+    "159": {
+        "word": "berk",
+        "difficulty": 10
+    },
+    "160": {
+        "word": "berm",
+        "difficulty": 9
+    },
+    "161": {
+        "word": "bern",
+        "difficulty": 9
+    },
+    "162": {
+        "word": "best",
+        "difficulty": 1
+    },
+    "163": {
+        "word": "beta",
+        "difficulty": 2
+    },
+    "164": {
+        "word": "beth",
+        "difficulty": 7
+    },
+    "165": {
+        "word": "bets",
+        "difficulty": 3
+    },
+    "166": {
+        "word": "bevy",
+        "difficulty": 9
+    },
+    "167": {
+        "word": "bias",
+        "difficulty": 3
+    },
+    "168": {
+        "word": "bide",
+        "difficulty": 9
+    },
+    "169": {
+        "word": "bids",
+        "difficulty": 1
+    },
+    "170": {
+        "word": "bier",
+        "difficulty": 8
+    },
+    "171": {
+        "word": "byes",
+        "difficulty": 1
+    },
+    "172": {
+        "word": "bike",
+        "difficulty": 3
+    },
+    "173": {
+        "word": "bile",
+        "difficulty": 6
+    },
+    "174": {
+        "word": "bilk",
+        "difficulty": 10
+    },
+    "175": {
+        "word": "bind",
+        "difficulty": 4
+    },
+    "176": {
+        "word": "bine",
+        "difficulty": 9
+    },
+    "177": {
+        "word": "bins",
+        "difficulty": 1
+    },
+    "178": {
+        "word": "bird",
+        "difficulty": 2
+    },
+    "179": {
+        "word": "byre",
+        "difficulty": 10
+    },
+    "180": {
+        "word": "birl",
+        "difficulty": 10
+    },
+    "181": {
+        "word": "bise",
+        "difficulty": 10
+    },
+    "182": {
+        "word": "bite",
+        "difficulty": 4
+    },
+    "183": {
+        "word": "byte",
+        "difficulty": 3
+    },
+    "184": {
+        "word": "bits",
+        "difficulty": 1
+    },
+    "185": {
+        "word": "bize",
+        "difficulty": 10
+    },
+    "186": {
+        "word": "blae",
+        "difficulty": 10
+    },
+    "187": {
+        "word": "blah",
+        "difficulty": 4
+    },
+    "188": {
+        "word": "blat",
+        "difficulty": 10
+    },
+    "189": {
+        "word": "bled",
+        "difficulty": 6
+    },
+    "190": {
+        "word": "bleu",
+        "difficulty": 8
+    },
+    "191": {
+        "word": "blip",
+        "difficulty": 8
+    },
+    "192": {
+        "word": "bloc",
+        "difficulty": 6
+    },
+    "193": {
+        "word": "blok",
+        "difficulty": 10
+    },
+    "194": {
+        "word": "blot",
+        "difficulty": 6
+    },
+    "195": {
+        "word": "blow",
+        "difficulty": 2
+    },
+    "196": {
+        "word": "blue",
+        "difficulty": 1
+    },
+    "197": {
+        "word": "blur",
+        "difficulty": 6
+    },
+    "198": {
+        "word": "boar",
+        "difficulty": 7
+    },
+    "199": {
+        "word": "boat",
+        "difficulty": 2
+    },
+    "200": {
+        "word": "bock",
+        "difficulty": 10
+    },
+    "201": {
+        "word": "bode",
+        "difficulty": 8
+    },
+    "202": {
+        "word": "body",
+        "difficulty": 1
+    },
+    "203": {
+        "word": "boer",
+        "difficulty": 10
+    },
+    "204": {
+        "word": "bogy",
+        "difficulty": 10
+    },
+    "205": {
+        "word": "bogs",
+        "difficulty": 7
+    },
+    "206": {
+        "word": "boil",
+        "difficulty": 5
+    },
+    "207": {
+        "word": "boys",
+        "difficulty": 2
+    },
+    "208": {
+        "word": "bola",
+        "difficulty": 10
+    },
+    "209": {
+        "word": "bold",
+        "difficulty": 3
+    },
+    "210": {
+        "word": "bole",
+        "difficulty": 10
+    },
+    "211": {
+        "word": "bolt",
+        "difficulty": 5
+    },
+    "212": {
+        "word": "bond",
+        "difficulty": 3
+    },
+    "213": {
+        "word": "bone",
+        "difficulty": 3
+    },
+    "214": {
+        "word": "bong",
+        "difficulty": 8
+    },
+    "215": {
+        "word": "bony",
+        "difficulty": 8
+    },
+    "216": {
+        "word": "bonk",
+        "difficulty": 10
+    },
+    "217": {
+        "word": "bops",
+        "difficulty": 7
+    },
+    "218": {
+        "word": "bore",
+        "difficulty": 4
+    },
+    "219": {
+        "word": "born",
+        "difficulty": 1
+    },
+    "220": {
+        "word": "bosc",
+        "difficulty": 10
+    },
+    "221": {
+        "word": "bose",
+        "difficulty": 8
+    },
+    "222": {
+        "word": "bosh",
+        "difficulty": 10
+    },
+    "223": {
+        "word": "bosk",
+        "difficulty": 10
+    },
+    "224": {
+        "word": "bota",
+        "difficulty": 10
+    },
+    "225": {
+        "word": "both",
+        "difficulty": 1
+    },
+    "226": {
+        "word": "bout",
+        "difficulty": 5
+    },
+    "227": {
+        "word": "bowl",
+        "difficulty": 3
+    },
+    "228": {
+        "word": "bows",
+        "difficulty": 4
+    },
+    "229": {
+        "word": "boxy",
+        "difficulty": 1
+    },
+    "230": {
+        "word": "brad",
+        "difficulty": 7
+    },
+    "231": {
+        "word": "brae",
+        "difficulty": 10
+    },
+    "232": {
+        "word": "brag",
+        "difficulty": 7
+    },
+    "233": {
+        "word": "bray",
+        "difficulty": 10
+    },
+    "234": {
+        "word": "bran",
+        "difficulty": 8
+    },
+    "235": {
+        "word": "brat",
+        "difficulty": 8
+    },
+    "236": {
+        "word": "braw",
+        "difficulty": 10
+    },
+    "237": {
+        "word": "bred",
+        "difficulty": 4
+    },
+    "238": {
+        "word": "bren",
+        "difficulty": 10
+    },
+    "239": {
+        "word": "brew",
+        "difficulty": 6
+    },
+    "240": {
+        "word": "brie",
+        "difficulty": 9
+    },
+    "241": {
+        "word": "brig",
+        "difficulty": 8
+    },
+    "242": {
+        "word": "brim",
+        "difficulty": 8
+    },
+    "243": {
+        "word": "brio",
+        "difficulty": 9
+    },
+    "244": {
+        "word": "brit",
+        "difficulty": 9
+    },
+    "245": {
+        "word": "brow",
+        "difficulty": 6
+    },
+    "246": {
+        "word": "brut",
+        "difficulty": 10
+    },
+    "247": {
+        "word": "buck",
+        "difficulty": 5
+    },
+    "248": {
+        "word": "buds",
+        "difficulty": 6
+    },
+    "249": {
+        "word": "bufo",
+        "difficulty": 10
+    },
+    "250": {
+        "word": "bugs",
+        "difficulty": 2
+    },
+    "251": {
+        "word": "buhl",
+        "difficulty": 10
+    },
+    "252": {
+        "word": "buys",
+        "difficulty": 1
+    },
+    "253": {
+        "word": "bulk",
+        "difficulty": 3
+    },
+    "254": {
+        "word": "bumf",
+        "difficulty": 10
+    },
+    "255": {
+        "word": "bump",
+        "difficulty": 5
+    },
+    "256": {
+        "word": "bums",
+        "difficulty": 6
+    },
+    "257": {
+        "word": "buna",
+        "difficulty": 10
+    },
+    "258": {
+        "word": "bung",
+        "difficulty": 9
+    },
+    "259": {
+        "word": "bunk",
+        "difficulty": 6
+    },
+    "260": {
+        "word": "buns",
+        "difficulty": 7
+    },
+    "261": {
+        "word": "bunt",
+        "difficulty": 8
+    },
+    "262": {
+        "word": "buoy",
+        "difficulty": 7
+    },
+    "263": {
+        "word": "bura",
+        "difficulty": 10
+    },
+    "264": {
+        "word": "burg",
+        "difficulty": 9
+    },
+    "265": {
+        "word": "bury",
+        "difficulty": 6
+    },
+    "266": {
+        "word": "burk",
+        "difficulty": 10
+    },
+    "267": {
+        "word": "burl",
+        "difficulty": 9
+    },
+    "268": {
+        "word": "burn",
+        "difficulty": 3
+    },
+    "269": {
+        "word": "burp",
+        "difficulty": 9
+    },
+    "270": {
+        "word": "burt",
+        "difficulty": 10
+    },
+    "271": {
+        "word": "bush",
+        "difficulty": 3
+    },
+    "272": {
+        "word": "busy",
+        "difficulty": 2
+    },
+    "273": {
+        "word": "busk",
+        "difficulty": 10
+    },
+    "274": {
+        "word": "bust",
+        "difficulty": 5
+    },
+    "275": {
+        "word": "cabs",
+        "difficulty": 4
+    },
+    "276": {
+        "word": "cafe",
+        "difficulty": 4
+    },
+    "277": {
+        "word": "cage",
+        "difficulty": 4
+    },
+    "278": {
+        "word": "cagy",
+        "difficulty": 10
+    },
+    "279": {
+        "word": "cain",
+        "difficulty": 10
+    },
+    "280": {
+        "word": "cake",
+        "difficulty": 3
+    },
+    "281": {
+        "word": "caky",
+        "difficulty": 3
+    },
+    "282": {
+        "word": "calf",
+        "difficulty": 5
+    },
+    "283": {
+        "word": "calk",
+        "difficulty": 10
+    },
+    "284": {
+        "word": "calm",
+        "difficulty": 4
+    },
+    "285": {
+        "word": "calx",
+        "difficulty": 10
+    },
+    "286": {
+        "word": "came",
+        "difficulty": 1
+    },
+    "287": {
+        "word": "camp",
+        "difficulty": 2
+    },
+    "288": {
+        "word": "cane",
+        "difficulty": 5
+    },
+    "289": {
+        "word": "cans",
+        "difficulty": 1
+    },
+    "290": {
+        "word": "cant",
+        "difficulty": 3
+    },
+    "291": {
+        "word": "cape",
+        "difficulty": 6
+    },
+    "292": {
+        "word": "capo",
+        "difficulty": 9
+    },
+    "293": {
+        "word": "caps",
+        "difficulty": 3
+    },
+    "294": {
+        "word": "card",
+        "difficulty": 1
+    },
+    "295": {
+        "word": "care",
+        "difficulty": 1
+    },
+    "296": {
+        "word": "cark",
+        "difficulty": 10
+    },
+    "297": {
+        "word": "carp",
+        "difficulty": 7
+    },
+    "298": {
+        "word": "cars",
+        "difficulty": 1
+    },
+    "299": {
+        "word": "cart",
+        "difficulty": 1
+    },
+    "300": {
+        "word": "case",
+        "difficulty": 1
+    },
+    "301": {
+        "word": "cash",
+        "difficulty": 1
+    },
+    "302": {
+        "word": "cask",
+        "difficulty": 8
+    },
+    "303": {
+        "word": "cast",
+        "difficulty": 2
+    },
+    "304": {
+        "word": "cats",
+        "difficulty": 2
+    },
+    "305": {
+        "word": "caul",
+        "difficulty": 10
+    },
+    "306": {
+        "word": "cave",
+        "difficulty": 4
+    },
+    "307": {
+        "word": "cavy",
+        "difficulty": 10
+    },
+    "308": {
+        "word": "cedi",
+        "difficulty": 10
+    },
+    "309": {
+        "word": "celt",
+        "difficulty": 10
+    },
+    "310": {
+        "word": "cent",
+        "difficulty": 2
+    },
+    "311": {
+        "word": "cero",
+        "difficulty": 10
+    },
+    "312": {
+        "word": "cert",
+        "difficulty": 6
+    },
+    "313": {
+        "word": "chad",
+        "difficulty": 8
+    },
+    "314": {
+        "word": "chap",
+        "difficulty": 6
+    },
+    "315": {
+        "word": "char",
+        "difficulty": 2
+    },
+    "316": {
+        "word": "chat",
+        "difficulty": 1
+    },
+    "317": {
+        "word": "chaw",
+        "difficulty": 10
+    },
+    "318": {
+        "word": "chef",
+        "difficulty": 4
+    },
+    "319": {
+        "word": "chen",
+        "difficulty": 8
+    },
+    "320": {
+        "word": "chew",
+        "difficulty": 6
+    },
+    "321": {
+        "word": "chin",
+        "difficulty": 5
+    },
+    "322": {
+        "word": "chip",
+        "difficulty": 3
+    },
+    "323": {
+        "word": "chit",
+        "difficulty": 8
+    },
+    "324": {
+        "word": "chon",
+        "difficulty": 10
+    },
+    "325": {
+        "word": "chop",
+        "difficulty": 6
+    },
+    "326": {
+        "word": "chou",
+        "difficulty": 9
+    },
+    "327": {
+        "word": "chow",
+        "difficulty": 8
+    },
+    "328": {
+        "word": "chub",
+        "difficulty": 9
+    },
+    "329": {
+        "word": "chug",
+        "difficulty": 9
+    },
+    "330": {
+        "word": "chum",
+        "difficulty": 8
+    },
+    "331": {
+        "word": "cyan",
+        "difficulty": 7
+    },
+    "332": {
+        "word": "ciao",
+        "difficulty": 8
+    },
+    "333": {
+        "word": "cyma",
+        "difficulty": 10
+    },
+    "334": {
+        "word": "cyme",
+        "difficulty": 10
+    },
+    "335": {
+        "word": "cyst",
+        "difficulty": 7
+    },
+    "336": {
+        "word": "cite",
+        "difficulty": 4
+    },
+    "337": {
+        "word": "city",
+        "difficulty": 1
+    },
+    "338": {
+        "word": "cive",
+        "difficulty": 10
+    },
+    "339": {
+        "word": "clad",
+        "difficulty": 6
+    },
+    "340": {
+        "word": "clay",
+        "difficulty": 4
+    },
+    "341": {
+        "word": "clam",
+        "difficulty": 7
+    },
+    "342": {
+        "word": "clan",
+        "difficulty": 5
+    },
+    "343": {
+        "word": "clap",
+        "difficulty": 7
+    },
+    "344": {
+        "word": "claw",
+        "difficulty": 6
+    },
+    "345": {
+        "word": "clef",
+        "difficulty": 9
+    },
+    "346": {
+        "word": "cleg",
+        "difficulty": 10
+    },
+    "347": {
+        "word": "clew",
+        "difficulty": 10
+    },
+    "348": {
+        "word": "clio",
+        "difficulty": 9
+    },
+    "349": {
+        "word": "clip",
+        "difficulty": 2
+    },
+    "350": {
+        "word": "clit",
+        "difficulty": 4
+    },
+    "351": {
+        "word": "clod",
+        "difficulty": 10
+    },
+    "352": {
+        "word": "clog",
+        "difficulty": 7
+    },
+    "353": {
+        "word": "cloy",
+        "difficulty": 10
+    },
+    "354": {
+        "word": "clon",
+        "difficulty": 10
+    },
+    "355": {
+        "word": "clop",
+        "difficulty": 10
+    },
+    "356": {
+        "word": "clot",
+        "difficulty": 7
+    },
+    "357": {
+        "word": "club",
+        "difficulty": 1
+    },
+    "358": {
+        "word": "clue",
+        "difficulty": 4
+    },
+    "359": {
+        "word": "coal",
+        "difficulty": 3
+    },
+    "360": {
+        "word": "coat",
+        "difficulty": 3
+    },
+    "361": {
+        "word": "coax",
+        "difficulty": 7
+    },
+    "362": {
+        "word": "cobs",
+        "difficulty": 8
+    },
+    "363": {
+        "word": "coda",
+        "difficulty": 8
+    },
+    "364": {
+        "word": "code",
+        "difficulty": 1
+    },
+    "365": {
+        "word": "cogs",
+        "difficulty": 8
+    },
+    "366": {
+        "word": "coif",
+        "difficulty": 10
+    },
+    "367": {
+        "word": "coil",
+        "difficulty": 5
+    },
+    "368": {
+        "word": "coin",
+        "difficulty": 4
+    },
+    "369": {
+        "word": "coir",
+        "difficulty": 9
+    },
+    "370": {
+        "word": "coke",
+        "difficulty": 6
+    },
+    "371": {
+        "word": "cola",
+        "difficulty": 7
+    },
+    "372": {
+        "word": "cold",
+        "difficulty": 2
+    },
+    "373": {
+        "word": "cole",
+        "difficulty": 7
+    },
+    "374": {
+        "word": "colt",
+        "difficulty": 7
+    },
+    "375": {
+        "word": "coma",
+        "difficulty": 6
+    },
+    "376": {
+        "word": "comb",
+        "difficulty": 6
+    },
+    "377": {
+        "word": "come",
+        "difficulty": 1
+    },
+    "378": {
+        "word": "comp",
+        "difficulty": 4
+    },
+    "379": {
+        "word": "cone",
+        "difficulty": 5
+    },
+    "380": {
+        "word": "cony",
+        "difficulty": 10
+    },
+    "381": {
+        "word": "conk",
+        "difficulty": 10
+    },
+    "382": {
+        "word": "cons",
+        "difficulty": 2
+    },
+    "383": {
+        "word": "cope",
+        "difficulty": 4
+    },
+    "384": {
+        "word": "copy",
+        "difficulty": 1
+    },
+    "385": {
+        "word": "cops",
+        "difficulty": 5
+    },
+    "386": {
+        "word": "copt",
+        "difficulty": 10
+    },
+    "387": {
+        "word": "cora",
+        "difficulty": 10
+    },
+    "388": {
+        "word": "cord",
+        "difficulty": 3
+    },
+    "389": {
+        "word": "core",
+        "difficulty": 2
+    },
+    "390": {
+        "word": "cork",
+        "difficulty": 6
+    },
+    "391": {
+        "word": "corm",
+        "difficulty": 10
+    },
+    "392": {
+        "word": "corn",
+        "difficulty": 3
+    },
+    "393": {
+        "word": "corp",
+        "difficulty": 7
+    },
+    "394": {
+        "word": "cosh",
+        "difficulty": 8
+    },
+    "395": {
+        "word": "cosy",
+        "difficulty": 7
+    },
+    "396": {
+        "word": "cost",
+        "difficulty": 1
+    },
+    "397": {
+        "word": "cote",
+        "difficulty": 8
+    },
+    "398": {
+        "word": "coue",
+        "difficulty": 10
+    },
+    "399": {
+        "word": "coup",
+        "difficulty": 5
+    },
+    "400": {
+        "word": "cove",
+        "difficulty": 7
+    },
+    "401": {
+        "word": "cowl",
+        "difficulty": 9
+    },
+    "402": {
+        "word": "cows",
+        "difficulty": 4
+    },
+    "403": {
+        "word": "coxa",
+        "difficulty": 10
+    },
+    "404": {
+        "word": "cozy",
+        "difficulty": 5
+    },
+    "405": {
+        "word": "crab",
+        "difficulty": 5
+    },
+    "406": {
+        "word": "crag",
+        "difficulty": 9
+    },
+    "407": {
+        "word": "cram",
+        "difficulty": 8
+    },
+    "408": {
+        "word": "cran",
+        "difficulty": 9
+    },
+    "409": {
+        "word": "crap",
+        "difficulty": 3
+    },
+    "410": {
+        "word": "craw",
+        "difficulty": 10
+    },
+    "411": {
+        "word": "crax",
+        "difficulty": 10
+    },
+    "412": {
+        "word": "crew",
+        "difficulty": 3
+    },
+    "413": {
+        "word": "crex",
+        "difficulty": 10
+    },
+    "414": {
+        "word": "crib",
+        "difficulty": 6
+    },
+    "415": {
+        "word": "crop",
+        "difficulty": 3
+    },
+    "416": {
+        "word": "crow",
+        "difficulty": 6
+    },
+    "417": {
+        "word": "crud",
+        "difficulty": 9
+    },
+    "418": {
+        "word": "crus",
+        "difficulty": 10
+    },
+    "419": {
+        "word": "crux",
+        "difficulty": 8
+    },
+    "420": {
+        "word": "cuba",
+        "difficulty": 8
+    },
+    "421": {
+        "word": "cube",
+        "difficulty": 5
+    },
+    "422": {
+        "word": "cubs",
+        "difficulty": 7
+    },
+    "423": {
+        "word": "cued",
+        "difficulty": 5
+    },
+    "424": {
+        "word": "cues",
+        "difficulty": 5
+    },
+    "425": {
+        "word": "cuke",
+        "difficulty": 10
+    },
+    "426": {
+        "word": "culm",
+        "difficulty": 10
+    },
+    "427": {
+        "word": "cult",
+        "difficulty": 4
+    },
+    "428": {
+        "word": "cunt",
+        "difficulty": 4
+    },
+    "429": {
+        "word": "cuon",
+        "difficulty": 10
+    },
+    "430": {
+        "word": "cups",
+        "difficulty": 2
+    },
+    "431": {
+        "word": "curb",
+        "difficulty": 5
+    },
+    "432": {
+        "word": "curd",
+        "difficulty": 9
+    },
+    "433": {
+        "word": "cure",
+        "difficulty": 3
+    },
+    "434": {
+        "word": "curl",
+        "difficulty": 5
+    },
+    "435": {
+        "word": "curs",
+        "difficulty": 4
+    },
+    "436": {
+        "word": "curt",
+        "difficulty": 9
+    },
+    "437": {
+        "word": "cusk",
+        "difficulty": 10
+    },
+    "438": {
+        "word": "cusp",
+        "difficulty": 8
+    },
+    "439": {
+        "word": "cute",
+        "difficulty": 3
+    },
+    "440": {
+        "word": "cuts",
+        "difficulty": 1
+    },
+    "441": {
+        "word": "czar",
+        "difficulty": 8
+    },
+    "442": {
+        "word": "dabs",
+        "difficulty": 8
+    },
+    "443": {
+        "word": "dace",
+        "difficulty": 10
+    },
+    "444": {
+        "word": "daft",
+        "difficulty": 7
+    },
+    "445": {
+        "word": "dago",
+        "difficulty": 10
+    },
+    "446": {
+        "word": "dail",
+        "difficulty": 10
+    },
+    "447": {
+        "word": "dais",
+        "difficulty": 9
+    },
+    "448": {
+        "word": "days",
+        "difficulty": 1
+    },
+    "449": {
+        "word": "dale",
+        "difficulty": 7
+    },
+    "450": {
+        "word": "dali",
+        "difficulty": 9
+    },
+    "451": {
+        "word": "dame",
+        "difficulty": 7
+    },
+    "452": {
+        "word": "damn",
+        "difficulty": 3
+    },
+    "453": {
+        "word": "damp",
+        "difficulty": 5
+    },
+    "454": {
+        "word": "dams",
+        "difficulty": 4
+    },
+    "455": {
+        "word": "dane",
+        "difficulty": 10
+    },
+    "456": {
+        "word": "dank",
+        "difficulty": 9
+    },
+    "457": {
+        "word": "dare",
+        "difficulty": 4
+    },
+    "458": {
+        "word": "dari",
+        "difficulty": 8
+    },
+    "459": {
+        "word": "dark",
+        "difficulty": 2
+    },
+    "460": {
+        "word": "darn",
+        "difficulty": 6
+    },
+    "461": {
+        "word": "dart",
+        "difficulty": 7
+    },
+    "462": {
+        "word": "dash",
+        "difficulty": 4
+    },
+    "463": {
+        "word": "date",
+        "difficulty": 1
+    },
+    "464": {
+        "word": "daub",
+        "difficulty": 10
+    },
+    "465": {
+        "word": "davy",
+        "difficulty": 10
+    },
+    "466": {
+        "word": "dawn",
+        "difficulty": 4
+    },
+    "467": {
+        "word": "daze",
+        "difficulty": 8
+    },
+    "468": {
+        "word": "dbms",
+        "difficulty": 10
+    },
+    "469": {
+        "word": "deaf",
+        "difficulty": 5
+    },
+    "470": {
+        "word": "deal",
+        "difficulty": 1
+    },
+    "471": {
+        "word": "dean",
+        "difficulty": 5
+    },
+    "472": {
+        "word": "dear",
+        "difficulty": 3
+    },
+    "473": {
+        "word": "debs",
+        "difficulty": 9
+    },
+    "474": {
+        "word": "debt",
+        "difficulty": 2
+    },
+    "475": {
+        "word": "deck",
+        "difficulty": 3
+    },
+    "476": {
+        "word": "deco",
+        "difficulty": 7
+    },
+    "477": {
+        "word": "defy",
+        "difficulty": 7
+    },
+    "478": {
+        "word": "deft",
+        "difficulty": 8
+    },
+    "479": {
+        "word": "delf",
+        "difficulty": 10
+    },
+    "480": {
+        "word": "deli",
+        "difficulty": 7
+    },
+    "481": {
+        "word": "demo",
+        "difficulty": 3
+    },
+    "482": {
+        "word": "deny",
+        "difficulty": 3
+    },
+    "483": {
+        "word": "dens",
+        "difficulty": 3
+    },
+    "484": {
+        "word": "dent",
+        "difficulty": 6
+    },
+    "485": {
+        "word": "derv",
+        "difficulty": 10
+    },
+    "486": {
+        "word": "desk",
+        "difficulty": 3
+    },
+    "487": {
+        "word": "devi",
+        "difficulty": 9
+    },
+    "488": {
+        "word": "dewy",
+        "difficulty": 9
+    },
+    "489": {
+        "word": "dhak",
+        "difficulty": 10
+    },
+    "490": {
+        "word": "dhal",
+        "difficulty": 10
+    },
+    "491": {
+        "word": "dhow",
+        "difficulty": 10
+    },
+    "492": {
+        "word": "dial",
+        "difficulty": 3
+    },
+    "493": {
+        "word": "diam",
+        "difficulty": 7
+    },
+    "494": {
+        "word": "dias",
+        "difficulty": 9
+    },
+    "495": {
+        "word": "dibs",
+        "difficulty": 9
+    },
+    "496": {
+        "word": "dice",
+        "difficulty": 5
+    },
+    "497": {
+        "word": "dick",
+        "difficulty": 3
+    },
+    "498": {
+        "word": "dyer",
+        "difficulty": 10
+    },
+    "499": {
+        "word": "dies",
+        "difficulty": 2
+    },
+    "500": {
+        "word": "dyes",
+        "difficulty": 5
+    },
+    "501": {
+        "word": "diet",
+        "difficulty": 2
+    },
+    "502": {
+        "word": "digs",
+        "difficulty": 4
+    },
+    "503": {
+        "word": "dika",
+        "difficulty": 10
+    },
+    "504": {
+        "word": "dike",
+        "difficulty": 8
+    },
+    "505": {
+        "word": "dyke",
+        "difficulty": 7
+    },
+    "506": {
+        "word": "dime",
+        "difficulty": 6
+    },
+    "507": {
+        "word": "dims",
+        "difficulty": 5
+    },
+    "508": {
+        "word": "dine",
+        "difficulty": 6
+    },
+    "509": {
+        "word": "dyne",
+        "difficulty": 9
+    },
+    "510": {
+        "word": "ding",
+        "difficulty": 7
+    },
+    "511": {
+        "word": "dink",
+        "difficulty": 9
+    },
+    "512": {
+        "word": "dins",
+        "difficulty": 5
+    },
+    "513": {
+        "word": "dint",
+        "difficulty": 9
+    },
+    "514": {
+        "word": "diol",
+        "difficulty": 9
+    },
+    "515": {
+        "word": "dips",
+        "difficulty": 5
+    },
+    "516": {
+        "word": "dire",
+        "difficulty": 5
+    },
+    "517": {
+        "word": "dirk",
+        "difficulty": 9
+    },
+    "518": {
+        "word": "dirt",
+        "difficulty": 4
+    },
+    "519": {
+        "word": "disa",
+        "difficulty": 10
+    },
+    "520": {
+        "word": "disc",
+        "difficulty": 2
+    },
+    "521": {
+        "word": "dish",
+        "difficulty": 3
+    },
+    "522": {
+        "word": "disk",
+        "difficulty": 2
+    },
+    "523": {
+        "word": "dita",
+        "difficulty": 10
+    },
+    "524": {
+        "word": "diva",
+        "difficulty": 7
+    },
+    "525": {
+        "word": "dive",
+        "difficulty": 4
+    },
+    "526": {
+        "word": "dock",
+        "difficulty": 5
+    },
+    "527": {
+        "word": "doer",
+        "difficulty": 9
+    },
+    "528": {
+        "word": "does",
+        "difficulty": 1
+    },
+    "529": {
+        "word": "doge",
+        "difficulty": 10
+    },
+    "530": {
+        "word": "dogy",
+        "difficulty": 10
+    },
+    "531": {
+        "word": "dogs",
+        "difficulty": 1
+    },
+    "532": {
+        "word": "dole",
+        "difficulty": 8
+    },
+    "533": {
+        "word": "dolt",
+        "difficulty": 10
+    },
+    "534": {
+        "word": "dome",
+        "difficulty": 5
+    },
+    "535": {
+        "word": "dona",
+        "difficulty": 9
+    },
+    "536": {
+        "word": "done",
+        "difficulty": 1
+    },
+    "537": {
+        "word": "dong",
+        "difficulty": 6
+    },
+    "538": {
+        "word": "dons",
+        "difficulty": 4
+    },
+    "539": {
+        "word": "dopa",
+        "difficulty": 9
+    },
+    "540": {
+        "word": "dope",
+        "difficulty": 7
+    },
+    "541": {
+        "word": "dopy",
+        "difficulty": 10
+    },
+    "542": {
+        "word": "dory",
+        "difficulty": 9
+    },
+    "543": {
+        "word": "dorm",
+        "difficulty": 6
+    },
+    "544": {
+        "word": "dose",
+        "difficulty": 2
+    },
+    "545": {
+        "word": "dote",
+        "difficulty": 10
+    },
+    "546": {
+        "word": "dots",
+        "difficulty": 2
+    },
+    "547": {
+        "word": "dour",
+        "difficulty": 9
+    },
+    "548": {
+        "word": "dove",
+        "difficulty": 6
+    },
+    "549": {
+        "word": "down",
+        "difficulty": 1
+    },
+    "550": {
+        "word": "doxy",
+        "difficulty": 10
+    },
+    "551": {
+        "word": "doze",
+        "difficulty": 9
+    },
+    "552": {
+        "word": "dozy",
+        "difficulty": 10
+    },
+    "553": {
+        "word": "drab",
+        "difficulty": 8
+    },
+    "554": {
+        "word": "drag",
+        "difficulty": 3
+    },
+    "555": {
+        "word": "dray",
+        "difficulty": 10
+    },
+    "556": {
+        "word": "dram",
+        "difficulty": 9
+    },
+    "557": {
+        "word": "draw",
+        "difficulty": 2
+    },
+    "558": {
+        "word": "dreg",
+        "difficulty": 10
+    },
+    "559": {
+        "word": "drey",
+        "difficulty": 10
+    },
+    "560": {
+        "word": "drew",
+        "difficulty": 2
+    },
+    "561": {
+        "word": "drib",
+        "difficulty": 10
+    },
+    "562": {
+        "word": "drip",
+        "difficulty": 6
+    },
+    "563": {
+        "word": "drop",
+        "difficulty": 2
+    },
+    "564": {
+        "word": "drub",
+        "difficulty": 10
+    },
+    "565": {
+        "word": "drug",
+        "difficulty": 1
+    },
+    "566": {
+        "word": "drum",
+        "difficulty": 4
+    },
+    "567": {
+        "word": "dual",
+        "difficulty": 3
+    },
+    "568": {
+        "word": "dubs",
+        "difficulty": 6
+    },
+    "569": {
+        "word": "duce",
+        "difficulty": 8
+    },
+    "570": {
+        "word": "duck",
+        "difficulty": 5
+    },
+    "571": {
+        "word": "duct",
+        "difficulty": 5
+    },
+    "572": {
+        "word": "duel",
+        "difficulty": 7
+    },
+    "573": {
+        "word": "dues",
+        "difficulty": 1
+    },
+    "574": {
+        "word": "duet",
+        "difficulty": 7
+    },
+    "575": {
+        "word": "duke",
+        "difficulty": 6
+    },
+    "576": {
+        "word": "duly",
+        "difficulty": 5
+    },
+    "577": {
+        "word": "duma",
+        "difficulty": 10
+    },
+    "578": {
+        "word": "dumb",
+        "difficulty": 4
+    },
+    "579": {
+        "word": "dump",
+        "difficulty": 4
+    },
+    "580": {
+        "word": "dune",
+        "difficulty": 7
+    },
+    "581": {
+        "word": "dung",
+        "difficulty": 7
+    },
+    "582": {
+        "word": "dunk",
+        "difficulty": 7
+    },
+    "583": {
+        "word": "duns",
+        "difficulty": 7
+    },
+    "584": {
+        "word": "duos",
+        "difficulty": 5
+    },
+    "585": {
+        "word": "dupe",
+        "difficulty": 8
+    },
+    "586": {
+        "word": "dura",
+        "difficulty": 9
+    },
+    "587": {
+        "word": "dusk",
+        "difficulty": 6
+    },
+    "588": {
+        "word": "dust",
+        "difficulty": 3
+    },
+    "589": {
+        "word": "duty",
+        "difficulty": 2
+    },
+    "590": {
+        "word": "each",
+        "difficulty": 1
+    },
+    "591": {
+        "word": "earl",
+        "difficulty": 7
+    },
+    "592": {
+        "word": "earn",
+        "difficulty": 3
+    },
+    "593": {
+        "word": "ears",
+        "difficulty": 3
+    },
+    "594": {
+        "word": "easy",
+        "difficulty": 1
+    },
+    "595": {
+        "word": "east",
+        "difficulty": 2
+    },
+    "596": {
+        "word": "eats",
+        "difficulty": 2
+    },
+    "597": {
+        "word": "ebon",
+        "difficulty": 9
+    },
+    "598": {
+        "word": "echo",
+        "difficulty": 2
+    },
+    "599": {
+        "word": "echt",
+        "difficulty": 9
+    },
+    "600": {
+        "word": "ecru",
+        "difficulty": 10
+    },
+    "601": {
+        "word": "edam",
+        "difficulty": 10
+    },
+    "602": {
+        "word": "edgy",
+        "difficulty": 7
+    },
+    "603": {
+        "word": "edit",
+        "difficulty": 1
+    },
+    "604": {
+        "word": "egis",
+        "difficulty": 10
+    },
+    "605": {
+        "word": "egos",
+        "difficulty": 5
+    },
+    "606": {
+        "word": "eyas",
+        "difficulty": 10
+    },
+    "607": {
+        "word": "eyra",
+        "difficulty": 10
+    },
+    "608": {
+        "word": "elan",
+        "difficulty": 9
+    },
+    "609": {
+        "word": "elia",
+        "difficulty": 10
+    },
+    "610": {
+        "word": "elms",
+        "difficulty": 7
+    },
+    "611": {
+        "word": "emda",
+        "difficulty": 10
+    },
+    "612": {
+        "word": "emir",
+        "difficulty": 9
+    },
+    "613": {
+        "word": "emit",
+        "difficulty": 6
+    },
+    "614": {
+        "word": "encl",
+        "difficulty": 4
+    },
+    "615": {
+        "word": "ends",
+        "difficulty": 1
+    },
+    "616": {
+        "word": "enid",
+        "difficulty": 10
+    },
+    "617": {
+        "word": "enki",
+        "difficulty": 10
+    },
+    "618": {
+        "word": "enol",
+        "difficulty": 10
+    },
+    "619": {
+        "word": "envy",
+        "difficulty": 6
+    },
+    "620": {
+        "word": "epha",
+        "difficulty": 10
+    },
+    "621": {
+        "word": "epic",
+        "difficulty": 5
+    },
+    "622": {
+        "word": "epos",
+        "difficulty": 9
+    },
+    "623": {
+        "word": "eras",
+        "difficulty": 3
+    },
+    "624": {
+        "word": "ergo",
+        "difficulty": 8
+    },
+    "625": {
+        "word": "erin",
+        "difficulty": 8
+    },
+    "626": {
+        "word": "eris",
+        "difficulty": 10
+    },
+    "627": {
+        "word": "eros",
+        "difficulty": 7
+    },
+    "628": {
+        "word": "erst",
+        "difficulty": 9
+    },
+    "629": {
+        "word": "esau",
+        "difficulty": 10
+    },
+    "630": {
+        "word": "esox",
+        "difficulty": 10
+    },
+    "631": {
+        "word": "espy",
+        "difficulty": 10
+    },
+    "632": {
+        "word": "etch",
+        "difficulty": 7
+    },
+    "633": {
+        "word": "etna",
+        "difficulty": 10
+    },
+    "634": {
+        "word": "etui",
+        "difficulty": 10
+    },
+    "635": {
+        "word": "euro",
+        "difficulty": 4
+    },
+    "636": {
+        "word": "evil",
+        "difficulty": 2
+    },
+    "637": {
+        "word": "exam",
+        "difficulty": 3
+    },
+    "638": {
+        "word": "exit",
+        "difficulty": 2
+    },
+    "639": {
+        "word": "exon",
+        "difficulty": 6
+    },
+    "640": {
+        "word": "expo",
+        "difficulty": 7
+    },
+    "641": {
+        "word": "ezra",
+        "difficulty": 10
+    },
+    "642": {
+        "word": "face",
+        "difficulty": 1
+    },
+    "643": {
+        "word": "fact",
+        "difficulty": 1
+    },
+    "644": {
+        "word": "fade",
+        "difficulty": 5
+    },
+    "645": {
+        "word": "fado",
+        "difficulty": 10
+    },
+    "646": {
+        "word": "fads",
+        "difficulty": 7
+    },
+    "647": {
+        "word": "fail",
+        "difficulty": 2
+    },
+    "648": {
+        "word": "fain",
+        "difficulty": 9
+    },
+    "649": {
+        "word": "fair",
+        "difficulty": 2
+    },
+    "650": {
+        "word": "fake",
+        "difficulty": 3
+    },
+    "651": {
+        "word": "fame",
+        "difficulty": 4
+    },
+    "652": {
+        "word": "fang",
+        "difficulty": 9
+    },
+    "653": {
+        "word": "fans",
+        "difficulty": 2
+    },
+    "654": {
+        "word": "fare",
+        "difficulty": 4
+    },
+    "655": {
+        "word": "farm",
+        "difficulty": 2
+    },
+    "656": {
+        "word": "faro",
+        "difficulty": 8
+    },
+    "657": {
+        "word": "fart",
+        "difficulty": 7
+    },
+    "658": {
+        "word": "fast",
+        "difficulty": 1
+    },
+    "659": {
+        "word": "fate",
+        "difficulty": 4
+    },
+    "660": {
+        "word": "fats",
+        "difficulty": 1
+    },
+    "661": {
+        "word": "faun",
+        "difficulty": 10
+    },
+    "662": {
+        "word": "faux",
+        "difficulty": 6
+    },
+    "663": {
+        "word": "fawn",
+        "difficulty": 8
+    },
+    "664": {
+        "word": "faze",
+        "difficulty": 9
+    },
+    "665": {
+        "word": "fear",
+        "difficulty": 2
+    },
+    "666": {
+        "word": "feat",
+        "difficulty": 4
+    },
+    "667": {
+        "word": "feds",
+        "difficulty": 3
+    },
+    "668": {
+        "word": "felt",
+        "difficulty": 2
+    },
+    "669": {
+        "word": "fend",
+        "difficulty": 7
+    },
+    "670": {
+        "word": "fern",
+        "difficulty": 7
+    },
+    "671": {
+        "word": "feud",
+        "difficulty": 7
+    },
+    "672": {
+        "word": "fiat",
+        "difficulty": 7
+    },
+    "673": {
+        "word": "fica",
+        "difficulty": 9
+    },
+    "674": {
+        "word": "fice",
+        "difficulty": 9
+    },
+    "675": {
+        "word": "file",
+        "difficulty": 1
+    },
+    "676": {
+        "word": "film",
+        "difficulty": 1
+    },
+    "677": {
+        "word": "fils",
+        "difficulty": 9
+    },
+    "678": {
+        "word": "find",
+        "difficulty": 1
+    },
+    "679": {
+        "word": "fine",
+        "difficulty": 1
+    },
+    "680": {
+        "word": "fink",
+        "difficulty": 8
+    },
+    "681": {
+        "word": "fins",
+        "difficulty": 5
+    },
+    "682": {
+        "word": "fire",
+        "difficulty": 1
+    },
+    "683": {
+        "word": "firm",
+        "difficulty": 2
+    },
+    "684": {
+        "word": "firs",
+        "difficulty": 6
+    },
+    "685": {
+        "word": "fisc",
+        "difficulty": 10
+    },
+    "686": {
+        "word": "fish",
+        "difficulty": 2
+    },
+    "687": {
+        "word": "fist",
+        "difficulty": 3
+    },
+    "688": {
+        "word": "fits",
+        "difficulty": 2
+    },
+    "689": {
+        "word": "five",
+        "difficulty": 1
+    },
+    "690": {
+        "word": "flab",
+        "difficulty": 10
+    },
+    "691": {
+        "word": "flag",
+        "difficulty": 2
+    },
+    "692": {
+        "word": "flay",
+        "difficulty": 10
+    },
+    "693": {
+        "word": "flak",
+        "difficulty": 8
+    },
+    "694": {
+        "word": "flan",
+        "difficulty": 9
+    },
+    "695": {
+        "word": "flap",
+        "difficulty": 5
+    },
+    "696": {
+        "word": "flat",
+        "difficulty": 2
+    },
+    "697": {
+        "word": "flaw",
+        "difficulty": 5
+    },
+    "698": {
+        "word": "flax",
+        "difficulty": 7
+    },
+    "699": {
+        "word": "flea",
+        "difficulty": 6
+    },
+    "700": {
+        "word": "fled",
+        "difficulty": 5
+    },
+    "701": {
+        "word": "flew",
+        "difficulty": 2
+    },
+    "702": {
+        "word": "flex",
+        "difficulty": 5
+    },
+    "703": {
+        "word": "flip",
+        "difficulty": 4
+    },
+    "704": {
+        "word": "flit",
+        "difficulty": 9
+    },
+    "705": {
+        "word": "floc",
+        "difficulty": 10
+    },
+    "706": {
+        "word": "floe",
+        "difficulty": 10
+    },
+    "707": {
+        "word": "flog",
+        "difficulty": 9
+    },
+    "708": {
+        "word": "flop",
+        "difficulty": 5
+    },
+    "709": {
+        "word": "flow",
+        "difficulty": 1
+    },
+    "710": {
+        "word": "flub",
+        "difficulty": 10
+    },
+    "711": {
+        "word": "flue",
+        "difficulty": 7
+    },
+    "712": {
+        "word": "flux",
+        "difficulty": 4
+    },
+    "713": {
+        "word": "foal",
+        "difficulty": 8
+    },
+    "714": {
+        "word": "foam",
+        "difficulty": 4
+    },
+    "715": {
+        "word": "foci",
+        "difficulty": 1
+    },
+    "716": {
+        "word": "foes",
+        "difficulty": 6
+    },
+    "717": {
+        "word": "fogy",
+        "difficulty": 10
+    },
+    "718": {
+        "word": "fogs",
+        "difficulty": 5
+    },
+    "719": {
+        "word": "fohn",
+        "difficulty": 10
+    },
+    "720": {
+        "word": "foil",
+        "difficulty": 5
+    },
+    "721": {
+        "word": "fold",
+        "difficulty": 3
+    },
+    "722": {
+        "word": "folk",
+        "difficulty": 3
+    },
+    "723": {
+        "word": "fond",
+        "difficulty": 5
+    },
+    "724": {
+        "word": "font",
+        "difficulty": 2
+    },
+    "725": {
+        "word": "ford",
+        "difficulty": 3
+    },
+    "726": {
+        "word": "fore",
+        "difficulty": 5
+    },
+    "727": {
+        "word": "fork",
+        "difficulty": 4
+    },
+    "728": {
+        "word": "form",
+        "difficulty": 1
+    },
+    "729": {
+        "word": "fort",
+        "difficulty": 5
+    },
+    "730": {
+        "word": "foul",
+        "difficulty": 5
+    },
+    "731": {
+        "word": "four",
+        "difficulty": 1
+    },
+    "732": {
+        "word": "fowl",
+        "difficulty": 7
+    },
+    "733": {
+        "word": "foxy",
+        "difficulty": 8
+    },
+    "734": {
+        "word": "fray",
+        "difficulty": 7
+    },
+    "735": {
+        "word": "frap",
+        "difficulty": 10
+    },
+    "736": {
+        "word": "frat",
+        "difficulty": 7
+    },
+    "737": {
+        "word": "frau",
+        "difficulty": 6
+    },
+    "738": {
+        "word": "frey",
+        "difficulty": 9
+    },
+    "739": {
+        "word": "fret",
+        "difficulty": 7
+    },
+    "740": {
+        "word": "frog",
+        "difficulty": 4
+    },
+    "741": {
+        "word": "fthm",
+        "difficulty": 10
+    },
+    "742": {
+        "word": "fuck",
+        "difficulty": 2
+    },
+    "743": {
+        "word": "fuel",
+        "difficulty": 2
+    },
+    "744": {
+        "word": "fuji",
+        "difficulty": 7
+    },
+    "745": {
+        "word": "fula",
+        "difficulty": 10
+    },
+    "746": {
+        "word": "fume",
+        "difficulty": 8
+    },
+    "747": {
+        "word": "fund",
+        "difficulty": 2
+    },
+    "748": {
+        "word": "funk",
+        "difficulty": 5
+    },
+    "749": {
+        "word": "funs",
+        "difficulty": 1
+    },
+    "750": {
+        "word": "fury",
+        "difficulty": 6
+    },
+    "751": {
+        "word": "furl",
+        "difficulty": 9
+    },
+    "752": {
+        "word": "furs",
+        "difficulty": 4
+    },
+    "753": {
+        "word": "fuse",
+        "difficulty": 6
+    },
+    "754": {
+        "word": "fuze",
+        "difficulty": 10
+    },
+    "755": {
+        "word": "gads",
+        "difficulty": 9
+    },
+    "756": {
+        "word": "gael",
+        "difficulty": 7
+    },
+    "757": {
+        "word": "gain",
+        "difficulty": 2
+    },
+    "758": {
+        "word": "gays",
+        "difficulty": 1
+    },
+    "759": {
+        "word": "gait",
+        "difficulty": 7
+    },
+    "760": {
+        "word": "gale",
+        "difficulty": 7
+    },
+    "761": {
+        "word": "game",
+        "difficulty": 1
+    },
+    "762": {
+        "word": "gamy",
+        "difficulty": 10
+    },
+    "763": {
+        "word": "gamp",
+        "difficulty": 10
+    },
+    "764": {
+        "word": "gaol",
+        "difficulty": 9
+    },
+    "765": {
+        "word": "gape",
+        "difficulty": 9
+    },
+    "766": {
+        "word": "gaps",
+        "difficulty": 3
+    },
+    "767": {
+        "word": "garb",
+        "difficulty": 7
+    },
+    "768": {
+        "word": "gary",
+        "difficulty": 7
+    },
+    "769": {
+        "word": "gash",
+        "difficulty": 9
+    },
+    "770": {
+        "word": "gasp",
+        "difficulty": 7
+    },
+    "771": {
+        "word": "gate",
+        "difficulty": 3
+    },
+    "772": {
+        "word": "gaud",
+        "difficulty": 10
+    },
+    "773": {
+        "word": "gaul",
+        "difficulty": 10
+    },
+    "774": {
+        "word": "gaur",
+        "difficulty": 10
+    },
+    "775": {
+        "word": "gave",
+        "difficulty": 1
+    },
+    "776": {
+        "word": "gawk",
+        "difficulty": 8
+    },
+    "777": {
+        "word": "gawp",
+        "difficulty": 10
+    },
+    "778": {
+        "word": "gaze",
+        "difficulty": 5
+    },
+    "779": {
+        "word": "gean",
+        "difficulty": 10
+    },
+    "780": {
+        "word": "gear",
+        "difficulty": 2
+    },
+    "781": {
+        "word": "geld",
+        "difficulty": 7
+    },
+    "782": {
+        "word": "gelt",
+        "difficulty": 10
+    },
+    "783": {
+        "word": "gems",
+        "difficulty": 5
+    },
+    "784": {
+        "word": "gens",
+        "difficulty": 8
+    },
+    "785": {
+        "word": "gent",
+        "difficulty": 8
+    },
+    "786": {
+        "word": "genu",
+        "difficulty": 10
+    },
+    "787": {
+        "word": "germ",
+        "difficulty": 6
+    },
+    "788": {
+        "word": "geta",
+        "difficulty": 10
+    },
+    "789": {
+        "word": "gets",
+        "difficulty": 1
+    },
+    "790": {
+        "word": "geum",
+        "difficulty": 10
+    },
+    "791": {
+        "word": "ghat",
+        "difficulty": 10
+    },
+    "792": {
+        "word": "gibe",
+        "difficulty": 10
+    },
+    "793": {
+        "word": "gybe",
+        "difficulty": 10
+    },
+    "794": {
+        "word": "gift",
+        "difficulty": 1
+    },
+    "795": {
+        "word": "gila",
+        "difficulty": 10
+    },
+    "796": {
+        "word": "gild",
+        "difficulty": 10
+    },
+    "797": {
+        "word": "gilt",
+        "difficulty": 7
+    },
+    "798": {
+        "word": "gimp",
+        "difficulty": 7
+    },
+    "799": {
+        "word": "gyms",
+        "difficulty": 4
+    },
+    "800": {
+        "word": "gins",
+        "difficulty": 7
+    },
+    "801": {
+        "word": "gyps",
+        "difficulty": 10
+    },
+    "802": {
+        "word": "gird",
+        "difficulty": 10
+    },
+    "803": {
+        "word": "gyre",
+        "difficulty": 10
+    },
+    "804": {
+        "word": "girl",
+        "difficulty": 1
+    },
+    "805": {
+        "word": "giro",
+        "difficulty": 8
+    },
+    "806": {
+        "word": "gyro",
+        "difficulty": 9
+    },
+    "807": {
+        "word": "gish",
+        "difficulty": 10
+    },
+    "808": {
+        "word": "gist",
+        "difficulty": 8
+    },
+    "809": {
+        "word": "give",
+        "difficulty": 1
+    },
+    "810": {
+        "word": "glad",
+        "difficulty": 2
+    },
+    "811": {
+        "word": "glen",
+        "difficulty": 8
+    },
+    "812": {
+        "word": "glia",
+        "difficulty": 9
+    },
+    "813": {
+        "word": "glib",
+        "difficulty": 7
+    },
+    "814": {
+        "word": "glis",
+        "difficulty": 10
+    },
+    "815": {
+        "word": "glob",
+        "difficulty": 8
+    },
+    "816": {
+        "word": "glom",
+        "difficulty": 10
+    },
+    "817": {
+        "word": "glop",
+        "difficulty": 10
+    },
+    "818": {
+        "word": "glow",
+        "difficulty": 5
+    },
+    "819": {
+        "word": "glue",
+        "difficulty": 5
+    },
+    "820": {
+        "word": "glum",
+        "difficulty": 9
+    },
+    "821": {
+        "word": "glut",
+        "difficulty": 8
+    },
+    "822": {
+        "word": "gnat",
+        "difficulty": 8
+    },
+    "823": {
+        "word": "gnaw",
+        "difficulty": 9
+    },
+    "824": {
+        "word": "goad",
+        "difficulty": 9
+    },
+    "825": {
+        "word": "goal",
+        "difficulty": 1
+    },
+    "826": {
+        "word": "goat",
+        "difficulty": 4
+    },
+    "827": {
+        "word": "gobi",
+        "difficulty": 10
+    },
+    "828": {
+        "word": "goby",
+        "difficulty": 9
+    },
+    "829": {
+        "word": "gobs",
+        "difficulty": 9
+    },
+    "830": {
+        "word": "gods",
+        "difficulty": 3
+    },
+    "831": {
+        "word": "goer",
+        "difficulty": 9
+    },
+    "832": {
+        "word": "goes",
+        "difficulty": 1
+    },
+    "833": {
+        "word": "gold",
+        "difficulty": 2
+    },
+    "834": {
+        "word": "golf",
+        "difficulty": 2
+    },
+    "835": {
+        "word": "goma",
+        "difficulty": 10
+    },
+    "836": {
+        "word": "gond",
+        "difficulty": 10
+    },
+    "837": {
+        "word": "gone",
+        "difficulty": 2
+    },
+    "838": {
+        "word": "gore",
+        "difficulty": 7
+    },
+    "839": {
+        "word": "gory",
+        "difficulty": 8
+    },
+    "840": {
+        "word": "goth",
+        "difficulty": 6
+    },
+    "841": {
+        "word": "gout",
+        "difficulty": 8
+    },
+    "842": {
+        "word": "gown",
+        "difficulty": 5
+    },
+    "843": {
+        "word": "grab",
+        "difficulty": 4
+    },
+    "844": {
+        "word": "grad",
+        "difficulty": 5
+    },
+    "845": {
+        "word": "graf",
+        "difficulty": 8
+    },
+    "846": {
+        "word": "gray",
+        "difficulty": 3
+    },
+    "847": {
+        "word": "gram",
+        "difficulty": 5
+    },
+    "848": {
+        "word": "grey",
+        "difficulty": 3
+    },
+    "849": {
+        "word": "grew",
+        "difficulty": 2
+    },
+    "850": {
+        "word": "grid",
+        "difficulty": 3
+    },
+    "851": {
+        "word": "grim",
+        "difficulty": 5
+    },
+    "852": {
+        "word": "grin",
+        "difficulty": 5
+    },
+    "853": {
+        "word": "grip",
+        "difficulty": 4
+    },
+    "854": {
+        "word": "gris",
+        "difficulty": 9
+    },
+    "855": {
+        "word": "grit",
+        "difficulty": 7
+    },
+    "856": {
+        "word": "grot",
+        "difficulty": 10
+    },
+    "857": {
+        "word": "grow",
+        "difficulty": 2
+    },
+    "858": {
+        "word": "grub",
+        "difficulty": 7
+    },
+    "859": {
+        "word": "grus",
+        "difficulty": 10
+    },
+    "860": {
+        "word": "guam",
+        "difficulty": 10
+    },
+    "861": {
+        "word": "guan",
+        "difficulty": 10
+    },
+    "862": {
+        "word": "guar",
+        "difficulty": 9
+    },
+    "863": {
+        "word": "guck",
+        "difficulty": 10
+    },
+    "864": {
+        "word": "guib",
+        "difficulty": 10
+    },
+    "865": {
+        "word": "guys",
+        "difficulty": 2
+    },
+    "866": {
+        "word": "gula",
+        "difficulty": 10
+    },
+    "867": {
+        "word": "gulf",
+        "difficulty": 6
+    },
+    "868": {
+        "word": "gulo",
+        "difficulty": 10
+    },
+    "869": {
+        "word": "gulp",
+        "difficulty": 8
+    },
+    "870": {
+        "word": "gums",
+        "difficulty": 5
+    },
+    "871": {
+        "word": "gunk",
+        "difficulty": 9
+    },
+    "872": {
+        "word": "guns",
+        "difficulty": 2
+    },
+    "873": {
+        "word": "gush",
+        "difficulty": 8
+    },
+    "874": {
+        "word": "gust",
+        "difficulty": 8
+    },
+    "875": {
+        "word": "guts",
+        "difficulty": 5
+    },
+    "876": {
+        "word": "hack",
+        "difficulty": 4
+    },
+    "877": {
+        "word": "hadj",
+        "difficulty": 10
+    },
+    "878": {
+        "word": "haem",
+        "difficulty": 10
+    },
+    "879": {
+        "word": "haft",
+        "difficulty": 10
+    },
+    "880": {
+        "word": "haik",
+        "difficulty": 10
+    },
+    "881": {
+        "word": "hail",
+        "difficulty": 6
+    },
+    "882": {
+        "word": "hair",
+        "difficulty": 2
+    },
+    "883": {
+        "word": "hays",
+        "difficulty": 10
+    },
+    "884": {
+        "word": "haji",
+        "difficulty": 10
+    },
+    "885": {
+        "word": "hake",
+        "difficulty": 9
+    },
+    "886": {
+        "word": "hale",
+        "difficulty": 9
+    },
+    "887": {
+        "word": "half",
+        "difficulty": 1
+    },
+    "888": {
+        "word": "halm",
+        "difficulty": 10
+    },
+    "889": {
+        "word": "halo",
+        "difficulty": 6
+    },
+    "890": {
+        "word": "hals",
+        "difficulty": 10
+    },
+    "891": {
+        "word": "halt",
+        "difficulty": 5
+    },
+    "892": {
+        "word": "hame",
+        "difficulty": 9
+    },
+    "893": {
+        "word": "hams",
+        "difficulty": 5
+    },
+    "894": {
+        "word": "hand",
+        "difficulty": 1
+    },
+    "895": {
+        "word": "hang",
+        "difficulty": 3
+    },
+    "896": {
+        "word": "hank",
+        "difficulty": 9
+    },
+    "897": {
+        "word": "hard",
+        "difficulty": 1
+    },
+    "898": {
+        "word": "hare",
+        "difficulty": 7
+    },
+    "899": {
+        "word": "hark",
+        "difficulty": 9
+    },
+    "900": {
+        "word": "harm",
+        "difficulty": 3
+    },
+    "901": {
+        "word": "harp",
+        "difficulty": 6
+    },
+    "902": {
+        "word": "hart",
+        "difficulty": 6
+    },
+    "903": {
+        "word": "hasp",
+        "difficulty": 10
+    },
+    "904": {
+        "word": "hate",
+        "difficulty": 2
+    },
+    "905": {
+        "word": "hats",
+        "difficulty": 3
+    },
+    "906": {
+        "word": "haul",
+        "difficulty": 5
+    },
+    "907": {
+        "word": "have",
+        "difficulty": 1
+    },
+    "908": {
+        "word": "hawk",
+        "difficulty": 6
+    },
+    "909": {
+        "word": "haze",
+        "difficulty": 6
+    },
+    "910": {
+        "word": "hazy",
+        "difficulty": 7
+    },
+    "911": {
+        "word": "head",
+        "difficulty": 1
+    },
+    "912": {
+        "word": "heal",
+        "difficulty": 5
+    },
+    "913": {
+        "word": "heap",
+        "difficulty": 5
+    },
+    "914": {
+        "word": "hear",
+        "difficulty": 1
+    },
+    "915": {
+        "word": "heat",
+        "difficulty": 2
+    },
+    "916": {
+        "word": "heft",
+        "difficulty": 9
+    },
+    "917": {
+        "word": "heir",
+        "difficulty": 6
+    },
+    "918": {
+        "word": "held",
+        "difficulty": 1
+    },
+    "919": {
+        "word": "helm",
+        "difficulty": 6
+    },
+    "920": {
+        "word": "help",
+        "difficulty": 1
+    },
+    "921": {
+        "word": "hemp",
+        "difficulty": 6
+    },
+    "922": {
+        "word": "hems",
+        "difficulty": 6
+    },
+    "923": {
+        "word": "hens",
+        "difficulty": 6
+    },
+    "924": {
+        "word": "hera",
+        "difficulty": 10
+    },
+    "925": {
+        "word": "herb",
+        "difficulty": 5
+    },
+    "926": {
+        "word": "herd",
+        "difficulty": 5
+    },
+    "927": {
+        "word": "herm",
+        "difficulty": 10
+    },
+    "928": {
+        "word": "hero",
+        "difficulty": 3
+    },
+    "929": {
+        "word": "hewn",
+        "difficulty": 9
+    },
+    "930": {
+        "word": "hews",
+        "difficulty": 9
+    },
+    "931": {
+        "word": "hick",
+        "difficulty": 9
+    },
+    "932": {
+        "word": "hide",
+        "difficulty": 2
+    },
+    "933": {
+        "word": "hied",
+        "difficulty": 9
+    },
+    "934": {
+        "word": "hies",
+        "difficulty": 9
+    },
+    "935": {
+        "word": "hike",
+        "difficulty": 5
+    },
+    "936": {
+        "word": "hyla",
+        "difficulty": 10
+    },
+    "937": {
+        "word": "hilt",
+        "difficulty": 8
+    },
+    "938": {
+        "word": "hymn",
+        "difficulty": 7
+    },
+    "939": {
+        "word": "hind",
+        "difficulty": 7
+    },
+    "940": {
+        "word": "hint",
+        "difficulty": 4
+    },
+    "941": {
+        "word": "hype",
+        "difficulty": 5
+    },
+    "942": {
+        "word": "hypo",
+        "difficulty": 8
+    },
+    "943": {
+        "word": "hips",
+        "difficulty": 2
+    },
+    "944": {
+        "word": "hire",
+        "difficulty": 2
+    },
+    "945": {
+        "word": "hits",
+        "difficulty": 1
+    },
+    "946": {
+        "word": "hive",
+        "difficulty": 7
+    },
+    "947": {
+        "word": "hoar",
+        "difficulty": 10
+    },
+    "948": {
+        "word": "hoax",
+        "difficulty": 7
+    },
+    "949": {
+        "word": "hock",
+        "difficulty": 9
+    },
+    "950": {
+        "word": "hoya",
+        "difficulty": 10
+    },
+    "951": {
+        "word": "hold",
+        "difficulty": 1
+    },
+    "952": {
+        "word": "hole",
+        "difficulty": 2
+    },
+    "953": {
+        "word": "holy",
+        "difficulty": 3
+    },
+    "954": {
+        "word": "home",
+        "difficulty": 1
+    },
+    "955": {
+        "word": "homy",
+        "difficulty": 10
+    },
+    "956": {
+        "word": "hone",
+        "difficulty": 7
+    },
+    "957": {
+        "word": "honk",
+        "difficulty": 9
+    },
+    "958": {
+        "word": "hope",
+        "difficulty": 1
+    },
+    "959": {
+        "word": "hopi",
+        "difficulty": 10
+    },
+    "960": {
+        "word": "hops",
+        "difficulty": 3
+    },
+    "961": {
+        "word": "horn",
+        "difficulty": 5
+    },
+    "962": {
+        "word": "hose",
+        "difficulty": 4
+    },
+    "963": {
+        "word": "host",
+        "difficulty": 1
+    },
+    "964": {
+        "word": "hots",
+        "difficulty": 1
+    },
+    "965": {
+        "word": "hour",
+        "difficulty": 1
+    },
+    "966": {
+        "word": "howe",
+        "difficulty": 9
+    },
+    "967": {
+        "word": "howl",
+        "difficulty": 8
+    },
+    "968": {
+        "word": "hubs",
+        "difficulty": 4
+    },
+    "969": {
+        "word": "huck",
+        "difficulty": 10
+    },
+    "970": {
+        "word": "huge",
+        "difficulty": 1
+    },
+    "971": {
+        "word": "hugo",
+        "difficulty": 8
+    },
+    "972": {
+        "word": "hugs",
+        "difficulty": 5
+    },
+    "973": {
+        "word": "hula",
+        "difficulty": 8
+    },
+    "974": {
+        "word": "hulk",
+        "difficulty": 8
+    },
+    "975": {
+        "word": "hume",
+        "difficulty": 10
+    },
+    "976": {
+        "word": "hump",
+        "difficulty": 7
+    },
+    "977": {
+        "word": "hums",
+        "difficulty": 6
+    },
+    "978": {
+        "word": "hung",
+        "difficulty": 3
+    },
+    "979": {
+        "word": "hunk",
+        "difficulty": 5
+    },
+    "980": {
+        "word": "hunt",
+        "difficulty": 4
+    },
+    "981": {
+        "word": "hupa",
+        "difficulty": 10
+    },
+    "982": {
+        "word": "hurl",
+        "difficulty": 8
+    },
+    "983": {
+        "word": "hurt",
+        "difficulty": 3
+    },
+    "984": {
+        "word": "husk",
+        "difficulty": 9
+    },
+    "985": {
+        "word": "huts",
+        "difficulty": 6
+    },
+    "986": {
+        "word": "yack",
+        "difficulty": 10
+    },
+    "987": {
+        "word": "yagi",
+        "difficulty": 10
+    },
+    "988": {
+        "word": "iago",
+        "difficulty": 10
+    },
+    "989": {
+        "word": "yale",
+        "difficulty": 9
+    },
+    "990": {
+        "word": "iamb",
+        "difficulty": 10
+    },
+    "991": {
+        "word": "yang",
+        "difficulty": 6
+    },
+    "992": {
+        "word": "yank",
+        "difficulty": 8
+    },
+    "993": {
+        "word": "yard",
+        "difficulty": 3
+    },
+    "994": {
+        "word": "yarn",
+        "difficulty": 5
+    },
+    "995": {
+        "word": "yaup",
+        "difficulty": 10
+    },
+    "996": {
+        "word": "yawl",
+        "difficulty": 10
+    },
+    "997": {
+        "word": "yawn",
+        "difficulty": 8
+    },
+    "998": {
+        "word": "yawp",
+        "difficulty": 10
+    },
+    "999": {
+        "word": "yaws",
+        "difficulty": 10
+    },
+    "1000": {
+        "word": "ibex",
+        "difficulty": 10
+    },
+    "1001": {
+        "word": "icbm",
+        "difficulty": 10
+    },
+    "1002": {
+        "word": "iced",
+        "difficulty": 2
+    },
+    "1003": {
+        "word": "ices",
+        "difficulty": 2
+    },
+    "1004": {
+        "word": "icky",
+        "difficulty": 9
+    },
+    "1005": {
+        "word": "icon",
+        "difficulty": 2
+    },
+    "1006": {
+        "word": "idea",
+        "difficulty": 1
+    },
+    "1007": {
+        "word": "ides",
+        "difficulty": 9
+    },
+    "1008": {
+        "word": "idyl",
+        "difficulty": 10
+    },
+    "1009": {
+        "word": "idle",
+        "difficulty": 4
+    },
+    "1010": {
+        "word": "idly",
+        "difficulty": 8
+    },
+    "1011": {
+        "word": "idol",
+        "difficulty": 6
+    },
+    "1012": {
+        "word": "yeah",
+        "difficulty": 3
+    },
+    "1013": {
+        "word": "year",
+        "difficulty": 1
+    },
+    "1014": {
+        "word": "yelp",
+        "difficulty": 9
+    },
+    "1015": {
+        "word": "yens",
+        "difficulty": 5
+    },
+    "1016": {
+        "word": "yeti",
+        "difficulty": 9
+    },
+    "1017": {
+        "word": "iglu",
+        "difficulty": 10
+    },
+    "1018": {
+        "word": "iyar",
+        "difficulty": 10
+    },
+    "1019": {
+        "word": "yips",
+        "difficulty": 10
+    },
+    "1020": {
+        "word": "ikon",
+        "difficulty": 10
+    },
+    "1021": {
+        "word": "ylem",
+        "difficulty": 10
+    },
+    "1022": {
+        "word": "ilex",
+        "difficulty": 10
+    },
+    "1023": {
+        "word": "imps",
+        "difficulty": 6
+    },
+    "1024": {
+        "word": "inca",
+        "difficulty": 9
+    },
+    "1025": {
+        "word": "inch",
+        "difficulty": 2
+    },
+    "1026": {
+        "word": "info",
+        "difficulty": 1
+    },
+    "1027": {
+        "word": "inga",
+        "difficulty": 10
+    },
+    "1028": {
+        "word": "inky",
+        "difficulty": 9
+    },
+    "1029": {
+        "word": "inks",
+        "difficulty": 3
+    },
+    "1030": {
+        "word": "inst",
+        "difficulty": 6
+    },
+    "1031": {
+        "word": "yodh",
+        "difficulty": 10
+    },
+    "1032": {
+        "word": "yoga",
+        "difficulty": 4
+    },
+    "1033": {
+        "word": "yogi",
+        "difficulty": 9
+    },
+    "1034": {
+        "word": "yoke",
+        "difficulty": 7
+    },
+    "1035": {
+        "word": "yolk",
+        "difficulty": 8
+    },
+    "1036": {
+        "word": "ions",
+        "difficulty": 3
+    },
+    "1037": {
+        "word": "yore",
+        "difficulty": 8
+    },
+    "1038": {
+        "word": "york",
+        "difficulty": 3
+    },
+    "1039": {
+        "word": "iota",
+        "difficulty": 9
+    },
+    "1040": {
+        "word": "iowa",
+        "difficulty": 7
+    },
+    "1041": {
+        "word": "yowl",
+        "difficulty": 10
+    },
+    "1042": {
+        "word": "iran",
+        "difficulty": 7
+    },
+    "1043": {
+        "word": "iraq",
+        "difficulty": 6
+    },
+    "1044": {
+        "word": "irks",
+        "difficulty": 10
+    },
+    "1045": {
+        "word": "iron",
+        "difficulty": 2
+    },
+    "1046": {
+        "word": "isle",
+        "difficulty": 7
+    },
+    "1047": {
+        "word": "itch",
+        "difficulty": 7
+    },
+    "1048": {
+        "word": "item",
+        "difficulty": 1
+    },
+    "1049": {
+        "word": "yuan",
+        "difficulty": 6
+    },
+    "1050": {
+        "word": "yule",
+        "difficulty": 10
+    },
+    "1051": {
+        "word": "yuma",
+        "difficulty": 10
+    },
+    "1052": {
+        "word": "yurt",
+        "difficulty": 10
+    },
+    "1053": {
+        "word": "izar",
+        "difficulty": 10
+    },
+    "1054": {
+        "word": "jack",
+        "difficulty": 3
+    },
+    "1055": {
+        "word": "jade",
+        "difficulty": 6
+    },
+    "1056": {
+        "word": "jags",
+        "difficulty": 8
+    },
+    "1057": {
+        "word": "jail",
+        "difficulty": 4
+    },
+    "1058": {
+        "word": "jain",
+        "difficulty": 9
+    },
+    "1059": {
+        "word": "jamb",
+        "difficulty": 9
+    },
+    "1060": {
+        "word": "jams",
+        "difficulty": 4
+    },
+    "1061": {
+        "word": "jape",
+        "difficulty": 10
+    },
+    "1062": {
+        "word": "jars",
+        "difficulty": 4
+    },
+    "1063": {
+        "word": "jati",
+        "difficulty": 10
+    },
+    "1064": {
+        "word": "jaws",
+        "difficulty": 5
+    },
+    "1065": {
+        "word": "jean",
+        "difficulty": 6
+    },
+    "1066": {
+        "word": "jerk",
+        "difficulty": 5
+    },
+    "1067": {
+        "word": "jest",
+        "difficulty": 7
+    },
+    "1068": {
+        "word": "jets",
+        "difficulty": 3
+    },
+    "1069": {
+        "word": "jiao",
+        "difficulty": 10
+    },
+    "1070": {
+        "word": "jibe",
+        "difficulty": 9
+    },
+    "1071": {
+        "word": "jigs",
+        "difficulty": 7
+    },
+    "1072": {
+        "word": "jilt",
+        "difficulty": 10
+    },
+    "1073": {
+        "word": "jinx",
+        "difficulty": 9
+    },
+    "1074": {
+        "word": "jynx",
+        "difficulty": 10
+    },
+    "1075": {
+        "word": "jive",
+        "difficulty": 8
+    },
+    "1076": {
+        "word": "jobs",
+        "difficulty": 1
+    },
+    "1077": {
+        "word": "jock",
+        "difficulty": 7
+    },
+    "1078": {
+        "word": "joel",
+        "difficulty": 7
+    },
+    "1079": {
+        "word": "jogs",
+        "difficulty": 7
+    },
+    "1080": {
+        "word": "john",
+        "difficulty": 3
+    },
+    "1081": {
+        "word": "join",
+        "difficulty": 1
+    },
+    "1082": {
+        "word": "joys",
+        "difficulty": 3
+    },
+    "1083": {
+        "word": "joke",
+        "difficulty": 3
+    },
+    "1084": {
+        "word": "jolt",
+        "difficulty": 8
+    },
+    "1085": {
+        "word": "jong",
+        "difficulty": 8
+    },
+    "1086": {
+        "word": "josh",
+        "difficulty": 7
+    },
+    "1087": {
+        "word": "jots",
+        "difficulty": 8
+    },
+    "1088": {
+        "word": "jove",
+        "difficulty": 10
+    },
+    "1089": {
+        "word": "jowl",
+        "difficulty": 10
+    },
+    "1090": {
+        "word": "jude",
+        "difficulty": 9
+    },
+    "1091": {
+        "word": "judo",
+        "difficulty": 8
+    },
+    "1092": {
+        "word": "juke",
+        "difficulty": 9
+    },
+    "1093": {
+        "word": "july",
+        "difficulty": 6
+    },
+    "1094": {
+        "word": "jump",
+        "difficulty": 2
+    },
+    "1095": {
+        "word": "june",
+        "difficulty": 6
+    },
+    "1096": {
+        "word": "junk",
+        "difficulty": 4
+    },
+    "1097": {
+        "word": "juno",
+        "difficulty": 9
+    },
+    "1098": {
+        "word": "jury",
+        "difficulty": 3
+    },
+    "1099": {
+        "word": "just",
+        "difficulty": 1
+    },
+    "1100": {
+        "word": "jute",
+        "difficulty": 8
+    },
+    "1101": {
+        "word": "juts",
+        "difficulty": 9
+    },
+    "1102": {
+        "word": "kail",
+        "difficulty": 10
+    },
+    "1103": {
+        "word": "kayo",
+        "difficulty": 9
+    },
+    "1104": {
+        "word": "kale",
+        "difficulty": 9
+    },
+    "1105": {
+        "word": "kali",
+        "difficulty": 9
+    },
+    "1106": {
+        "word": "kami",
+        "difficulty": 8
+    },
+    "1107": {
+        "word": "kant",
+        "difficulty": 10
+    },
+    "1108": {
+        "word": "kaon",
+        "difficulty": 9
+    },
+    "1109": {
+        "word": "kaph",
+        "difficulty": 10
+    },
+    "1110": {
+        "word": "keys",
+        "difficulty": 1
+    },
+    "1111": {
+        "word": "kelp",
+        "difficulty": 8
+    },
+    "1112": {
+        "word": "kelt",
+        "difficulty": 10
+    },
+    "1113": {
+        "word": "keno",
+        "difficulty": 4
+    },
+    "1114": {
+        "word": "kent",
+        "difficulty": 7
+    },
+    "1115": {
+        "word": "kepi",
+        "difficulty": 10
+    },
+    "1116": {
+        "word": "kept",
+        "difficulty": 1
+    },
+    "1117": {
+        "word": "kerb",
+        "difficulty": 9
+    },
+    "1118": {
+        "word": "kern",
+        "difficulty": 7
+    },
+    "1119": {
+        "word": "khan",
+        "difficulty": 8
+    },
+    "1120": {
+        "word": "khat",
+        "difficulty": 10
+    },
+    "1121": {
+        "word": "kyat",
+        "difficulty": 10
+    },
+    "1122": {
+        "word": "kibe",
+        "difficulty": 10
+    },
+    "1123": {
+        "word": "kids",
+        "difficulty": 3
+    },
+    "1124": {
+        "word": "kiev",
+        "difficulty": 9
+    },
+    "1125": {
+        "word": "kiln",
+        "difficulty": 6
+    },
+    "1126": {
+        "word": "kilo",
+        "difficulty": 8
+    },
+    "1127": {
+        "word": "kilt",
+        "difficulty": 8
+    },
+    "1128": {
+        "word": "kina",
+        "difficulty": 10
+    },
+    "1129": {
+        "word": "kind",
+        "difficulty": 1
+    },
+    "1130": {
+        "word": "kine",
+        "difficulty": 9
+    },
+    "1131": {
+        "word": "king",
+        "difficulty": 2
+    },
+    "1132": {
+        "word": "kino",
+        "difficulty": 9
+    },
+    "1133": {
+        "word": "kite",
+        "difficulty": 6
+    },
+    "1134": {
+        "word": "kith",
+        "difficulty": 10
+    },
+    "1135": {
+        "word": "kits",
+        "difficulty": 2
+    },
+    "1136": {
+        "word": "kivu",
+        "difficulty": 10
+    },
+    "1137": {
+        "word": "klan",
+        "difficulty": 10
+    },
+    "1138": {
+        "word": "knap",
+        "difficulty": 10
+    },
+    "1139": {
+        "word": "knew",
+        "difficulty": 1
+    },
+    "1140": {
+        "word": "knit",
+        "difficulty": 5
+    },
+    "1141": {
+        "word": "knob",
+        "difficulty": 6
+    },
+    "1142": {
+        "word": "knot",
+        "difficulty": 5
+    },
+    "1143": {
+        "word": "know",
+        "difficulty": 1
+    },
+    "1144": {
+        "word": "knox",
+        "difficulty": 9
+    },
+    "1145": {
+        "word": "knut",
+        "difficulty": 10
+    },
+    "1146": {
+        "word": "koan",
+        "difficulty": 10
+    },
+    "1147": {
+        "word": "koch",
+        "difficulty": 10
+    },
+    "1148": {
+        "word": "kohl",
+        "difficulty": 10
+    },
+    "1149": {
+        "word": "kola",
+        "difficulty": 9
+    },
+    "1150": {
+        "word": "komi",
+        "difficulty": 10
+    },
+    "1151": {
+        "word": "kore",
+        "difficulty": 10
+    },
+    "1152": {
+        "word": "kota",
+        "difficulty": 10
+    },
+    "1153": {
+        "word": "kris",
+        "difficulty": 8
+    },
+    "1154": {
+        "word": "kurd",
+        "difficulty": 10
+    },
+    "1155": {
+        "word": "labs",
+        "difficulty": 3
+    },
+    "1156": {
+        "word": "lace",
+        "difficulty": 5
+    },
+    "1157": {
+        "word": "lacy",
+        "difficulty": 8
+    },
+    "1158": {
+        "word": "lack",
+        "difficulty": 2
+    },
+    "1159": {
+        "word": "lade",
+        "difficulty": 10
+    },
+    "1160": {
+        "word": "lady",
+        "difficulty": 3
+    },
+    "1161": {
+        "word": "lads",
+        "difficulty": 6
+    },
+    "1162": {
+        "word": "lags",
+        "difficulty": 5
+    },
+    "1163": {
+        "word": "laic",
+        "difficulty": 10
+    },
+    "1164": {
+        "word": "laid",
+        "difficulty": 2
+    },
+    "1165": {
+        "word": "lair",
+        "difficulty": 8
+    },
+    "1166": {
+        "word": "lays",
+        "difficulty": 2
+    },
+    "1167": {
+        "word": "lake",
+        "difficulty": 3
+    },
+    "1168": {
+        "word": "lakh",
+        "difficulty": 7
+    },
+    "1169": {
+        "word": "lamb",
+        "difficulty": 5
+    },
+    "1170": {
+        "word": "lame",
+        "difficulty": 5
+    },
+    "1171": {
+        "word": "lamp",
+        "difficulty": 3
+    },
+    "1172": {
+        "word": "land",
+        "difficulty": 1
+    },
+    "1173": {
+        "word": "lane",
+        "difficulty": 4
+    },
+    "1174": {
+        "word": "lank",
+        "difficulty": 10
+    },
+    "1175": {
+        "word": "laos",
+        "difficulty": 9
+    },
+    "1176": {
+        "word": "laps",
+        "difficulty": 4
+    },
+    "1177": {
+        "word": "lard",
+        "difficulty": 8
+    },
+    "1178": {
+        "word": "lari",
+        "difficulty": 10
+    },
+    "1179": {
+        "word": "lark",
+        "difficulty": 8
+    },
+    "1180": {
+        "word": "larn",
+        "difficulty": 10
+    },
+    "1181": {
+        "word": "lash",
+        "difficulty": 8
+    },
+    "1182": {
+        "word": "last",
+        "difficulty": 1
+    },
+    "1183": {
+        "word": "late",
+        "difficulty": 1
+    },
+    "1184": {
+        "word": "lath",
+        "difficulty": 10
+    },
+    "1185": {
+        "word": "lats",
+        "difficulty": 9
+    },
+    "1186": {
+        "word": "laud",
+        "difficulty": 9
+    },
+    "1187": {
+        "word": "lave",
+        "difficulty": 9
+    },
+    "1188": {
+        "word": "lawn",
+        "difficulty": 4
+    },
+    "1189": {
+        "word": "laws",
+        "difficulty": 1
+    },
+    "1190": {
+        "word": "laze",
+        "difficulty": 10
+    },
+    "1191": {
+        "word": "lazy",
+        "difficulty": 4
+    },
+    "1192": {
+        "word": "lead",
+        "difficulty": 1
+    },
+    "1193": {
+        "word": "leaf",
+        "difficulty": 3
+    },
+    "1194": {
+        "word": "leak",
+        "difficulty": 4
+    },
+    "1195": {
+        "word": "lean",
+        "difficulty": 4
+    },
+    "1196": {
+        "word": "leap",
+        "difficulty": 5
+    },
+    "1197": {
+        "word": "lear",
+        "difficulty": 9
+    },
+    "1198": {
+        "word": "lech",
+        "difficulty": 10
+    },
+    "1199": {
+        "word": "leda",
+        "difficulty": 10
+    },
+    "1200": {
+        "word": "left",
+        "difficulty": 1
+    },
+    "1201": {
+        "word": "legs",
+        "difficulty": 3
+    },
+    "1202": {
+        "word": "lena",
+        "difficulty": 9
+    },
+    "1203": {
+        "word": "lend",
+        "difficulty": 5
+    },
+    "1204": {
+        "word": "lens",
+        "difficulty": 3
+    },
+    "1205": {
+        "word": "lent",
+        "difficulty": 5
+    },
+    "1206": {
+        "word": "leon",
+        "difficulty": 8
+    },
+    "1207": {
+        "word": "leto",
+        "difficulty": 10
+    },
+    "1208": {
+        "word": "lets",
+        "difficulty": 1
+    },
+    "1209": {
+        "word": "levi",
+        "difficulty": 8
+    },
+    "1210": {
+        "word": "levy",
+        "difficulty": 5
+    },
+    "1211": {
+        "word": "lewd",
+        "difficulty": 8
+    },
+    "1212": {
+        "word": "liar",
+        "difficulty": 6
+    },
+    "1213": {
+        "word": "lice",
+        "difficulty": 9
+    },
+    "1214": {
+        "word": "lick",
+        "difficulty": 5
+    },
+    "1215": {
+        "word": "lido",
+        "difficulty": 7
+    },
+    "1216": {
+        "word": "lids",
+        "difficulty": 4
+    },
+    "1217": {
+        "word": "lied",
+        "difficulty": 5
+    },
+    "1218": {
+        "word": "lief",
+        "difficulty": 10
+    },
+    "1219": {
+        "word": "lien",
+        "difficulty": 5
+    },
+    "1220": {
+        "word": "lies",
+        "difficulty": 3
+    },
+    "1221": {
+        "word": "lieu",
+        "difficulty": 5
+    },
+    "1222": {
+        "word": "life",
+        "difficulty": 1
+    },
+    "1223": {
+        "word": "lifo",
+        "difficulty": 10
+    },
+    "1224": {
+        "word": "lift",
+        "difficulty": 3
+    },
+    "1225": {
+        "word": "like",
+        "difficulty": 1
+    },
+    "1226": {
+        "word": "lima",
+        "difficulty": 8
+    },
+    "1227": {
+        "word": "limb",
+        "difficulty": 5
+    },
+    "1228": {
+        "word": "lime",
+        "difficulty": 5
+    },
+    "1229": {
+        "word": "limn",
+        "difficulty": 10
+    },
+    "1230": {
+        "word": "limo",
+        "difficulty": 6
+    },
+    "1231": {
+        "word": "limp",
+        "difficulty": 5
+    },
+    "1232": {
+        "word": "lind",
+        "difficulty": 10
+    },
+    "1233": {
+        "word": "line",
+        "difficulty": 1
+    },
+    "1234": {
+        "word": "ling",
+        "difficulty": 7
+    },
+    "1235": {
+        "word": "link",
+        "difficulty": 1
+    },
+    "1236": {
+        "word": "lino",
+        "difficulty": 9
+    },
+    "1237": {
+        "word": "lint",
+        "difficulty": 7
+    },
+    "1238": {
+        "word": "lynx",
+        "difficulty": 6
+    },
+    "1239": {
+        "word": "lion",
+        "difficulty": 4
+    },
+    "1240": {
+        "word": "lyon",
+        "difficulty": 8
+    },
+    "1241": {
+        "word": "lips",
+        "difficulty": 4
+    },
+    "1242": {
+        "word": "lira",
+        "difficulty": 8
+    },
+    "1243": {
+        "word": "lyra",
+        "difficulty": 10
+    },
+    "1244": {
+        "word": "lyre",
+        "difficulty": 9
+    },
+    "1245": {
+        "word": "lisp",
+        "difficulty": 5
+    },
+    "1246": {
+        "word": "list",
+        "difficulty": 1
+    },
+    "1247": {
+        "word": "lite",
+        "difficulty": 5
+    },
+    "1248": {
+        "word": "live",
+        "difficulty": 1
+    },
+    "1249": {
+        "word": "liza",
+        "difficulty": 9
+    },
+    "1250": {
+        "word": "load",
+        "difficulty": 2
+    },
+    "1251": {
+        "word": "loaf",
+        "difficulty": 6
+    },
+    "1252": {
+        "word": "loam",
+        "difficulty": 7
+    },
+    "1253": {
+        "word": "loan",
+        "difficulty": 1
+    },
+    "1254": {
+        "word": "lobe",
+        "difficulty": 6
+    },
+    "1255": {
+        "word": "loch",
+        "difficulty": 8
+    },
+    "1256": {
+        "word": "loci",
+        "difficulty": 5
+    },
+    "1257": {
+        "word": "lock",
+        "difficulty": 2
+    },
+    "1258": {
+        "word": "lode",
+        "difficulty": 9
+    },
+    "1259": {
+        "word": "loft",
+        "difficulty": 6
+    },
+    "1260": {
+        "word": "loge",
+        "difficulty": 10
+    },
+    "1261": {
+        "word": "logy",
+        "difficulty": 10
+    },
+    "1262": {
+        "word": "logs",
+        "difficulty": 1
+    },
+    "1263": {
+        "word": "loin",
+        "difficulty": 8
+    },
+    "1264": {
+        "word": "loir",
+        "difficulty": 10
+    },
+    "1265": {
+        "word": "loki",
+        "difficulty": 9
+    },
+    "1266": {
+        "word": "lone",
+        "difficulty": 5
+    },
+    "1267": {
+        "word": "long",
+        "difficulty": 1
+    },
+    "1268": {
+        "word": "lope",
+        "difficulty": 10
+    },
+    "1269": {
+        "word": "lord",
+        "difficulty": 4
+    },
+    "1270": {
+        "word": "lore",
+        "difficulty": 7
+    },
+    "1271": {
+        "word": "lory",
+        "difficulty": 10
+    },
+    "1272": {
+        "word": "lose",
+        "difficulty": 2
+    },
+    "1273": {
+        "word": "lost",
+        "difficulty": 1
+    },
+    "1274": {
+        "word": "lota",
+        "difficulty": 10
+    },
+    "1275": {
+        "word": "loth",
+        "difficulty": 9
+    },
+    "1276": {
+        "word": "lots",
+        "difficulty": 1
+    },
+    "1277": {
+        "word": "loud",
+        "difficulty": 3
+    },
+    "1278": {
+        "word": "lour",
+        "difficulty": 10
+    },
+    "1279": {
+        "word": "lout",
+        "difficulty": 9
+    },
+    "1280": {
+        "word": "love",
+        "difficulty": 1
+    },
+    "1281": {
+        "word": "lows",
+        "difficulty": 1
+    },
+    "1282": {
+        "word": "luba",
+        "difficulty": 10
+    },
+    "1283": {
+        "word": "lube",
+        "difficulty": 7
+    },
+    "1284": {
+        "word": "luce",
+        "difficulty": 9
+    },
+    "1285": {
+        "word": "lucy",
+        "difficulty": 8
+    },
+    "1286": {
+        "word": "luck",
+        "difficulty": 3
+    },
+    "1287": {
+        "word": "ludo",
+        "difficulty": 10
+    },
+    "1288": {
+        "word": "lues",
+        "difficulty": 10
+    },
+    "1289": {
+        "word": "luge",
+        "difficulty": 9
+    },
+    "1290": {
+        "word": "lugs",
+        "difficulty": 6
+    },
+    "1291": {
+        "word": "luke",
+        "difficulty": 8
+    },
+    "1292": {
+        "word": "lump",
+        "difficulty": 5
+    },
+    "1293": {
+        "word": "luna",
+        "difficulty": 8
+    },
+    "1294": {
+        "word": "lung",
+        "difficulty": 4
+    },
+    "1295": {
+        "word": "lunt",
+        "difficulty": 10
+    },
+    "1296": {
+        "word": "lure",
+        "difficulty": 6
+    },
+    "1297": {
+        "word": "lurk",
+        "difficulty": 8
+    },
+    "1298": {
+        "word": "lush",
+        "difficulty": 5
+    },
+    "1299": {
+        "word": "lust",
+        "difficulty": 5
+    },
+    "1300": {
+        "word": "lute",
+        "difficulty": 8
+    },
+    "1301": {
+        "word": "luxe",
+        "difficulty": 8
+    },
+    "1302": {
+        "word": "mace",
+        "difficulty": 8
+    },
+    "1303": {
+        "word": "mach",
+        "difficulty": 8
+    },
+    "1304": {
+        "word": "mack",
+        "difficulty": 8
+    },
+    "1305": {
+        "word": "made",
+        "difficulty": 1
+    },
+    "1306": {
+        "word": "magh",
+        "difficulty": 10
+    },
+    "1307": {
+        "word": "magi",
+        "difficulty": 9
+    },
+    "1308": {
+        "word": "maid",
+        "difficulty": 5
+    },
+    "1309": {
+        "word": "mail",
+        "difficulty": 1
+    },
+    "1310": {
+        "word": "main",
+        "difficulty": 1
+    },
+    "1311": {
+        "word": "mayo",
+        "difficulty": 7
+    },
+    "1312": {
+        "word": "mays",
+        "difficulty": 1
+    },
+    "1313": {
+        "word": "make",
+        "difficulty": 1
+    },
+    "1314": {
+        "word": "mako",
+        "difficulty": 10
+    },
+    "1315": {
+        "word": "male",
+        "difficulty": 1
+    },
+    "1316": {
+        "word": "mali",
+        "difficulty": 9
+    },
+    "1317": {
+        "word": "malt",
+        "difficulty": 7
+    },
+    "1318": {
+        "word": "mane",
+        "difficulty": 8
+    },
+    "1319": {
+        "word": "many",
+        "difficulty": 1
+    },
+    "1320": {
+        "word": "mans",
+        "difficulty": 1
+    },
+    "1321": {
+        "word": "manx",
+        "difficulty": 10
+    },
+    "1322": {
+        "word": "maps",
+        "difficulty": 1
+    },
+    "1323": {
+        "word": "marc",
+        "difficulty": 7
+    },
+    "1324": {
+        "word": "mare",
+        "difficulty": 6
+    },
+    "1325": {
+        "word": "mari",
+        "difficulty": 9
+    },
+    "1326": {
+        "word": "mary",
+        "difficulty": 5
+    },
+    "1327": {
+        "word": "mark",
+        "difficulty": 2
+    },
+    "1328": {
+        "word": "marl",
+        "difficulty": 9
+    },
+    "1329": {
+        "word": "mars",
+        "difficulty": 6
+    },
+    "1330": {
+        "word": "mart",
+        "difficulty": 6
+    },
+    "1331": {
+        "word": "marx",
+        "difficulty": 8
+    },
+    "1332": {
+        "word": "mash",
+        "difficulty": 7
+    },
+    "1333": {
+        "word": "mask",
+        "difficulty": 3
+    },
+    "1334": {
+        "word": "mast",
+        "difficulty": 6
+    },
+    "1335": {
+        "word": "mate",
+        "difficulty": 3
+    },
+    "1336": {
+        "word": "math",
+        "difficulty": 3
+    },
+    "1337": {
+        "word": "mats",
+        "difficulty": 4
+    },
+    "1338": {
+        "word": "maul",
+        "difficulty": 9
+    },
+    "1339": {
+        "word": "maxi",
+        "difficulty": 7
+    },
+    "1340": {
+        "word": "maze",
+        "difficulty": 6
+    },
+    "1341": {
+        "word": "mazy",
+        "difficulty": 10
+    },
+    "1342": {
+        "word": "mead",
+        "difficulty": 8
+    },
+    "1343": {
+        "word": "meal",
+        "difficulty": 3
+    },
+    "1344": {
+        "word": "mean",
+        "difficulty": 1
+    },
+    "1345": {
+        "word": "meat",
+        "difficulty": 3
+    },
+    "1346": {
+        "word": "meld",
+        "difficulty": 8
+    },
+    "1347": {
+        "word": "melt",
+        "difficulty": 5
+    },
+    "1348": {
+        "word": "mend",
+        "difficulty": 7
+    },
+    "1349": {
+        "word": "menu",
+        "difficulty": 1
+    },
+    "1350": {
+        "word": "meow",
+        "difficulty": 8
+    },
+    "1351": {
+        "word": "merl",
+        "difficulty": 10
+    },
+    "1352": {
+        "word": "mesa",
+        "difficulty": 7
+    },
+    "1353": {
+        "word": "mesh",
+        "difficulty": 4
+    },
+    "1354": {
+        "word": "meth",
+        "difficulty": 6
+    },
+    "1355": {
+        "word": "mewl",
+        "difficulty": 10
+    },
+    "1356": {
+        "word": "mews",
+        "difficulty": 10
+    },
+    "1357": {
+        "word": "miao",
+        "difficulty": 10
+    },
+    "1358": {
+        "word": "mica",
+        "difficulty": 8
+    },
+    "1359": {
+        "word": "mice",
+        "difficulty": 2
+    },
+    "1360": {
+        "word": "mick",
+        "difficulty": 9
+    },
+    "1361": {
+        "word": "mien",
+        "difficulty": 8
+    },
+    "1362": {
+        "word": "mike",
+        "difficulty": 4
+    },
+    "1363": {
+        "word": "mild",
+        "difficulty": 4
+    },
+    "1364": {
+        "word": "mile",
+        "difficulty": 2
+    },
+    "1365": {
+        "word": "milk",
+        "difficulty": 2
+    },
+    "1366": {
+        "word": "milo",
+        "difficulty": 9
+    },
+    "1367": {
+        "word": "milt",
+        "difficulty": 10
+    },
+    "1368": {
+        "word": "mina",
+        "difficulty": 9
+    },
+    "1369": {
+        "word": "myna",
+        "difficulty": 10
+    },
+    "1370": {
+        "word": "mind",
+        "difficulty": 1
+    },
+    "1371": {
+        "word": "mine",
+        "difficulty": 2
+    },
+    "1372": {
+        "word": "ming",
+        "difficulty": 8
+    },
+    "1373": {
+        "word": "mink",
+        "difficulty": 8
+    },
+    "1374": {
+        "word": "mint",
+        "difficulty": 4
+    },
+    "1375": {
+        "word": "minx",
+        "difficulty": 9
+    },
+    "1376": {
+        "word": "mips",
+        "difficulty": 6
+    },
+    "1377": {
+        "word": "mire",
+        "difficulty": 9
+    },
+    "1378": {
+        "word": "miry",
+        "difficulty": 9
+    },
+    "1379": {
+        "word": "miro",
+        "difficulty": 10
+    },
+    "1380": {
+        "word": "miso",
+        "difficulty": 9
+    },
+    "1381": {
+        "word": "mist",
+        "difficulty": 5
+    },
+    "1382": {
+        "word": "mite",
+        "difficulty": 7
+    },
+    "1383": {
+        "word": "myth",
+        "difficulty": 4
+    },
+    "1384": {
+        "word": "moan",
+        "difficulty": 6
+    },
+    "1385": {
+        "word": "moat",
+        "difficulty": 8
+    },
+    "1386": {
+        "word": "mobs",
+        "difficulty": 5
+    },
+    "1387": {
+        "word": "mock",
+        "difficulty": 5
+    },
+    "1388": {
+        "word": "mode",
+        "difficulty": 1
+    },
+    "1389": {
+        "word": "mods",
+        "difficulty": 5
+    },
+    "1390": {
+        "word": "moil",
+        "difficulty": 10
+    },
+    "1391": {
+        "word": "moke",
+        "difficulty": 10
+    },
+    "1392": {
+        "word": "mola",
+        "difficulty": 10
+    },
+    "1393": {
+        "word": "mold",
+        "difficulty": 4
+    },
+    "1394": {
+        "word": "mole",
+        "difficulty": 6
+    },
+    "1395": {
+        "word": "molt",
+        "difficulty": 9
+    },
+    "1396": {
+        "word": "mona",
+        "difficulty": 9
+    },
+    "1397": {
+        "word": "monk",
+        "difficulty": 6
+    },
+    "1398": {
+        "word": "mons",
+        "difficulty": 9
+    },
+    "1399": {
+        "word": "mope",
+        "difficulty": 10
+    },
+    "1400": {
+        "word": "mops",
+        "difficulty": 7
+    },
+    "1401": {
+        "word": "more",
+        "difficulty": 1
+    },
+    "1402": {
+        "word": "morn",
+        "difficulty": 8
+    },
+    "1403": {
+        "word": "mors",
+        "difficulty": 10
+    },
+    "1404": {
+        "word": "most",
+        "difficulty": 1
+    },
+    "1405": {
+        "word": "mote",
+        "difficulty": 8
+    },
+    "1406": {
+        "word": "moth",
+        "difficulty": 6
+    },
+    "1407": {
+        "word": "moue",
+        "difficulty": 10
+    },
+    "1408": {
+        "word": "move",
+        "difficulty": 1
+    },
+    "1409": {
+        "word": "mown",
+        "difficulty": 8
+    },
+    "1410": {
+        "word": "mows",
+        "difficulty": 8
+    },
+    "1411": {
+        "word": "msec",
+        "difficulty": 7
+    },
+    "1412": {
+        "word": "much",
+        "difficulty": 1
+    },
+    "1413": {
+        "word": "muck",
+        "difficulty": 6
+    },
+    "1414": {
+        "word": "muds",
+        "difficulty": 4
+    },
+    "1415": {
+        "word": "mugs",
+        "difficulty": 5
+    },
+    "1416": {
+        "word": "muir",
+        "difficulty": 10
+    },
+    "1417": {
+        "word": "mule",
+        "difficulty": 6
+    },
+    "1418": {
+        "word": "mung",
+        "difficulty": 9
+    },
+    "1419": {
+        "word": "munj",
+        "difficulty": 10
+    },
+    "1420": {
+        "word": "muon",
+        "difficulty": 7
+    },
+    "1421": {
+        "word": "murk",
+        "difficulty": 10
+    },
+    "1422": {
+        "word": "musa",
+        "difficulty": 10
+    },
+    "1423": {
+        "word": "muse",
+        "difficulty": 7
+    },
+    "1424": {
+        "word": "mush",
+        "difficulty": 8
+    },
+    "1425": {
+        "word": "musk",
+        "difficulty": 8
+    },
+    "1426": {
+        "word": "must",
+        "difficulty": 1
+    },
+    "1427": {
+        "word": "mute",
+        "difficulty": 6
+    },
+    "1428": {
+        "word": "nabu",
+        "difficulty": 10
+    },
+    "1429": {
+        "word": "nags",
+        "difficulty": 7
+    },
+    "1430": {
+        "word": "naif",
+        "difficulty": 10
+    },
+    "1431": {
+        "word": "nail",
+        "difficulty": 4
+    },
+    "1432": {
+        "word": "name",
+        "difficulty": 1
+    },
+    "1433": {
+        "word": "nape",
+        "difficulty": 9
+    },
+    "1434": {
+        "word": "naps",
+        "difficulty": 6
+    },
+    "1435": {
+        "word": "napu",
+        "difficulty": 10
+    },
+    "1436": {
+        "word": "narc",
+        "difficulty": 10
+    },
+    "1437": {
+        "word": "nard",
+        "difficulty": 10
+    },
+    "1438": {
+        "word": "nary",
+        "difficulty": 8
+    },
+    "1439": {
+        "word": "nark",
+        "difficulty": 10
+    },
+    "1440": {
+        "word": "nash",
+        "difficulty": 9
+    },
+    "1441": {
+        "word": "nast",
+        "difficulty": 10
+    },
+    "1442": {
+        "word": "nato",
+        "difficulty": 9
+    },
+    "1443": {
+        "word": "nave",
+        "difficulty": 8
+    },
+    "1444": {
+        "word": "navy",
+        "difficulty": 5
+    },
+    "1445": {
+        "word": "naze",
+        "difficulty": 10
+    },
+    "1446": {
+        "word": "nazi",
+        "difficulty": 7
+    },
+    "1447": {
+        "word": "neap",
+        "difficulty": 10
+    },
+    "1448": {
+        "word": "near",
+        "difficulty": 1
+    },
+    "1449": {
+        "word": "neat",
+        "difficulty": 4
+    },
+    "1450": {
+        "word": "neck",
+        "difficulty": 3
+    },
+    "1451": {
+        "word": "nejd",
+        "difficulty": 10
+    },
+    "1452": {
+        "word": "nepa",
+        "difficulty": 10
+    },
+    "1453": {
+        "word": "nerd",
+        "difficulty": 7
+    },
+    "1454": {
+        "word": "nest",
+        "difficulty": 4
+    },
+    "1455": {
+        "word": "nets",
+        "difficulty": 1
+    },
+    "1456": {
+        "word": "news",
+        "difficulty": 1
+    },
+    "1457": {
+        "word": "newt",
+        "difficulty": 8
+    },
+    "1458": {
+        "word": "next",
+        "difficulty": 1
+    },
+    "1459": {
+        "word": "nibs",
+        "difficulty": 8
+    },
+    "1460": {
+        "word": "nice",
+        "difficulty": 1
+    },
+    "1461": {
+        "word": "nick",
+        "difficulty": 5
+    },
+    "1462": {
+        "word": "nigh",
+        "difficulty": 7
+    },
+    "1463": {
+        "word": "nike",
+        "difficulty": 5
+    },
+    "1464": {
+        "word": "nile",
+        "difficulty": 9
+    },
+    "1465": {
+        "word": "nipa",
+        "difficulty": 10
+    },
+    "1466": {
+        "word": "nips",
+        "difficulty": 5
+    },
+    "1467": {
+        "word": "nist",
+        "difficulty": 10
+    },
+    "1468": {
+        "word": "nits",
+        "difficulty": 8
+    },
+    "1469": {
+        "word": "noah",
+        "difficulty": 9
+    },
+    "1470": {
+        "word": "nock",
+        "difficulty": 10
+    },
+    "1471": {
+        "word": "node",
+        "difficulty": 2
+    },
+    "1472": {
+        "word": "nods",
+        "difficulty": 6
+    },
+    "1473": {
+        "word": "noel",
+        "difficulty": 8
+    },
+    "1474": {
+        "word": "noes",
+        "difficulty": 1
+    },
+    "1475": {
+        "word": "noma",
+        "difficulty": 10
+    },
+    "1476": {
+        "word": "nome",
+        "difficulty": 8
+    },
+    "1477": {
+        "word": "norm",
+        "difficulty": 4
+    },
+    "1478": {
+        "word": "nose",
+        "difficulty": 3
+    },
+    "1479": {
+        "word": "nosh",
+        "difficulty": 10
+    },
+    "1480": {
+        "word": "nosy",
+        "difficulty": 9
+    },
+    "1481": {
+        "word": "note",
+        "difficulty": 1
+    },
+    "1482": {
+        "word": "nous",
+        "difficulty": 6
+    },
+    "1483": {
+        "word": "nova",
+        "difficulty": 6
+    },
+    "1484": {
+        "word": "nuda",
+        "difficulty": 9
+    },
+    "1485": {
+        "word": "nude",
+        "difficulty": 1
+    },
+    "1486": {
+        "word": "nuke",
+        "difficulty": 6
+    },
+    "1487": {
+        "word": "numb",
+        "difficulty": 6
+    },
+    "1488": {
+        "word": "nuts",
+        "difficulty": 4
+    },
+    "1489": {
+        "word": "oafs",
+        "difficulty": 9
+    },
+    "1490": {
+        "word": "oaks",
+        "difficulty": 4
+    },
+    "1491": {
+        "word": "oars",
+        "difficulty": 8
+    },
+    "1492": {
+        "word": "oast",
+        "difficulty": 10
+    },
+    "1493": {
+        "word": "oath",
+        "difficulty": 5
+    },
+    "1494": {
+        "word": "obey",
+        "difficulty": 5
+    },
+    "1495": {
+        "word": "obit",
+        "difficulty": 8
+    },
+    "1496": {
+        "word": "odes",
+        "difficulty": 8
+    },
+    "1497": {
+        "word": "odin",
+        "difficulty": 9
+    },
+    "1498": {
+        "word": "ogle",
+        "difficulty": 9
+    },
+    "1499": {
+        "word": "ogre",
+        "difficulty": 9
+    },
+    "1500": {
+        "word": "ohms",
+        "difficulty": 6
+    },
+    "1501": {
+        "word": "oily",
+        "difficulty": 6
+    },
+    "1502": {
+        "word": "oils",
+        "difficulty": 1
+    },
+    "1503": {
+        "word": "oink",
+        "difficulty": 10
+    },
+    "1504": {
+        "word": "okay",
+        "difficulty": 3
+    },
+    "1505": {
+        "word": "okeh",
+        "difficulty": 10
+    },
+    "1506": {
+        "word": "okey",
+        "difficulty": 10
+    },
+    "1507": {
+        "word": "okra",
+        "difficulty": 9
+    },
+    "1508": {
+        "word": "olea",
+        "difficulty": 10
+    },
+    "1509": {
+        "word": "oman",
+        "difficulty": 9
+    },
+    "1510": {
+        "word": "omen",
+        "difficulty": 8
+    },
+    "1511": {
+        "word": "omit",
+        "difficulty": 6
+    },
+    "1512": {
+        "word": "once",
+        "difficulty": 1
+    },
+    "1513": {
+        "word": "ones",
+        "difficulty": 1
+    },
+    "1514": {
+        "word": "onyx",
+        "difficulty": 8
+    },
+    "1515": {
+        "word": "only",
+        "difficulty": 1
+    },
+    "1516": {
+        "word": "onus",
+        "difficulty": 8
+    },
+    "1517": {
+        "word": "opah",
+        "difficulty": 10
+    },
+    "1518": {
+        "word": "opal",
+        "difficulty": 7
+    },
+    "1519": {
+        "word": "opec",
+        "difficulty": 10
+    },
+    "1520": {
+        "word": "open",
+        "difficulty": 1
+    },
+    "1521": {
+        "word": "opts",
+        "difficulty": 3
+    },
+    "1522": {
+        "word": "opus",
+        "difficulty": 8
+    },
+    "1523": {
+        "word": "orad",
+        "difficulty": 10
+    },
+    "1524": {
+        "word": "oral",
+        "difficulty": 2
+    },
+    "1525": {
+        "word": "orca",
+        "difficulty": 9
+    },
+    "1526": {
+        "word": "ores",
+        "difficulty": 5
+    },
+    "1527": {
+        "word": "orgy",
+        "difficulty": 3
+    },
+    "1528": {
+        "word": "oryx",
+        "difficulty": 10
+    },
+    "1529": {
+        "word": "orly",
+        "difficulty": 10
+    },
+    "1530": {
+        "word": "otic",
+        "difficulty": 10
+    },
+    "1531": {
+        "word": "otis",
+        "difficulty": 9
+    },
+    "1532": {
+        "word": "otus",
+        "difficulty": 10
+    },
+    "1533": {
+        "word": "oust",
+        "difficulty": 8
+    },
+    "1534": {
+        "word": "outs",
+        "difficulty": 1
+    },
+    "1535": {
+        "word": "oval",
+        "difficulty": 5
+    },
+    "1536": {
+        "word": "oven",
+        "difficulty": 4
+    },
+    "1537": {
+        "word": "over",
+        "difficulty": 1
+    },
+    "1538": {
+        "word": "ovid",
+        "difficulty": 10
+    },
+    "1539": {
+        "word": "ovis",
+        "difficulty": 10
+    },
+    "1540": {
+        "word": "ovum",
+        "difficulty": 9
+    },
+    "1541": {
+        "word": "owed",
+        "difficulty": 4
+    },
+    "1542": {
+        "word": "owen",
+        "difficulty": 8
+    },
+    "1543": {
+        "word": "owes",
+        "difficulty": 4
+    },
+    "1544": {
+        "word": "owls",
+        "difficulty": 6
+    },
+    "1545": {
+        "word": "owns",
+        "difficulty": 1
+    },
+    "1546": {
+        "word": "oxen",
+        "difficulty": 6
+    },
+    "1547": {
+        "word": "pace",
+        "difficulty": 3
+    },
+    "1548": {
+        "word": "pack",
+        "difficulty": 2
+    },
+    "1549": {
+        "word": "pact",
+        "difficulty": 6
+    },
+    "1550": {
+        "word": "page",
+        "difficulty": 1
+    },
+    "1551": {
+        "word": "paid",
+        "difficulty": 1
+    },
+    "1552": {
+        "word": "pail",
+        "difficulty": 8
+    },
+    "1553": {
+        "word": "pain",
+        "difficulty": 2
+    },
+    "1554": {
+        "word": "pair",
+        "difficulty": 2
+    },
+    "1555": {
+        "word": "pays",
+        "difficulty": 1
+    },
+    "1556": {
+        "word": "pale",
+        "difficulty": 4
+    },
+    "1557": {
+        "word": "pali",
+        "difficulty": 10
+    },
+    "1558": {
+        "word": "palm",
+        "difficulty": 3
+    },
+    "1559": {
+        "word": "pals",
+        "difficulty": 5
+    },
+    "1560": {
+        "word": "pane",
+        "difficulty": 5
+    },
+    "1561": {
+        "word": "pang",
+        "difficulty": 8
+    },
+    "1562": {
+        "word": "pans",
+        "difficulty": 3
+    },
+    "1563": {
+        "word": "pant",
+        "difficulty": 7
+    },
+    "1564": {
+        "word": "pare",
+        "difficulty": 8
+    },
+    "1565": {
+        "word": "park",
+        "difficulty": 2
+    },
+    "1566": {
+        "word": "part",
+        "difficulty": 1
+    },
+    "1567": {
+        "word": "past",
+        "difficulty": 1
+    },
+    "1568": {
+        "word": "pate",
+        "difficulty": 8
+    },
+    "1569": {
+        "word": "path",
+        "difficulty": 1
+    },
+    "1570": {
+        "word": "pats",
+        "difficulty": 5
+    },
+    "1571": {
+        "word": "paul",
+        "difficulty": 4
+    },
+    "1572": {
+        "word": "pave",
+        "difficulty": 7
+    },
+    "1573": {
+        "word": "pavo",
+        "difficulty": 10
+    },
+    "1574": {
+        "word": "pawl",
+        "difficulty": 10
+    },
+    "1575": {
+        "word": "pawn",
+        "difficulty": 7
+    },
+    "1576": {
+        "word": "paws",
+        "difficulty": 7
+    },
+    "1577": {
+        "word": "peag",
+        "difficulty": 10
+    },
+    "1578": {
+        "word": "peak",
+        "difficulty": 2
+    },
+    "1579": {
+        "word": "peal",
+        "difficulty": 9
+    },
+    "1580": {
+        "word": "pean",
+        "difficulty": 9
+    },
+    "1581": {
+        "word": "pear",
+        "difficulty": 5
+    },
+    "1582": {
+        "word": "peas",
+        "difficulty": 6
+    },
+    "1583": {
+        "word": "peat",
+        "difficulty": 7
+    },
+    "1584": {
+        "word": "peba",
+        "difficulty": 10
+    },
+    "1585": {
+        "word": "peck",
+        "difficulty": 8
+    },
+    "1586": {
+        "word": "pelf",
+        "difficulty": 10
+    },
+    "1587": {
+        "word": "pelt",
+        "difficulty": 9
+    },
+    "1588": {
+        "word": "pens",
+        "difficulty": 3
+    },
+    "1589": {
+        "word": "pent",
+        "difficulty": 8
+    },
+    "1590": {
+        "word": "peon",
+        "difficulty": 10
+    },
+    "1591": {
+        "word": "peri",
+        "difficulty": 8
+    },
+    "1592": {
+        "word": "perk",
+        "difficulty": 8
+    },
+    "1593": {
+        "word": "perm",
+        "difficulty": 7
+    },
+    "1594": {
+        "word": "pert",
+        "difficulty": 8
+    },
+    "1595": {
+        "word": "peru",
+        "difficulty": 7
+    },
+    "1596": {
+        "word": "peso",
+        "difficulty": 7
+    },
+    "1597": {
+        "word": "pest",
+        "difficulty": 5
+    },
+    "1598": {
+        "word": "pets",
+        "difficulty": 2
+    },
+    "1599": {
+        "word": "peul",
+        "difficulty": 10
+    },
+    "1600": {
+        "word": "phiz",
+        "difficulty": 10
+    },
+    "1601": {
+        "word": "phon",
+        "difficulty": 9
+    },
+    "1602": {
+        "word": "phot",
+        "difficulty": 9
+    },
+    "1603": {
+        "word": "pica",
+        "difficulty": 9
+    },
+    "1604": {
+        "word": "pick",
+        "difficulty": 2
+    },
+    "1605": {
+        "word": "pied",
+        "difficulty": 8
+    },
+    "1606": {
+        "word": "pier",
+        "difficulty": 6
+    },
+    "1607": {
+        "word": "pies",
+        "difficulty": 5
+    },
+    "1608": {
+        "word": "pigs",
+        "difficulty": 4
+    },
+    "1609": {
+        "word": "pika",
+        "difficulty": 10
+    },
+    "1610": {
+        "word": "pike",
+        "difficulty": 7
+    },
+    "1611": {
+        "word": "pile",
+        "difficulty": 4
+    },
+    "1612": {
+        "word": "pima",
+        "difficulty": 10
+    },
+    "1613": {
+        "word": "pine",
+        "difficulty": 4
+    },
+    "1614": {
+        "word": "ping",
+        "difficulty": 4
+    },
+    "1615": {
+        "word": "pink",
+        "difficulty": 2
+    },
+    "1616": {
+        "word": "pins",
+        "difficulty": 3
+    },
+    "1617": {
+        "word": "pint",
+        "difficulty": 6
+    },
+    "1618": {
+        "word": "pion",
+        "difficulty": 8
+    },
+    "1619": {
+        "word": "pyre",
+        "difficulty": 9
+    },
+    "1620": {
+        "word": "pisa",
+        "difficulty": 9
+    },
+    "1621": {
+        "word": "pita",
+        "difficulty": 8
+    },
+    "1622": {
+        "word": "pith",
+        "difficulty": 9
+    },
+    "1623": {
+        "word": "pity",
+        "difficulty": 5
+    },
+    "1624": {
+        "word": "pits",
+        "difficulty": 4
+    },
+    "1625": {
+        "word": "pixy",
+        "difficulty": 10
+    },
+    "1626": {
+        "word": "play",
+        "difficulty": 1
+    },
+    "1627": {
+        "word": "plan",
+        "difficulty": 1
+    },
+    "1628": {
+        "word": "plat",
+        "difficulty": 6
+    },
+    "1629": {
+        "word": "plea",
+        "difficulty": 5
+    },
+    "1630": {
+        "word": "pleb",
+        "difficulty": 10
+    },
+    "1631": {
+        "word": "pled",
+        "difficulty": 6
+    },
+    "1632": {
+        "word": "plod",
+        "difficulty": 9
+    },
+    "1633": {
+        "word": "ploy",
+        "difficulty": 7
+    },
+    "1634": {
+        "word": "plot",
+        "difficulty": 2
+    },
+    "1635": {
+        "word": "plow",
+        "difficulty": 7
+    },
+    "1636": {
+        "word": "plug",
+        "difficulty": 2
+    },
+    "1637": {
+        "word": "plum",
+        "difficulty": 6
+    },
+    "1638": {
+        "word": "plus",
+        "difficulty": 1
+    },
+    "1639": {
+        "word": "pock",
+        "difficulty": 10
+    },
+    "1640": {
+        "word": "poem",
+        "difficulty": 3
+    },
+    "1641": {
+        "word": "poet",
+        "difficulty": 4
+    },
+    "1642": {
+        "word": "pogy",
+        "difficulty": 10
+    },
+    "1643": {
+        "word": "poke",
+        "difficulty": 6
+    },
+    "1644": {
+        "word": "poky",
+        "difficulty": 10
+    },
+    "1645": {
+        "word": "pole",
+        "difficulty": 4
+    },
+    "1646": {
+        "word": "polk",
+        "difficulty": 9
+    },
+    "1647": {
+        "word": "pome",
+        "difficulty": 10
+    },
+    "1648": {
+        "word": "pond",
+        "difficulty": 4
+    },
+    "1649": {
+        "word": "pone",
+        "difficulty": 9
+    },
+    "1650": {
+        "word": "pong",
+        "difficulty": 7
+    },
+    "1651": {
+        "word": "pony",
+        "difficulty": 5
+    },
+    "1652": {
+        "word": "pons",
+        "difficulty": 9
+    },
+    "1653": {
+        "word": "porc",
+        "difficulty": 10
+    },
+    "1654": {
+        "word": "pore",
+        "difficulty": 6
+    },
+    "1655": {
+        "word": "pork",
+        "difficulty": 4
+    },
+    "1656": {
+        "word": "porn",
+        "difficulty": 1
+    },
+    "1657": {
+        "word": "port",
+        "difficulty": 1
+    },
+    "1658": {
+        "word": "pose",
+        "difficulty": 4
+    },
+    "1659": {
+        "word": "posh",
+        "difficulty": 7
+    },
+    "1660": {
+        "word": "posy",
+        "difficulty": 10
+    },
+    "1661": {
+        "word": "post",
+        "difficulty": 1
+    },
+    "1662": {
+        "word": "pots",
+        "difficulty": 3
+    },
+    "1663": {
+        "word": "pouf",
+        "difficulty": 10
+    },
+    "1664": {
+        "word": "pour",
+        "difficulty": 3
+    },
+    "1665": {
+        "word": "pout",
+        "difficulty": 9
+    },
+    "1666": {
+        "word": "pray",
+        "difficulty": 3
+    },
+    "1667": {
+        "word": "pram",
+        "difficulty": 9
+    },
+    "1668": {
+        "word": "prat",
+        "difficulty": 10
+    },
+    "1669": {
+        "word": "prey",
+        "difficulty": 5
+    },
+    "1670": {
+        "word": "prig",
+        "difficulty": 10
+    },
+    "1671": {
+        "word": "prim",
+        "difficulty": 8
+    },
+    "1672": {
+        "word": "prod",
+        "difficulty": 6
+    },
+    "1673": {
+        "word": "prof",
+        "difficulty": 6
+    },
+    "1674": {
+        "word": "prom",
+        "difficulty": 6
+    },
+    "1675": {
+        "word": "pros",
+        "difficulty": 2
+    },
+    "1676": {
+        "word": "prow",
+        "difficulty": 9
+    },
+    "1677": {
+        "word": "prox",
+        "difficulty": 10
+    },
+    "1678": {
+        "word": "pubs",
+        "difficulty": 3
+    },
+    "1679": {
+        "word": "puce",
+        "difficulty": 9
+    },
+    "1680": {
+        "word": "puck",
+        "difficulty": 7
+    },
+    "1681": {
+        "word": "pugs",
+        "difficulty": 8
+    },
+    "1682": {
+        "word": "puka",
+        "difficulty": 10
+    },
+    "1683": {
+        "word": "puke",
+        "difficulty": 8
+    },
+    "1684": {
+        "word": "pule",
+        "difficulty": 10
+    },
+    "1685": {
+        "word": "puma",
+        "difficulty": 6
+    },
+    "1686": {
+        "word": "pung",
+        "difficulty": 10
+    },
+    "1687": {
+        "word": "puny",
+        "difficulty": 8
+    },
+    "1688": {
+        "word": "punk",
+        "difficulty": 4
+    },
+    "1689": {
+        "word": "puns",
+        "difficulty": 6
+    },
+    "1690": {
+        "word": "punt",
+        "difficulty": 7
+    },
+    "1691": {
+        "word": "pure",
+        "difficulty": 2
+    },
+    "1692": {
+        "word": "purl",
+        "difficulty": 9
+    },
+    "1693": {
+        "word": "push",
+        "difficulty": 2
+    },
+    "1694": {
+        "word": "puts",
+        "difficulty": 1
+    },
+    "1695": {
+        "word": "putz",
+        "difficulty": 10
+    },
+    "1696": {
+        "word": "qadi",
+        "difficulty": 10
+    },
+    "1697": {
+        "word": "qoph",
+        "difficulty": 10
+    },
+    "1698": {
+        "word": "quad",
+        "difficulty": 6
+    },
+    "1699": {
+        "word": "quag",
+        "difficulty": 10
+    },
+    "1700": {
+        "word": "quay",
+        "difficulty": 8
+    },
+    "1701": {
+        "word": "quat",
+        "difficulty": 10
+    },
+    "1702": {
+        "word": "quid",
+        "difficulty": 7
+    },
+    "1703": {
+        "word": "quin",
+        "difficulty": 10
+    },
+    "1704": {
+        "word": "quip",
+        "difficulty": 9
+    },
+    "1705": {
+        "word": "quit",
+        "difficulty": 3
+    },
+    "1706": {
+        "word": "quiz",
+        "difficulty": 4
+    },
+    "1707": {
+        "word": "race",
+        "difficulty": 2
+    },
+    "1708": {
+        "word": "racy",
+        "difficulty": 8
+    },
+    "1709": {
+        "word": "rack",
+        "difficulty": 3
+    },
+    "1710": {
+        "word": "raft",
+        "difficulty": 6
+    },
+    "1711": {
+        "word": "rage",
+        "difficulty": 4
+    },
+    "1712": {
+        "word": "ragi",
+        "difficulty": 10
+    },
+    "1713": {
+        "word": "rags",
+        "difficulty": 6
+    },
+    "1714": {
+        "word": "raid",
+        "difficulty": 5
+    },
+    "1715": {
+        "word": "rail",
+        "difficulty": 3
+    },
+    "1716": {
+        "word": "rain",
+        "difficulty": 2
+    },
+    "1717": {
+        "word": "rays",
+        "difficulty": 3
+    },
+    "1718": {
+        "word": "rake",
+        "difficulty": 6
+    },
+    "1719": {
+        "word": "rale",
+        "difficulty": 10
+    },
+    "1720": {
+        "word": "ramp",
+        "difficulty": 4
+    },
+    "1721": {
+        "word": "rand",
+        "difficulty": 6
+    },
+    "1722": {
+        "word": "rani",
+        "difficulty": 10
+    },
+    "1723": {
+        "word": "rank",
+        "difficulty": 3
+    },
+    "1724": {
+        "word": "rant",
+        "difficulty": 5
+    },
+    "1725": {
+        "word": "rape",
+        "difficulty": 2
+    },
+    "1726": {
+        "word": "raps",
+        "difficulty": 4
+    },
+    "1727": {
+        "word": "rapt",
+        "difficulty": 9
+    },
+    "1728": {
+        "word": "rase",
+        "difficulty": 10
+    },
+    "1729": {
+        "word": "rash",
+        "difficulty": 5
+    },
+    "1730": {
+        "word": "rasp",
+        "difficulty": 10
+    },
+    "1731": {
+        "word": "rate",
+        "difficulty": 1
+    },
+    "1732": {
+        "word": "rats",
+        "difficulty": 3
+    },
+    "1733": {
+        "word": "rave",
+        "difficulty": 6
+    },
+    "1734": {
+        "word": "raze",
+        "difficulty": 10
+    },
+    "1735": {
+        "word": "read",
+        "difficulty": 1
+    },
+    "1736": {
+        "word": "real",
+        "difficulty": 1
+    },
+    "1737": {
+        "word": "ream",
+        "difficulty": 8
+    },
+    "1738": {
+        "word": "reap",
+        "difficulty": 6
+    },
+    "1739": {
+        "word": "redo",
+        "difficulty": 7
+    },
+    "1740": {
+        "word": "reds",
+        "difficulty": 1
+    },
+    "1741": {
+        "word": "reid",
+        "difficulty": 8
+    },
+    "1742": {
+        "word": "rein",
+        "difficulty": 7
+    },
+    "1743": {
+        "word": "reit",
+        "difficulty": 10
+    },
+    "1744": {
+        "word": "rely",
+        "difficulty": 3
+    },
+    "1745": {
+        "word": "rend",
+        "difficulty": 9
+    },
+    "1746": {
+        "word": "reno",
+        "difficulty": 7
+    },
+    "1747": {
+        "word": "rent",
+        "difficulty": 2
+    },
+    "1748": {
+        "word": "resh",
+        "difficulty": 10
+    },
+    "1749": {
+        "word": "rest",
+        "difficulty": 1
+    },
+    "1750": {
+        "word": "rhea",
+        "difficulty": 10
+    },
+    "1751": {
+        "word": "rhus",
+        "difficulty": 10
+    },
+    "1752": {
+        "word": "rial",
+        "difficulty": 8
+    },
+    "1753": {
+        "word": "ribs",
+        "difficulty": 6
+    },
+    "1754": {
+        "word": "rice",
+        "difficulty": 3
+    },
+    "1755": {
+        "word": "rich",
+        "difficulty": 2
+    },
+    "1756": {
+        "word": "rick",
+        "difficulty": 7
+    },
+    "1757": {
+        "word": "ride",
+        "difficulty": 2
+    },
+    "1758": {
+        "word": "riel",
+        "difficulty": 10
+    },
+    "1759": {
+        "word": "rife",
+        "difficulty": 7
+    },
+    "1760": {
+        "word": "rift",
+        "difficulty": 7
+    },
+    "1761": {
+        "word": "riga",
+        "difficulty": 10
+    },
+    "1762": {
+        "word": "rigs",
+        "difficulty": 5
+    },
+    "1763": {
+        "word": "rile",
+        "difficulty": 10
+    },
+    "1764": {
+        "word": "rima",
+        "difficulty": 10
+    },
+    "1765": {
+        "word": "rime",
+        "difficulty": 9
+    },
+    "1766": {
+        "word": "rimy",
+        "difficulty": 10
+    },
+    "1767": {
+        "word": "rims",
+        "difficulty": 5
+    },
+    "1768": {
+        "word": "rimu",
+        "difficulty": 10
+    },
+    "1769": {
+        "word": "rind",
+        "difficulty": 8
+    },
+    "1770": {
+        "word": "ring",
+        "difficulty": 2
+    },
+    "1771": {
+        "word": "rink",
+        "difficulty": 7
+    },
+    "1772": {
+        "word": "riot",
+        "difficulty": 6
+    },
+    "1773": {
+        "word": "ripe",
+        "difficulty": 5
+    },
+    "1774": {
+        "word": "rips",
+        "difficulty": 4
+    },
+    "1775": {
+        "word": "rise",
+        "difficulty": 2
+    },
+    "1776": {
+        "word": "risk",
+        "difficulty": 1
+    },
+    "1777": {
+        "word": "rite",
+        "difficulty": 6
+    },
+    "1778": {
+        "word": "ritz",
+        "difficulty": 8
+    },
+    "1779": {
+        "word": "rive",
+        "difficulty": 9
+    },
+    "1780": {
+        "word": "road",
+        "difficulty": 1
+    },
+    "1781": {
+        "word": "roam",
+        "difficulty": 6
+    },
+    "1782": {
+        "word": "roan",
+        "difficulty": 9
+    },
+    "1783": {
+        "word": "robe",
+        "difficulty": 6
+    },
+    "1784": {
+        "word": "robs",
+        "difficulty": 5
+    },
+    "1785": {
+        "word": "rock",
+        "difficulty": 1
+    },
+    "1786": {
+        "word": "rode",
+        "difficulty": 2
+    },
+    "1787": {
+        "word": "rods",
+        "difficulty": 4
+    },
+    "1788": {
+        "word": "roes",
+        "difficulty": 8
+    },
+    "1789": {
+        "word": "roil",
+        "difficulty": 10
+    },
+    "1790": {
+        "word": "role",
+        "difficulty": 1
+    },
+    "1791": {
+        "word": "rolf",
+        "difficulty": 10
+    },
+    "1792": {
+        "word": "rome",
+        "difficulty": 6
+    },
+    "1793": {
+        "word": "romp",
+        "difficulty": 7
+    },
+    "1794": {
+        "word": "rope",
+        "difficulty": 4
+    },
+    "1795": {
+        "word": "ropy",
+        "difficulty": 10
+    },
+    "1796": {
+        "word": "rosa",
+        "difficulty": 8
+    },
+    "1797": {
+        "word": "rose",
+        "difficulty": 2
+    },
+    "1798": {
+        "word": "rosy",
+        "difficulty": 7
+    },
+    "1799": {
+        "word": "rota",
+        "difficulty": 8
+    },
+    "1800": {
+        "word": "rote",
+        "difficulty": 8
+    },
+    "1801": {
+        "word": "rotl",
+        "difficulty": 10
+    },
+    "1802": {
+        "word": "rots",
+        "difficulty": 6
+    },
+    "1803": {
+        "word": "roue",
+        "difficulty": 10
+    },
+    "1804": {
+        "word": "rous",
+        "difficulty": 10
+    },
+    "1805": {
+        "word": "rout",
+        "difficulty": 8
+    },
+    "1806": {
+        "word": "roux",
+        "difficulty": 9
+    },
+    "1807": {
+        "word": "rove",
+        "difficulty": 9
+    },
+    "1808": {
+        "word": "rows",
+        "difficulty": 2
+    },
+    "1809": {
+        "word": "rube",
+        "difficulty": 10
+    },
+    "1810": {
+        "word": "ruby",
+        "difficulty": 5
+    },
+    "1811": {
+        "word": "rubs",
+        "difficulty": 5
+    },
+    "1812": {
+        "word": "ruck",
+        "difficulty": 9
+    },
+    "1813": {
+        "word": "rude",
+        "difficulty": 5
+    },
+    "1814": {
+        "word": "rued",
+        "difficulty": 5
+    },
+    "1815": {
+        "word": "rues",
+        "difficulty": 5
+    },
+    "1816": {
+        "word": "ruga",
+        "difficulty": 10
+    },
+    "1817": {
+        "word": "rugs",
+        "difficulty": 5
+    },
+    "1818": {
+        "word": "ruin",
+        "difficulty": 5
+    },
+    "1819": {
+        "word": "rule",
+        "difficulty": 1
+    },
+    "1820": {
+        "word": "ruly",
+        "difficulty": 10
+    },
+    "1821": {
+        "word": "rump",
+        "difficulty": 8
+    },
+    "1822": {
+        "word": "rune",
+        "difficulty": 8
+    },
+    "1823": {
+        "word": "rung",
+        "difficulty": 7
+    },
+    "1824": {
+        "word": "runs",
+        "difficulty": 1
+    },
+    "1825": {
+        "word": "runt",
+        "difficulty": 9
+    },
+    "1826": {
+        "word": "ruse",
+        "difficulty": 9
+    },
+    "1827": {
+        "word": "rush",
+        "difficulty": 3
+    },
+    "1828": {
+        "word": "rusk",
+        "difficulty": 10
+    },
+    "1829": {
+        "word": "rust",
+        "difficulty": 5
+    },
+    "1830": {
+        "word": "ruta",
+        "difficulty": 10
+    },
+    "1831": {
+        "word": "ruth",
+        "difficulty": 8
+    },
+    "1832": {
+        "word": "sack",
+        "difficulty": 6
+    },
+    "1833": {
+        "word": "sade",
+        "difficulty": 10
+    },
+    "1834": {
+        "word": "safe",
+        "difficulty": 1
+    },
+    "1835": {
+        "word": "sage",
+        "difficulty": 6
+    },
+    "1836": {
+        "word": "sago",
+        "difficulty": 10
+    },
+    "1837": {
+        "word": "said",
+        "difficulty": 1
+    },
+    "1838": {
+        "word": "sail",
+        "difficulty": 4
+    },
+    "1839": {
+        "word": "sake",
+        "difficulty": 3
+    },
+    "1840": {
+        "word": "saki",
+        "difficulty": 10
+    },
+    "1841": {
+        "word": "sale",
+        "difficulty": 1
+    },
+    "1842": {
+        "word": "salp",
+        "difficulty": 10
+    },
+    "1843": {
+        "word": "salt",
+        "difficulty": 3
+    },
+    "1844": {
+        "word": "same",
+        "difficulty": 1
+    },
+    "1845": {
+        "word": "sand",
+        "difficulty": 3
+    },
+    "1846": {
+        "word": "sane",
+        "difficulty": 6
+    },
+    "1847": {
+        "word": "sang",
+        "difficulty": 3
+    },
+    "1848": {
+        "word": "sank",
+        "difficulty": 4
+    },
+    "1849": {
+        "word": "sard",
+        "difficulty": 10
+    },
+    "1850": {
+        "word": "sari",
+        "difficulty": 9
+    },
+    "1851": {
+        "word": "sate",
+        "difficulty": 9
+    },
+    "1852": {
+        "word": "saul",
+        "difficulty": 10
+    },
+    "1853": {
+        "word": "save",
+        "difficulty": 1
+    },
+    "1854": {
+        "word": "sawn",
+        "difficulty": 1
+    },
+    "1855": {
+        "word": "saxe",
+        "difficulty": 10
+    },
+    "1856": {
+        "word": "scab",
+        "difficulty": 8
+    },
+    "1857": {
+        "word": "scad",
+        "difficulty": 10
+    },
+    "1858": {
+        "word": "scag",
+        "difficulty": 10
+    },
+    "1859": {
+        "word": "scam",
+        "difficulty": 5
+    },
+    "1860": {
+        "word": "scan",
+        "difficulty": 3
+    },
+    "1861": {
+        "word": "scar",
+        "difficulty": 6
+    },
+    "1862": {
+        "word": "scat",
+        "difficulty": 4
+    },
+    "1863": {
+        "word": "scot",
+        "difficulty": 9
+    },
+    "1864": {
+        "word": "scow",
+        "difficulty": 10
+    },
+    "1865": {
+        "word": "scry",
+        "difficulty": 10
+    },
+    "1866": {
+        "word": "scud",
+        "difficulty": 10
+    },
+    "1867": {
+        "word": "scum",
+        "difficulty": 7
+    },
+    "1868": {
+        "word": "scup",
+        "difficulty": 10
+    },
+    "1869": {
+        "word": "scut",
+        "difficulty": 10
+    },
+    "1870": {
+        "word": "seal",
+        "difficulty": 3
+    },
+    "1871": {
+        "word": "seam",
+        "difficulty": 6
+    },
+    "1872": {
+        "word": "sear",
+        "difficulty": 9
+    },
+    "1873": {
+        "word": "seat",
+        "difficulty": 2
+    },
+    "1874": {
+        "word": "sect",
+        "difficulty": 6
+    },
+    "1875": {
+        "word": "self",
+        "difficulty": 1
+    },
+    "1876": {
+        "word": "semi",
+        "difficulty": 3
+    },
+    "1877": {
+        "word": "send",
+        "difficulty": 1
+    },
+    "1878": {
+        "word": "sent",
+        "difficulty": 1
+    },
+    "1879": {
+        "word": "sept",
+        "difficulty": 8
+    },
+    "1880": {
+        "word": "serb",
+        "difficulty": 10
+    },
+    "1881": {
+        "word": "serf",
+        "difficulty": 9
+    },
+    "1882": {
+        "word": "seta",
+        "difficulty": 9
+    },
+    "1883": {
+        "word": "seth",
+        "difficulty": 8
+    },
+    "1884": {
+        "word": "sewn",
+        "difficulty": 7
+    },
+    "1885": {
+        "word": "sexy",
+        "difficulty": 1
+    },
+    "1886": {
+        "word": "sext",
+        "difficulty": 10
+    },
+    "1887": {
+        "word": "shad",
+        "difficulty": 8
+    },
+    "1888": {
+        "word": "shag",
+        "difficulty": 8
+    },
+    "1889": {
+        "word": "shay",
+        "difficulty": 9
+    },
+    "1890": {
+        "word": "sham",
+        "difficulty": 7
+    },
+    "1891": {
+        "word": "shan",
+        "difficulty": 9
+    },
+    "1892": {
+        "word": "shaw",
+        "difficulty": 8
+    },
+    "1893": {
+        "word": "shed",
+        "difficulty": 4
+    },
+    "1894": {
+        "word": "shem",
+        "difficulty": 10
+    },
+    "1895": {
+        "word": "shew",
+        "difficulty": 8
+    },
+    "1896": {
+        "word": "shia",
+        "difficulty": 10
+    },
+    "1897": {
+        "word": "shim",
+        "difficulty": 9
+    },
+    "1898": {
+        "word": "shin",
+        "difficulty": 7
+    },
+    "1899": {
+        "word": "ship",
+        "difficulty": 1
+    },
+    "1900": {
+        "word": "shit",
+        "difficulty": 3
+    },
+    "1901": {
+        "word": "shiv",
+        "difficulty": 10
+    },
+    "1902": {
+        "word": "shmo",
+        "difficulty": 10
+    },
+    "1903": {
+        "word": "shod",
+        "difficulty": 9
+    },
+    "1904": {
+        "word": "shoe",
+        "difficulty": 3
+    },
+    "1905": {
+        "word": "shop",
+        "difficulty": 1
+    },
+    "1906": {
+        "word": "shot",
+        "difficulty": 2
+    },
+    "1907": {
+        "word": "show",
+        "difficulty": 1
+    },
+    "1908": {
+        "word": "shun",
+        "difficulty": 8
+    },
+    "1909": {
+        "word": "shut",
+        "difficulty": 3
+    },
+    "1910": {
+        "word": "shwa",
+        "difficulty": 10
+    },
+    "1911": {
+        "word": "sial",
+        "difficulty": 10
+    },
+    "1912": {
+        "word": "siam",
+        "difficulty": 10
+    },
+    "1913": {
+        "word": "sick",
+        "difficulty": 3
+    },
+    "1914": {
+        "word": "sida",
+        "difficulty": 8
+    },
+    "1915": {
+        "word": "side",
+        "difficulty": 1
+    },
+    "1916": {
+        "word": "sift",
+        "difficulty": 8
+    },
+    "1917": {
+        "word": "sigh",
+        "difficulty": 5
+    },
+    "1918": {
+        "word": "sign",
+        "difficulty": 1
+    },
+    "1919": {
+        "word": "sika",
+        "difficulty": 10
+    },
+    "1920": {
+        "word": "sikh",
+        "difficulty": 10
+    },
+    "1921": {
+        "word": "sild",
+        "difficulty": 10
+    },
+    "1922": {
+        "word": "silk",
+        "difficulty": 4
+    },
+    "1923": {
+        "word": "silo",
+        "difficulty": 8
+    },
+    "1924": {
+        "word": "silt",
+        "difficulty": 7
+    },
+    "1925": {
+        "word": "sima",
+        "difficulty": 10
+    },
+    "1926": {
+        "word": "sync",
+        "difficulty": 4
+    },
+    "1927": {
+        "word": "sind",
+        "difficulty": 6
+    },
+    "1928": {
+        "word": "sine",
+        "difficulty": 6
+    },
+    "1929": {
+        "word": "sing",
+        "difficulty": 3
+    },
+    "1930": {
+        "word": "sink",
+        "difficulty": 4
+    },
+    "1931": {
+        "word": "sion",
+        "difficulty": 5
+    },
+    "1932": {
+        "word": "syph",
+        "difficulty": 10
+    },
+    "1933": {
+        "word": "sire",
+        "difficulty": 7
+    },
+    "1934": {
+        "word": "sita",
+        "difficulty": 10
+    },
+    "1935": {
+        "word": "site",
+        "difficulty": 1
+    },
+    "1936": {
+        "word": "sium",
+        "difficulty": 10
+    },
+    "1937": {
+        "word": "siva",
+        "difficulty": 10
+    },
+    "1938": {
+        "word": "size",
+        "difficulty": 1
+    },
+    "1939": {
+        "word": "skag",
+        "difficulty": 10
+    },
+    "1940": {
+        "word": "skaw",
+        "difficulty": 10
+    },
+    "1941": {
+        "word": "skeg",
+        "difficulty": 10
+    },
+    "1942": {
+        "word": "skep",
+        "difficulty": 10
+    },
+    "1943": {
+        "word": "skew",
+        "difficulty": 7
+    },
+    "1944": {
+        "word": "skid",
+        "difficulty": 6
+    },
+    "1945": {
+        "word": "skim",
+        "difficulty": 7
+    },
+    "1946": {
+        "word": "skin",
+        "difficulty": 1
+    },
+    "1947": {
+        "word": "skip",
+        "difficulty": 3
+    },
+    "1948": {
+        "word": "skit",
+        "difficulty": 8
+    },
+    "1949": {
+        "word": "skua",
+        "difficulty": 10
+    },
+    "1950": {
+        "word": "slab",
+        "difficulty": 6
+    },
+    "1951": {
+        "word": "slag",
+        "difficulty": 7
+    },
+    "1952": {
+        "word": "slay",
+        "difficulty": 7
+    },
+    "1953": {
+        "word": "slam",
+        "difficulty": 6
+    },
+    "1954": {
+        "word": "slap",
+        "difficulty": 6
+    },
+    "1955": {
+        "word": "slat",
+        "difficulty": 9
+    },
+    "1956": {
+        "word": "slav",
+        "difficulty": 10
+    },
+    "1957": {
+        "word": "slaw",
+        "difficulty": 9
+    },
+    "1958": {
+        "word": "sled",
+        "difficulty": 7
+    },
+    "1959": {
+        "word": "slew",
+        "difficulty": 6
+    },
+    "1960": {
+        "word": "slid",
+        "difficulty": 3
+    },
+    "1961": {
+        "word": "slim",
+        "difficulty": 4
+    },
+    "1962": {
+        "word": "slip",
+        "difficulty": 3
+    },
+    "1963": {
+        "word": "slit",
+        "difficulty": 6
+    },
+    "1964": {
+        "word": "slob",
+        "difficulty": 9
+    },
+    "1965": {
+        "word": "sloe",
+        "difficulty": 10
+    },
+    "1966": {
+        "word": "slog",
+        "difficulty": 9
+    },
+    "1967": {
+        "word": "slop",
+        "difficulty": 9
+    },
+    "1968": {
+        "word": "slot",
+        "difficulty": 2
+    },
+    "1969": {
+        "word": "slow",
+        "difficulty": 2
+    },
+    "1970": {
+        "word": "slub",
+        "difficulty": 10
+    },
+    "1971": {
+        "word": "slue",
+        "difficulty": 10
+    },
+    "1972": {
+        "word": "slug",
+        "difficulty": 7
+    },
+    "1973": {
+        "word": "slum",
+        "difficulty": 8
+    },
+    "1974": {
+        "word": "slur",
+        "difficulty": 8
+    },
+    "1975": {
+        "word": "slut",
+        "difficulty": 3
+    },
+    "1976": {
+        "word": "smew",
+        "difficulty": 10
+    },
+    "1977": {
+        "word": "smog",
+        "difficulty": 7
+    },
+    "1978": {
+        "word": "smug",
+        "difficulty": 8
+    },
+    "1979": {
+        "word": "smut",
+        "difficulty": 7
+    },
+    "1980": {
+        "word": "snag",
+        "difficulty": 7
+    },
+    "1981": {
+        "word": "snap",
+        "difficulty": 4
+    },
+    "1982": {
+        "word": "snip",
+        "difficulty": 6
+    },
+    "1983": {
+        "word": "snit",
+        "difficulty": 10
+    },
+    "1984": {
+        "word": "snob",
+        "difficulty": 8
+    },
+    "1985": {
+        "word": "snog",
+        "difficulty": 10
+    },
+    "1986": {
+        "word": "snot",
+        "difficulty": 9
+    },
+    "1987": {
+        "word": "snow",
+        "difficulty": 2
+    },
+    "1988": {
+        "word": "snub",
+        "difficulty": 8
+    },
+    "1989": {
+        "word": "snug",
+        "difficulty": 7
+    },
+    "1990": {
+        "word": "soak",
+        "difficulty": 6
+    },
+    "1991": {
+        "word": "soap",
+        "difficulty": 4
+    },
+    "1992": {
+        "word": "soar",
+        "difficulty": 6
+    },
+    "1993": {
+        "word": "sock",
+        "difficulty": 5
+    },
+    "1994": {
+        "word": "soda",
+        "difficulty": 5
+    },
+    "1995": {
+        "word": "sofa",
+        "difficulty": 4
+    },
+    "1996": {
+        "word": "soft",
+        "difficulty": 2
+    },
+    "1997": {
+        "word": "soya",
+        "difficulty": 8
+    },
+    "1998": {
+        "word": "soil",
+        "difficulty": 2
+    },
+    "1999": {
+        "word": "soja",
+        "difficulty": 10
+    },
+    "2000": {
+        "word": "sold",
+        "difficulty": 1
+    },
+    "2001": {
+        "word": "sole",
+        "difficulty": 3
+    },
+    "2002": {
+        "word": "soma",
+        "difficulty": 4
+    },
+    "2003": {
+        "word": "some",
+        "difficulty": 1
+    },
+    "2004": {
+        "word": "sone",
+        "difficulty": 9
+    },
+    "2005": {
+        "word": "song",
+        "difficulty": 1
+    },
+    "2006": {
+        "word": "soph",
+        "difficulty": 10
+    },
+    "2007": {
+        "word": "sorb",
+        "difficulty": 10
+    },
+    "2008": {
+        "word": "sore",
+        "difficulty": 5
+    },
+    "2009": {
+        "word": "sort",
+        "difficulty": 1
+    },
+    "2010": {
+        "word": "souk",
+        "difficulty": 10
+    },
+    "2011": {
+        "word": "soul",
+        "difficulty": 2
+    },
+    "2012": {
+        "word": "soup",
+        "difficulty": 4
+    },
+    "2013": {
+        "word": "sour",
+        "difficulty": 5
+    },
+    "2014": {
+        "word": "sown",
+        "difficulty": 7
+    },
+    "2015": {
+        "word": "spay",
+        "difficulty": 9
+    },
+    "2016": {
+        "word": "span",
+        "difficulty": 3
+    },
+    "2017": {
+        "word": "spar",
+        "difficulty": 8
+    },
+    "2018": {
+        "word": "spat",
+        "difficulty": 7
+    },
+    "2019": {
+        "word": "spec",
+        "difficulty": 4
+    },
+    "2020": {
+        "word": "sped",
+        "difficulty": 1
+    },
+    "2021": {
+        "word": "spew",
+        "difficulty": 8
+    },
+    "2022": {
+        "word": "spic",
+        "difficulty": 10
+    },
+    "2023": {
+        "word": "spik",
+        "difficulty": 10
+    },
+    "2024": {
+        "word": "spin",
+        "difficulty": 3
+    },
+    "2025": {
+        "word": "spit",
+        "difficulty": 6
+    },
+    "2026": {
+        "word": "spiv",
+        "difficulty": 10
+    },
+    "2027": {
+        "word": "spot",
+        "difficulty": 2
+    },
+    "2028": {
+        "word": "spry",
+        "difficulty": 10
+    },
+    "2029": {
+        "word": "spud",
+        "difficulty": 9
+    },
+    "2030": {
+        "word": "spue",
+        "difficulty": 10
+    },
+    "2031": {
+        "word": "spun",
+        "difficulty": 3
+    },
+    "2032": {
+        "word": "spur",
+        "difficulty": 6
+    },
+    "2033": {
+        "word": "stab",
+        "difficulty": 6
+    },
+    "2034": {
+        "word": "stag",
+        "difficulty": 7
+    },
+    "2035": {
+        "word": "stay",
+        "difficulty": 1
+    },
+    "2036": {
+        "word": "star",
+        "difficulty": 1
+    },
+    "2037": {
+        "word": "stem",
+        "difficulty": 3
+    },
+    "2038": {
+        "word": "step",
+        "difficulty": 1
+    },
+    "2039": {
+        "word": "stew",
+        "difficulty": 7
+    },
+    "2040": {
+        "word": "stye",
+        "difficulty": 10
+    },
+    "2041": {
+        "word": "stir",
+        "difficulty": 5
+    },
+    "2042": {
+        "word": "styx",
+        "difficulty": 9
+    },
+    "2043": {
+        "word": "stob",
+        "difficulty": 10
+    },
+    "2044": {
+        "word": "stop",
+        "difficulty": 1
+    },
+    "2045": {
+        "word": "stow",
+        "difficulty": 8
+    },
+    "2046": {
+        "word": "stub",
+        "difficulty": 5
+    },
+    "2047": {
+        "word": "stud",
+        "difficulty": 4
+    },
+    "2048": {
+        "word": "stun",
+        "difficulty": 7
+    },
+    "2049": {
+        "word": "such",
+        "difficulty": 1
+    },
+    "2050": {
+        "word": "suck",
+        "difficulty": 2
+    },
+    "2051": {
+        "word": "sued",
+        "difficulty": 5
+    },
+    "2052": {
+        "word": "suer",
+        "difficulty": 10
+    },
+    "2053": {
+        "word": "suet",
+        "difficulty": 9
+    },
+    "2054": {
+        "word": "suez",
+        "difficulty": 10
+    },
+    "2055": {
+        "word": "sufi",
+        "difficulty": 10
+    },
+    "2056": {
+        "word": "sugi",
+        "difficulty": 10
+    },
+    "2057": {
+        "word": "suit",
+        "difficulty": 2
+    },
+    "2058": {
+        "word": "sula",
+        "difficulty": 10
+    },
+    "2059": {
+        "word": "sulk",
+        "difficulty": 10
+    },
+    "2060": {
+        "word": "sumo",
+        "difficulty": 8
+    },
+    "2061": {
+        "word": "sump",
+        "difficulty": 8
+    },
+    "2062": {
+        "word": "sung",
+        "difficulty": 3
+    },
+    "2063": {
+        "word": "sunk",
+        "difficulty": 4
+    },
+    "2064": {
+        "word": "sura",
+        "difficulty": 10
+    },
+    "2065": {
+        "word": "surd",
+        "difficulty": 10
+    },
+    "2066": {
+        "word": "sure",
+        "difficulty": 1
+    },
+    "2067": {
+        "word": "surf",
+        "difficulty": 4
+    },
+    "2068": {
+        "word": "swab",
+        "difficulty": 8
+    },
+    "2069": {
+        "word": "swad",
+        "difficulty": 10
+    },
+    "2070": {
+        "word": "swag",
+        "difficulty": 8
+    },
+    "2071": {
+        "word": "sway",
+        "difficulty": 6
+    },
+    "2072": {
+        "word": "swam",
+        "difficulty": 4
+    },
+    "2073": {
+        "word": "swan",
+        "difficulty": 7
+    },
+    "2074": {
+        "word": "swap",
+        "difficulty": 4
+    },
+    "2075": {
+        "word": "swat",
+        "difficulty": 8
+    },
+    "2076": {
+        "word": "swig",
+        "difficulty": 8
+    },
+    "2077": {
+        "word": "swim",
+        "difficulty": 4
+    },
+    "2078": {
+        "word": "swiz",
+        "difficulty": 10
+    },
+    "2079": {
+        "word": "swob",
+        "difficulty": 10
+    },
+    "2080": {
+        "word": "swop",
+        "difficulty": 4
+    },
+    "2081": {
+        "word": "swot",
+        "difficulty": 10
+    },
+    "2082": {
+        "word": "swum",
+        "difficulty": 4
+    },
+    "2083": {
+        "word": "tabi",
+        "difficulty": 10
+    },
+    "2084": {
+        "word": "tabs",
+        "difficulty": 3
+    },
+    "2085": {
+        "word": "tabu",
+        "difficulty": 9
+    },
+    "2086": {
+        "word": "tach",
+        "difficulty": 9
+    },
+    "2087": {
+        "word": "tack",
+        "difficulty": 6
+    },
+    "2088": {
+        "word": "taco",
+        "difficulty": 7
+    },
+    "2089": {
+        "word": "tael",
+        "difficulty": 10
+    },
+    "2090": {
+        "word": "tags",
+        "difficulty": 2
+    },
+    "2091": {
+        "word": "tail",
+        "difficulty": 3
+    },
+    "2092": {
+        "word": "take",
+        "difficulty": 1
+    },
+    "2093": {
+        "word": "talc",
+        "difficulty": 9
+    },
+    "2094": {
+        "word": "tale",
+        "difficulty": 3
+    },
+    "2095": {
+        "word": "talk",
+        "difficulty": 1
+    },
+    "2096": {
+        "word": "tame",
+        "difficulty": 6
+    },
+    "2097": {
+        "word": "tamp",
+        "difficulty": 10
+    },
+    "2098": {
+        "word": "tang",
+        "difficulty": 7
+    },
+    "2099": {
+        "word": "tank",
+        "difficulty": 3
+    },
+    "2100": {
+        "word": "tans",
+        "difficulty": 4
+    },
+    "2101": {
+        "word": "taos",
+        "difficulty": 9
+    },
+    "2102": {
+        "word": "tape",
+        "difficulty": 2
+    },
+    "2103": {
+        "word": "taps",
+        "difficulty": 6
+    },
+    "2104": {
+        "word": "tare",
+        "difficulty": 9
+    },
+    "2105": {
+        "word": "tarn",
+        "difficulty": 10
+    },
+    "2106": {
+        "word": "taro",
+        "difficulty": 9
+    },
+    "2107": {
+        "word": "tarp",
+        "difficulty": 8
+    },
+    "2108": {
+        "word": "task",
+        "difficulty": 2
+    },
+    "2109": {
+        "word": "taxi",
+        "difficulty": 4
+    },
+    "2110": {
+        "word": "teak",
+        "difficulty": 7
+    },
+    "2111": {
+        "word": "teal",
+        "difficulty": 8
+    },
+    "2112": {
+        "word": "team",
+        "difficulty": 1
+    },
+    "2113": {
+        "word": "tear",
+        "difficulty": 4
+    },
+    "2114": {
+        "word": "teas",
+        "difficulty": 3
+    },
+    "2115": {
+        "word": "tech",
+        "difficulty": 2
+    },
+    "2116": {
+        "word": "teju",
+        "difficulty": 10
+    },
+    "2117": {
+        "word": "temp",
+        "difficulty": 4
+    },
+    "2118": {
+        "word": "tend",
+        "difficulty": 2
+    },
+    "2119": {
+        "word": "tens",
+        "difficulty": 2
+    },
+    "2120": {
+        "word": "tera",
+        "difficulty": 8
+    },
+    "2121": {
+        "word": "term",
+        "difficulty": 1
+    },
+    "2122": {
+        "word": "tern",
+        "difficulty": 8
+    },
+    "2123": {
+        "word": "thai",
+        "difficulty": 5
+    },
+    "2124": {
+        "word": "thaw",
+        "difficulty": 7
+    },
+    "2125": {
+        "word": "thea",
+        "difficulty": 9
+    },
+    "2126": {
+        "word": "then",
+        "difficulty": 1
+    },
+    "2127": {
+        "word": "thin",
+        "difficulty": 3
+    },
+    "2128": {
+        "word": "thor",
+        "difficulty": 8
+    },
+    "2129": {
+        "word": "thou",
+        "difficulty": 3
+    },
+    "2130": {
+        "word": "thud",
+        "difficulty": 8
+    },
+    "2131": {
+        "word": "thug",
+        "difficulty": 6
+    },
+    "2132": {
+        "word": "thus",
+        "difficulty": 1
+    },
+    "2133": {
+        "word": "tick",
+        "difficulty": 5
+    },
+    "2134": {
+        "word": "tide",
+        "difficulty": 4
+    },
+    "2135": {
+        "word": "tidy",
+        "difficulty": 6
+    },
+    "2136": {
+        "word": "tied",
+        "difficulty": 3
+    },
+    "2137": {
+        "word": "tier",
+        "difficulty": 4
+    },
+    "2138": {
+        "word": "ties",
+        "difficulty": 3
+    },
+    "2139": {
+        "word": "tike",
+        "difficulty": 10
+    },
+    "2140": {
+        "word": "tyke",
+        "difficulty": 10
+    },
+    "2141": {
+        "word": "tile",
+        "difficulty": 4
+    },
+    "2142": {
+        "word": "time",
+        "difficulty": 1
+    },
+    "2143": {
+        "word": "tine",
+        "difficulty": 9
+    },
+    "2144": {
+        "word": "tyne",
+        "difficulty": 9
+    },
+    "2145": {
+        "word": "ting",
+        "difficulty": 7
+    },
+    "2146": {
+        "word": "tiny",
+        "difficulty": 3
+    },
+    "2147": {
+        "word": "tink",
+        "difficulty": 9
+    },
+    "2148": {
+        "word": "tins",
+        "difficulty": 4
+    },
+    "2149": {
+        "word": "type",
+        "difficulty": 1
+    },
+    "2150": {
+        "word": "typo",
+        "difficulty": 6
+    },
+    "2151": {
+        "word": "tips",
+        "difficulty": 2
+    },
+    "2152": {
+        "word": "tire",
+        "difficulty": 4
+    },
+    "2153": {
+        "word": "tyre",
+        "difficulty": 6
+    },
+    "2154": {
+        "word": "tiro",
+        "difficulty": 10
+    },
+    "2155": {
+        "word": "tyro",
+        "difficulty": 10
+    },
+    "2156": {
+        "word": "toad",
+        "difficulty": 7
+    },
+    "2157": {
+        "word": "toby",
+        "difficulty": 8
+    },
+    "2158": {
+        "word": "toda",
+        "difficulty": 8
+    },
+    "2159": {
+        "word": "tody",
+        "difficulty": 10
+    },
+    "2160": {
+        "word": "toea",
+        "difficulty": 10
+    },
+    "2161": {
+        "word": "toed",
+        "difficulty": 3
+    },
+    "2162": {
+        "word": "toes",
+        "difficulty": 3
+    },
+    "2163": {
+        "word": "tofu",
+        "difficulty": 7
+    },
+    "2164": {
+        "word": "toga",
+        "difficulty": 9
+    },
+    "2165": {
+        "word": "togs",
+        "difficulty": 10
+    },
+    "2166": {
+        "word": "toil",
+        "difficulty": 7
+    },
+    "2167": {
+        "word": "toys",
+        "difficulty": 2
+    },
+    "2168": {
+        "word": "toke",
+        "difficulty": 8
+    },
+    "2169": {
+        "word": "told",
+        "difficulty": 1
+    },
+    "2170": {
+        "word": "tole",
+        "difficulty": 9
+    },
+    "2171": {
+        "word": "tolu",
+        "difficulty": 10
+    },
+    "2172": {
+        "word": "tomb",
+        "difficulty": 5
+    },
+    "2173": {
+        "word": "tome",
+        "difficulty": 7
+    },
+    "2174": {
+        "word": "toms",
+        "difficulty": 5
+    },
+    "2175": {
+        "word": "tone",
+        "difficulty": 3
+    },
+    "2176": {
+        "word": "tong",
+        "difficulty": 8
+    },
+    "2177": {
+        "word": "tons",
+        "difficulty": 3
+    },
+    "2178": {
+        "word": "tope",
+        "difficulty": 10
+    },
+    "2179": {
+        "word": "topi",
+        "difficulty": 10
+    },
+    "2180": {
+        "word": "tops",
+        "difficulty": 1
+    },
+    "2181": {
+        "word": "tore",
+        "difficulty": 4
+    },
+    "2182": {
+        "word": "tory",
+        "difficulty": 7
+    },
+    "2183": {
+        "word": "torn",
+        "difficulty": 4
+    },
+    "2184": {
+        "word": "tosh",
+        "difficulty": 10
+    },
+    "2185": {
+        "word": "tosk",
+        "difficulty": 10
+    },
+    "2186": {
+        "word": "tour",
+        "difficulty": 2
+    },
+    "2187": {
+        "word": "town",
+        "difficulty": 1
+    },
+    "2188": {
+        "word": "tows",
+        "difficulty": 5
+    },
+    "2189": {
+        "word": "trad",
+        "difficulty": 8
+    },
+    "2190": {
+        "word": "tray",
+        "difficulty": 4
+    },
+    "2191": {
+        "word": "tram",
+        "difficulty": 7
+    },
+    "2192": {
+        "word": "trap",
+        "difficulty": 4
+    },
+    "2193": {
+        "word": "tref",
+        "difficulty": 10
+    },
+    "2194": {
+        "word": "trey",
+        "difficulty": 9
+    },
+    "2195": {
+        "word": "trek",
+        "difficulty": 5
+    },
+    "2196": {
+        "word": "trig",
+        "difficulty": 8
+    },
+    "2197": {
+        "word": "trim",
+        "difficulty": 4
+    },
+    "2198": {
+        "word": "trio",
+        "difficulty": 5
+    },
+    "2199": {
+        "word": "trip",
+        "difficulty": 2
+    },
+    "2200": {
+        "word": "trod",
+        "difficulty": 6
+    },
+    "2201": {
+        "word": "troy",
+        "difficulty": 8
+    },
+    "2202": {
+        "word": "true",
+        "difficulty": 2
+    },
+    "2203": {
+        "word": "tsar",
+        "difficulty": 9
+    },
+    "2204": {
+        "word": "tuba",
+        "difficulty": 8
+    },
+    "2205": {
+        "word": "tube",
+        "difficulty": 3
+    },
+    "2206": {
+        "word": "tubs",
+        "difficulty": 4
+    },
+    "2207": {
+        "word": "tuck",
+        "difficulty": 7
+    },
+    "2208": {
+        "word": "tufa",
+        "difficulty": 10
+    },
+    "2209": {
+        "word": "tugs",
+        "difficulty": 6
+    },
+    "2210": {
+        "word": "tuna",
+        "difficulty": 6
+    },
+    "2211": {
+        "word": "tune",
+        "difficulty": 3
+    },
+    "2212": {
+        "word": "tung",
+        "difficulty": 9
+    },
+    "2213": {
+        "word": "tupi",
+        "difficulty": 10
+    },
+    "2214": {
+        "word": "turd",
+        "difficulty": 9
+    },
+    "2215": {
+        "word": "turf",
+        "difficulty": 5
+    },
+    "2216": {
+        "word": "turk",
+        "difficulty": 9
+    },
+    "2217": {
+        "word": "turn",
+        "difficulty": 1
+    },
+    "2218": {
+        "word": "turp",
+        "difficulty": 10
+    },
+    "2219": {
+        "word": "tush",
+        "difficulty": 9
+    },
+    "2220": {
+        "word": "tusk",
+        "difficulty": 9
+    },
+    "2221": {
+        "word": "twig",
+        "difficulty": 8
+    },
+    "2222": {
+        "word": "twin",
+        "difficulty": 3
+    },
+    "2223": {
+        "word": "tzar",
+        "difficulty": 10
+    },
+    "2224": {
+        "word": "ugli",
+        "difficulty": 10
+    },
+    "2225": {
+        "word": "ugly",
+        "difficulty": 4
+    },
+    "2226": {
+        "word": "ulex",
+        "difficulty": 10
+    },
+    "2227": {
+        "word": "ulna",
+        "difficulty": 10
+    },
+    "2228": {
+        "word": "ulva",
+        "difficulty": 10
+    },
+    "2229": {
+        "word": "umbo",
+        "difficulty": 10
+    },
+    "2230": {
+        "word": "unai",
+        "difficulty": 10
+    },
+    "2231": {
+        "word": "unco",
+        "difficulty": 10
+    },
+    "2232": {
+        "word": "undo",
+        "difficulty": 4
+    },
+    "2233": {
+        "word": "unio",
+        "difficulty": 10
+    },
+    "2234": {
+        "word": "unit",
+        "difficulty": 1
+    },
+    "2235": {
+        "word": "unix",
+        "difficulty": 4
+    },
+    "2236": {
+        "word": "urea",
+        "difficulty": 7
+    },
+    "2237": {
+        "word": "urge",
+        "difficulty": 4
+    },
+    "2238": {
+        "word": "uria",
+        "difficulty": 10
+    },
+    "2239": {
+        "word": "uric",
+        "difficulty": 9
+    },
+    "2240": {
+        "word": "urns",
+        "difficulty": 6
+    },
+    "2241": {
+        "word": "used",
+        "difficulty": 1
+    },
+    "2242": {
+        "word": "user",
+        "difficulty": 1
+    },
+    "2243": {
+        "word": "utah",
+        "difficulty": 6
+    },
+    "2244": {
+        "word": "uvea",
+        "difficulty": 10
+    },
+    "2245": {
+        "word": "vain",
+        "difficulty": 5
+    },
+    "2246": {
+        "word": "vayu",
+        "difficulty": 10
+    },
+    "2247": {
+        "word": "vale",
+        "difficulty": 8
+    },
+    "2248": {
+        "word": "vali",
+        "difficulty": 10
+    },
+    "2249": {
+        "word": "vamp",
+        "difficulty": 8
+    },
+    "2250": {
+        "word": "vane",
+        "difficulty": 8
+    },
+    "2251": {
+        "word": "vans",
+        "difficulty": 2
+    },
+    "2252": {
+        "word": "vary",
+        "difficulty": 2
+    },
+    "2253": {
+        "word": "vase",
+        "difficulty": 5
+    },
+    "2254": {
+        "word": "vast",
+        "difficulty": 3
+    },
+    "2255": {
+        "word": "vats",
+        "difficulty": 5
+    },
+    "2256": {
+        "word": "veal",
+        "difficulty": 7
+    },
+    "2257": {
+        "word": "veau",
+        "difficulty": 10
+    },
+    "2258": {
+        "word": "veda",
+        "difficulty": 10
+    },
+    "2259": {
+        "word": "vega",
+        "difficulty": 8
+    },
+    "2260": {
+        "word": "veil",
+        "difficulty": 6
+    },
+    "2261": {
+        "word": "vein",
+        "difficulty": 5
+    },
+    "2262": {
+        "word": "vela",
+        "difficulty": 9
+    },
+    "2263": {
+        "word": "veld",
+        "difficulty": 10
+    },
+    "2264": {
+        "word": "vena",
+        "difficulty": 8
+    },
+    "2265": {
+        "word": "vend",
+        "difficulty": 9
+    },
+    "2266": {
+        "word": "vent",
+        "difficulty": 5
+    },
+    "2267": {
+        "word": "veps",
+        "difficulty": 10
+    },
+    "2268": {
+        "word": "verb",
+        "difficulty": 4
+    },
+    "2269": {
+        "word": "very",
+        "difficulty": 1
+    },
+    "2270": {
+        "word": "vest",
+        "difficulty": 5
+    },
+    "2271": {
+        "word": "veto",
+        "difficulty": 6
+    },
+    "2272": {
+        "word": "vets",
+        "difficulty": 5
+    },
+    "2273": {
+        "word": "vial",
+        "difficulty": 7
+    },
+    "2274": {
+        "word": "vibe",
+        "difficulty": 6
+    },
+    "2275": {
+        "word": "vice",
+        "difficulty": 3
+    },
+    "2276": {
+        "word": "vied",
+        "difficulty": 6
+    },
+    "2277": {
+        "word": "vies",
+        "difficulty": 6
+    },
+    "2278": {
+        "word": "view",
+        "difficulty": 1
+    },
+    "2279": {
+        "word": "vila",
+        "difficulty": 10
+    },
+    "2280": {
+        "word": "vile",
+        "difficulty": 7
+    },
+    "2281": {
+        "word": "vine",
+        "difficulty": 6
+    },
+    "2282": {
+        "word": "vino",
+        "difficulty": 7
+    },
+    "2283": {
+        "word": "viol",
+        "difficulty": 9
+    },
+    "2284": {
+        "word": "visa",
+        "difficulty": 3
+    },
+    "2285": {
+        "word": "vise",
+        "difficulty": 8
+    },
+    "2286": {
+        "word": "void",
+        "difficulty": 2
+    },
+    "2287": {
+        "word": "vole",
+        "difficulty": 9
+    },
+    "2288": {
+        "word": "volt",
+        "difficulty": 5
+    },
+    "2289": {
+        "word": "vote",
+        "difficulty": 1
+    },
+    "2290": {
+        "word": "vows",
+        "difficulty": 6
+    },
+    "2291": {
+        "word": "waco",
+        "difficulty": 10
+    },
+    "2292": {
+        "word": "wade",
+        "difficulty": 7
+    },
+    "2293": {
+        "word": "wadi",
+        "difficulty": 10
+    },
+    "2294": {
+        "word": "wads",
+        "difficulty": 8
+    },
+    "2295": {
+        "word": "waft",
+        "difficulty": 10
+    },
+    "2296": {
+        "word": "wage",
+        "difficulty": 3
+    },
+    "2297": {
+        "word": "wags",
+        "difficulty": 8
+    },
+    "2298": {
+        "word": "waif",
+        "difficulty": 10
+    },
+    "2299": {
+        "word": "wail",
+        "difficulty": 8
+    },
+    "2300": {
+        "word": "wain",
+        "difficulty": 10
+    },
+    "2301": {
+        "word": "ways",
+        "difficulty": 1
+    },
+    "2302": {
+        "word": "wait",
+        "difficulty": 2
+    },
+    "2303": {
+        "word": "wake",
+        "difficulty": 3
+    },
+    "2304": {
+        "word": "wale",
+        "difficulty": 10
+    },
+    "2305": {
+        "word": "walk",
+        "difficulty": 2
+    },
+    "2306": {
+        "word": "wand",
+        "difficulty": 6
+    },
+    "2307": {
+        "word": "wane",
+        "difficulty": 8
+    },
+    "2308": {
+        "word": "wank",
+        "difficulty": 7
+    },
+    "2309": {
+        "word": "wans",
+        "difficulty": 7
+    },
+    "2310": {
+        "word": "want",
+        "difficulty": 1
+    },
+    "2311": {
+        "word": "ward",
+        "difficulty": 5
+    },
+    "2312": {
+        "word": "ware",
+        "difficulty": 5
+    },
+    "2313": {
+        "word": "wary",
+        "difficulty": 6
+    },
+    "2314": {
+        "word": "warm",
+        "difficulty": 2
+    },
+    "2315": {
+        "word": "warn",
+        "difficulty": 4
+    },
+    "2316": {
+        "word": "warp",
+        "difficulty": 6
+    },
+    "2317": {
+        "word": "wars",
+        "difficulty": 1
+    },
+    "2318": {
+        "word": "wart",
+        "difficulty": 8
+    },
+    "2319": {
+        "word": "wash",
+        "difficulty": 3
+    },
+    "2320": {
+        "word": "wasp",
+        "difficulty": 8
+    },
+    "2321": {
+        "word": "wats",
+        "difficulty": 9
+    },
+    "2322": {
+        "word": "waul",
+        "difficulty": 10
+    },
+    "2323": {
+        "word": "wave",
+        "difficulty": 2
+    },
+    "2324": {
+        "word": "wavy",
+        "difficulty": 8
+    },
+    "2325": {
+        "word": "waxy",
+        "difficulty": 9
+    },
+    "2326": {
+        "word": "weak",
+        "difficulty": 3
+    },
+    "2327": {
+        "word": "weal",
+        "difficulty": 9
+    },
+    "2328": {
+        "word": "wean",
+        "difficulty": 8
+    },
+    "2329": {
+        "word": "wear",
+        "difficulty": 2
+    },
+    "2330": {
+        "word": "webs",
+        "difficulty": 1
+    },
+    "2331": {
+        "word": "weds",
+        "difficulty": 6
+    },
+    "2332": {
+        "word": "weft",
+        "difficulty": 9
+    },
+    "2333": {
+        "word": "weir",
+        "difficulty": 8
+    },
+    "2334": {
+        "word": "weka",
+        "difficulty": 10
+    },
+    "2335": {
+        "word": "weld",
+        "difficulty": 6
+    },
+    "2336": {
+        "word": "welt",
+        "difficulty": 8
+    },
+    "2337": {
+        "word": "wend",
+        "difficulty": 10
+    },
+    "2338": {
+        "word": "went",
+        "difficulty": 1
+    },
+    "2339": {
+        "word": "wept",
+        "difficulty": 7
+    },
+    "2340": {
+        "word": "west",
+        "difficulty": 2
+    },
+    "2341": {
+        "word": "wets",
+        "difficulty": 2
+    },
+    "2342": {
+        "word": "wham",
+        "difficulty": 9
+    },
+    "2343": {
+        "word": "whap",
+        "difficulty": 10
+    },
+    "2344": {
+        "word": "whey",
+        "difficulty": 7
+    },
+    "2345": {
+        "word": "whet",
+        "difficulty": 8
+    },
+    "2346": {
+        "word": "whig",
+        "difficulty": 10
+    },
+    "2347": {
+        "word": "whim",
+        "difficulty": 7
+    },
+    "2348": {
+        "word": "whin",
+        "difficulty": 10
+    },
+    "2349": {
+        "word": "whip",
+        "difficulty": 5
+    },
+    "2350": {
+        "word": "whir",
+        "difficulty": 10
+    },
+    "2351": {
+        "word": "whys",
+        "difficulty": 1
+    },
+    "2352": {
+        "word": "whit",
+        "difficulty": 8
+    },
+    "2353": {
+        "word": "whiz",
+        "difficulty": 8
+    },
+    "2354": {
+        "word": "whop",
+        "difficulty": 10
+    },
+    "2355": {
+        "word": "wick",
+        "difficulty": 8
+    },
+    "2356": {
+        "word": "wide",
+        "difficulty": 1
+    },
+    "2357": {
+        "word": "wife",
+        "difficulty": 1
+    },
+    "2358": {
+        "word": "wild",
+        "difficulty": 2
+    },
+    "2359": {
+        "word": "wile",
+        "difficulty": 9
+    },
+    "2360": {
+        "word": "wily",
+        "difficulty": 8
+    },
+    "2361": {
+        "word": "wilt",
+        "difficulty": 6
+    },
+    "2362": {
+        "word": "wind",
+        "difficulty": 2
+    },
+    "2363": {
+        "word": "wine",
+        "difficulty": 2
+    },
+    "2364": {
+        "word": "wing",
+        "difficulty": 3
+    },
+    "2365": {
+        "word": "winy",
+        "difficulty": 2
+    },
+    "2366": {
+        "word": "wink",
+        "difficulty": 6
+    },
+    "2367": {
+        "word": "wino",
+        "difficulty": 10
+    },
+    "2368": {
+        "word": "wins",
+        "difficulty": 1
+    },
+    "2369": {
+        "word": "wipe",
+        "difficulty": 5
+    },
+    "2370": {
+        "word": "wire",
+        "difficulty": 2
+    },
+    "2371": {
+        "word": "wiry",
+        "difficulty": 9
+    },
+    "2372": {
+        "word": "wise",
+        "difficulty": 3
+    },
+    "2373": {
+        "word": "wish",
+        "difficulty": 1
+    },
+    "2374": {
+        "word": "wisp",
+        "difficulty": 9
+    },
+    "2375": {
+        "word": "wits",
+        "difficulty": 7
+    },
+    "2376": {
+        "word": "wive",
+        "difficulty": 1
+    },
+    "2377": {
+        "word": "woad",
+        "difficulty": 10
+    },
+    "2378": {
+        "word": "woke",
+        "difficulty": 3
+    },
+    "2379": {
+        "word": "wold",
+        "difficulty": 9
+    },
+    "2380": {
+        "word": "wolf",
+        "difficulty": 5
+    },
+    "2381": {
+        "word": "womb",
+        "difficulty": 6
+    },
+    "2382": {
+        "word": "wonk",
+        "difficulty": 10
+    },
+    "2383": {
+        "word": "wont",
+        "difficulty": 4
+    },
+    "2384": {
+        "word": "word",
+        "difficulty": 1
+    },
+    "2385": {
+        "word": "wore",
+        "difficulty": 2
+    },
+    "2386": {
+        "word": "work",
+        "difficulty": 1
+    },
+    "2387": {
+        "word": "worm",
+        "difficulty": 4
+    },
+    "2388": {
+        "word": "worn",
+        "difficulty": 2
+    },
+    "2389": {
+        "word": "wort",
+        "difficulty": 8
+    },
+    "2390": {
+        "word": "wove",
+        "difficulty": 6
+    },
+    "2391": {
+        "word": "wrap",
+        "difficulty": 3
+    },
+    "2392": {
+        "word": "wren",
+        "difficulty": 9
+    },
+    "2393": {
+        "word": "writ",
+        "difficulty": 6
+    },
+    "2394": {
+        "word": "xmas",
+        "difficulty": 6
+    },
+    "2395": {
+        "word": "zany",
+        "difficulty": 8
+    },
+    "2396": {
+        "word": "zarf",
+        "difficulty": 10
+    },
+    "2397": {
+        "word": "zeal",
+        "difficulty": 7
+    },
+    "2398": {
+        "word": "zebu",
+        "difficulty": 10
+    },
+    "2399": {
+        "word": "zend",
+        "difficulty": 10
+    },
+    "2400": {
+        "word": "zero",
+        "difficulty": 2
+    },
+    "2401": {
+        "word": "zest",
+        "difficulty": 7
+    },
+    "2402": {
+        "word": "zeta",
+        "difficulty": 7
+    },
+    "2403": {
+        "word": "zeus",
+        "difficulty": 9
+    },
+    "2404": {
+        "word": "zinc",
+        "difficulty": 4
+    },
+    "2405": {
+        "word": "zing",
+        "difficulty": 9
+    },
+    "2406": {
+        "word": "zion",
+        "difficulty": 9
+    },
+    "2407": {
+        "word": "zips",
+        "difficulty": 2
+    },
+    "2408": {
+        "word": "zoic",
+        "difficulty": 10
+    },
+    "2409": {
+        "word": "zona",
+        "difficulty": 8
+    },
+    "2410": {
+        "word": "zone",
+        "difficulty": 2
+    },
+    "2411": {
+        "word": "zori",
+        "difficulty": 10
+    },
+    "2412": {
+        "word": "zuni",
+        "difficulty": 10
+    },
+    "2413": {
+        "word": "abcs",
+        "difficulty": 10
+    },
+    "2414": {
+        "word": "abls",
+        "difficulty": 10
+    },
+    "2415": {
+        "word": "abor",
+        "difficulty": 10
+    },
+    "2416": {
+        "word": "acth",
+        "difficulty": 10
+    },
+    "2417": {
+        "word": "adps",
+        "difficulty": 10
+    },
+    "2418": {
+        "word": "afrl",
+        "difficulty": 10
+    },
+    "2419": {
+        "word": "agni",
+        "difficulty": 10
+    },
+    "2420": {
+        "word": "aken",
+        "difficulty": 10
+    },
+    "2421": {
+        "word": "alep",
+        "difficulty": 10
+    },
+    "2422": {
+        "word": "alir",
+        "difficulty": 10
+    },
+    "2423": {
+        "word": "amon",
+        "difficulty": 9
+    },
+    "2424": {
+        "word": "amun",
+        "difficulty": 10
+    },
+    "2425": {
+        "word": "amur",
+        "difficulty": 10
+    },
+    "2426": {
+        "word": "anpu",
+        "difficulty": 10
+    },
+    "2427": {
+        "word": "apsu",
+        "difficulty": 10
+    },
+    "2428": {
+        "word": "ards",
+        "difficulty": 9
+    },
+    "2429": {
+        "word": "arng",
+        "difficulty": 10
+    },
+    "2430": {
+        "word": "arno",
+        "difficulty": 10
+    },
+    "2431": {
+        "word": "asch",
+        "difficulty": 10
+    },
+    "2432": {
+        "word": "ashe",
+        "difficulty": 10
+    },
+    "2433": {
+        "word": "asin",
+        "difficulty": 9
+    },
+    "2434": {
+        "word": "asio",
+        "difficulty": 10
+    },
+    "2435": {
+        "word": "asur",
+        "difficulty": 10
+    },
+    "2436": {
+        "word": "aton",
+        "difficulty": 10
+    },
+    "2437": {
+        "word": "avon",
+        "difficulty": 8
+    },
+    "2438": {
+        "word": "baic",
+        "difficulty": 10
+    },
+    "2439": {
+        "word": "baum",
+        "difficulty": 10
+    },
+    "2440": {
+        "word": "beda",
+        "difficulty": 10
+    },
+    "2441": {
+        "word": "bida",
+        "difficulty": 10
+    },
+    "2442": {
+        "word": "biro",
+        "difficulty": 10
+    },
+    "2443": {
+        "word": "blog",
+        "difficulty": 1
+    },
+    "2444": {
+        "word": "bmdo",
+        "difficulty": 10
+    },
+    "2445": {
+        "word": "bmus",
+        "difficulty": 10
+    },
+    "2446": {
+        "word": "bohr",
+        "difficulty": 10
+    },
+    "2447": {
+        "word": "bris",
+        "difficulty": 10
+    },
+    "2448": {
+        "word": "brno",
+        "difficulty": 10
+    },
+    "2449": {
+        "word": "brya",
+        "difficulty": 10
+    },
+    "2450": {
+        "word": "buyi",
+        "difficulty": 10
+    },
+    "2451": {
+        "word": "byrd",
+        "difficulty": 10
+    },
+    "2452": {
+        "word": "cabg",
+        "difficulty": 10
+    },
+    "2453": {
+        "word": "cali",
+        "difficulty": 8
+    },
+    "2454": {
+        "word": "camo",
+        "difficulty": 8
+    },
+    "2455": {
+        "word": "cdna",
+        "difficulty": 9
+    },
+    "2456": {
+        "word": "cebu",
+        "difficulty": 10
+    },
+    "2457": {
+        "word": "cewa",
+        "difficulty": 10
+    },
+    "2458": {
+        "word": "cftr",
+        "difficulty": 10
+    },
+    "2459": {
+        "word": "cira",
+        "difficulty": 10
+    },
+    "2460": {
+        "word": "clxv",
+        "difficulty": 10
+    },
+    "2461": {
+        "word": "cmbr",
+        "difficulty": 10
+    },
+    "2462": {
+        "word": "cnut",
+        "difficulty": 10
+    },
+    "2463": {
+        "word": "cody",
+        "difficulty": 8
+    },
+    "2464": {
+        "word": "cohn",
+        "difficulty": 10
+    },
+    "2465": {
+        "word": "cred",
+        "difficulty": 8
+    },
+    "2466": {
+        "word": "cxlv",
+        "difficulty": 10
+    },
+    "2467": {
+        "word": "cyon",
+        "difficulty": 10
+    },
+    "2468": {
+        "word": "dahl",
+        "difficulty": 9
+    },
+    "2469": {
+        "word": "dalo",
+        "difficulty": 10
+    },
+    "2470": {
+        "word": "danu",
+        "difficulty": 10
+    },
+    "2471": {
+        "word": "dflp",
+        "difficulty": 10
+    },
+    "2472": {
+        "word": "diaz",
+        "difficulty": 8
+    },
+    "2473": {
+        "word": "dior",
+        "difficulty": 8
+    },
+    "2474": {
+        "word": "dmus",
+        "difficulty": 10
+    },
+    "2475": {
+        "word": "doei",
+        "difficulty": 10
+    },
+    "2476": {
+        "word": "doha",
+        "difficulty": 10
+    },
+    "2477": {
+        "word": "dojc",
+        "difficulty": 10
+    },
+    "2478": {
+        "word": "dork",
+        "difficulty": 8
+    },
+    "2479": {
+        "word": "dprk",
+        "difficulty": 10
+    },
+    "2480": {
+        "word": "drms",
+        "difficulty": 10
+    },
+    "2481": {
+        "word": "dtic",
+        "difficulty": 10
+    },
+    "2482": {
+        "word": "dufy",
+        "difficulty": 10
+    },
+    "2483": {
+        "word": "duse",
+        "difficulty": 10
+    },
+    "2484": {
+        "word": "ebit",
+        "difficulty": 10
+    },
+    "2485": {
+        "word": "ebro",
+        "difficulty": 10
+    },
+    "2486": {
+        "word": "edta",
+        "difficulty": 10
+    },
+    "2487": {
+        "word": "edwy",
+        "difficulty": 10
+    },
+    "2488": {
+        "word": "egtk",
+        "difficulty": 10
+    },
+    "2489": {
+        "word": "eira",
+        "difficulty": 10
+    },
+    "2490": {
+        "word": "elam",
+        "difficulty": 10
+    },
+    "2491": {
+        "word": "esop",
+        "difficulty": 10
+    },
+    "2492": {
+        "word": "eyck",
+        "difficulty": 10
+    },
+    "2493": {
+        "word": "fahd",
+        "difficulty": 10
+    },
+    "2494": {
+        "word": "farc",
+        "difficulty": 10
+    },
+    "2495": {
+        "word": "fdic",
+        "difficulty": 10
+    },
+    "2496": {
+        "word": "fema",
+        "difficulty": 10
+    },
+    "2497": {
+        "word": "fisa",
+        "difficulty": 10
+    },
+    "2498": {
+        "word": "flnc",
+        "difficulty": 10
+    },
+    "2499": {
+        "word": "fmri",
+        "difficulty": 10
+    },
+    "2500": {
+        "word": "fnma",
+        "difficulty": 10
+    },
+    "2501": {
+        "word": "fots",
+        "difficulty": 10
+    },
+    "2502": {
+        "word": "frye",
+        "difficulty": 10
+    },
+    "2503": {
+        "word": "fugo",
+        "difficulty": 10
+    },
+    "2504": {
+        "word": "gand",
+        "difficulty": 10
+    },
+    "2505": {
+        "word": "gari",
+        "difficulty": 10
+    },
+    "2506": {
+        "word": "gbit",
+        "difficulty": 10
+    },
+    "2507": {
+        "word": "gcse",
+        "difficulty": 10
+    },
+    "2508": {
+        "word": "genf",
+        "difficulty": 10
+    },
+    "2509": {
+        "word": "gide",
+        "difficulty": 10
+    },
+    "2510": {
+        "word": "gita",
+        "difficulty": 9
+    },
+    "2511": {
+        "word": "giza",
+        "difficulty": 10
+    },
+    "2512": {
+        "word": "goya",
+        "difficulty": 10
+    },
+    "2513": {
+        "word": "gran",
+        "difficulty": 7
+    },
+    "2514": {
+        "word": "graz",
+        "difficulty": 9
+    },
+    "2515": {
+        "word": "grok",
+        "difficulty": 9
+    },
+    "2516": {
+        "word": "gspc",
+        "difficulty": 10
+    },
+    "2517": {
+        "word": "gwyn",
+        "difficulty": 10
+    },
+    "2518": {
+        "word": "gywn",
+        "difficulty": 10
+    },
+    "2519": {
+        "word": "hani",
+        "difficulty": 10
+    },
+    "2520": {
+        "word": "hdtv",
+        "difficulty": 7
+    },
+    "2521": {
+        "word": "hefa",
+        "difficulty": 10
+    },
+    "2522": {
+        "word": "hela",
+        "difficulty": 10
+    },
+    "2523": {
+        "word": "hilo",
+        "difficulty": 9
+    },
+    "2524": {
+        "word": "hoka",
+        "difficulty": 10
+    },
+    "2525": {
+        "word": "html",
+        "difficulty": 2
+    },
+    "2526": {
+        "word": "huji",
+        "difficulty": 10
+    },
+    "2527": {
+        "word": "ibrd",
+        "difficulty": 10
+    },
+    "2528": {
+        "word": "icao",
+        "difficulty": 10
+    },
+    "2529": {
+        "word": "idun",
+        "difficulty": 10
+    },
+    "2530": {
+        "word": "igbo",
+        "difficulty": 10
+    },
+    "2531": {
+        "word": "inge",
+        "difficulty": 10
+    },
+    "2532": {
+        "word": "inka",
+        "difficulty": 10
+    },
+    "2533": {
+        "word": "inla",
+        "difficulty": 10
+    },
+    "2534": {
+        "word": "ipod",
+        "difficulty": 4
+    },
+    "2535": {
+        "word": "irak",
+        "difficulty": 10
+    },
+    "2536": {
+        "word": "ives",
+        "difficulty": 9
+    },
+    "2537": {
+        "word": "ivry",
+        "difficulty": 10
+    },
+    "2538": {
+        "word": "jdam",
+        "difficulty": 10
+    },
+    "2539": {
+        "word": "jena",
+        "difficulty": 9
+    },
+    "2540": {
+        "word": "jeth",
+        "difficulty": 10
+    },
+    "2541": {
+        "word": "jird",
+        "difficulty": 10
+    },
+    "2542": {
+        "word": "juda",
+        "difficulty": 10
+    },
+    "2543": {
+        "word": "jung",
+        "difficulty": 9
+    },
+    "2544": {
+        "word": "kach",
+        "difficulty": 10
+    },
+    "2545": {
+        "word": "kahn",
+        "difficulty": 10
+    },
+    "2546": {
+        "word": "kbit",
+        "difficulty": 8
+    },
+    "2547": {
+        "word": "kean",
+        "difficulty": 10
+    },
+    "2548": {
+        "word": "kera",
+        "difficulty": 10
+    },
+    "2549": {
+        "word": "kobe",
+        "difficulty": 8
+    },
+    "2550": {
+        "word": "koln",
+        "difficulty": 10
+    },
+    "2551": {
+        "word": "kuhn",
+        "difficulty": 10
+    },
+    "2552": {
+        "word": "kura",
+        "difficulty": 10
+    },
+    "2553": {
+        "word": "kwai",
+        "difficulty": 10
+    },
+    "2554": {
+        "word": "lahu",
+        "difficulty": 10
+    },
+    "2555": {
+        "word": "lego",
+        "difficulty": 7
+    },
+    "2556": {
+        "word": "liao",
+        "difficulty": 9
+    },
+    "2557": {
+        "word": "linz",
+        "difficulty": 9
+    },
+    "2558": {
+        "word": "lisu",
+        "difficulty": 10
+    },
+    "2559": {
+        "word": "livy",
+        "difficulty": 10
+    },
+    "2560": {
+        "word": "lodz",
+        "difficulty": 10
+    },
+    "2561": {
+        "word": "loeb",
+        "difficulty": 10
+    },
+    "2562": {
+        "word": "lome",
+        "difficulty": 10
+    },
+    "2563": {
+        "word": "loti",
+        "difficulty": 10
+    },
+    "2564": {
+        "word": "luda",
+        "difficulty": 10
+    },
+    "2565": {
+        "word": "lugh",
+        "difficulty": 10
+    },
+    "2566": {
+        "word": "luik",
+        "difficulty": 10
+    },
+    "2567": {
+        "word": "lund",
+        "difficulty": 10
+    },
+    "2568": {
+        "word": "luta",
+        "difficulty": 10
+    },
+    "2569": {
+        "word": "lwei",
+        "difficulty": 10
+    },
+    "2570": {
+        "word": "lxiv",
+        "difficulty": 10
+    },
+    "2571": {
+        "word": "lxvi",
+        "difficulty": 10
+    },
+    "2572": {
+        "word": "mals",
+        "difficulty": 9
+    },
+    "2573": {
+        "word": "maoi",
+        "difficulty": 10
+    },
+    "2574": {
+        "word": "maui",
+        "difficulty": 7
+    },
+    "2575": {
+        "word": "mbit",
+        "difficulty": 10
+    },
+    "2576": {
+        "word": "mcia",
+        "difficulty": 10
+    },
+    "2577": {
+        "word": "mdiv",
+        "difficulty": 10
+    },
+    "2578": {
+        "word": "meir",
+        "difficulty": 10
+    },
+    "2579": {
+        "word": "mosh",
+        "difficulty": 8
+    },
+    "2580": {
+        "word": "mpeg",
+        "difficulty": 3
+    },
+    "2581": {
+        "word": "mrna",
+        "difficulty": 10
+    },
+    "2582": {
+        "word": "mrta",
+        "difficulty": 10
+    },
+    "2583": {
+        "word": "musd",
+        "difficulty": 10
+    },
+    "2584": {
+        "word": "nadp",
+        "difficulty": 10
+    },
+    "2585": {
+        "word": "nagi",
+        "difficulty": 10
+    },
+    "2586": {
+        "word": "najd",
+        "difficulty": 10
+    },
+    "2587": {
+        "word": "nebo",
+        "difficulty": 9
+    },
+    "2588": {
+        "word": "nero",
+        "difficulty": 5
+    },
+    "2589": {
+        "word": "neva",
+        "difficulty": 9
+    },
+    "2590": {
+        "word": "nicu",
+        "difficulty": 10
+    },
+    "2591": {
+        "word": "nipr",
+        "difficulty": 10
+    },
+    "2592": {
+        "word": "nlrb",
+        "difficulty": 10
+    },
+    "2593": {
+        "word": "nrem",
+        "difficulty": 10
+    },
+    "2594": {
+        "word": "nrti",
+        "difficulty": 10
+    },
+    "2595": {
+        "word": "nswc",
+        "difficulty": 10
+    },
+    "2596": {
+        "word": "ntis",
+        "difficulty": 10
+    },
+    "2597": {
+        "word": "nuwc",
+        "difficulty": 10
+    },
+    "2598": {
+        "word": "nypa",
+        "difficulty": 10
+    },
+    "2599": {
+        "word": "nyse",
+        "difficulty": 9
+    },
+    "2600": {
+        "word": "oahu",
+        "difficulty": 9
+    },
+    "2601": {
+        "word": "ochs",
+        "difficulty": 10
+    },
+    "2602": {
+        "word": "oder",
+        "difficulty": 5
+    },
+    "2603": {
+        "word": "oken",
+        "difficulty": 10
+    },
+    "2604": {
+        "word": "oled",
+        "difficulty": 10
+    },
+    "2605": {
+        "word": "ombu",
+        "difficulty": 10
+    },
+    "2606": {
+        "word": "omsk",
+        "difficulty": 10
+    },
+    "2607": {
+        "word": "opcw",
+        "difficulty": 10
+    },
+    "2608": {
+        "word": "opel",
+        "difficulty": 8
+    },
+    "2609": {
+        "word": "oran",
+        "difficulty": 10
+    },
+    "2610": {
+        "word": "osha",
+        "difficulty": 10
+    },
+    "2611": {
+        "word": "ouse",
+        "difficulty": 9
+    },
+    "2612": {
+        "word": "paye",
+        "difficulty": 10
+    },
+    "2613": {
+        "word": "pbit",
+        "difficulty": 10
+    },
+    "2614": {
+        "word": "pecs",
+        "difficulty": 9
+    },
+    "2615": {
+        "word": "piaf",
+        "difficulty": 10
+    },
+    "2616": {
+        "word": "prag",
+        "difficulty": 8
+    },
+    "2617": {
+        "word": "ptah",
+        "difficulty": 10
+    },
+    "2618": {
+        "word": "ptsd",
+        "difficulty": 10
+    },
+    "2619": {
+        "word": "pula",
+        "difficulty": 10
+    },
+    "2620": {
+        "word": "pyle",
+        "difficulty": 10
+    },
+    "2621": {
+        "word": "qing",
+        "difficulty": 10
+    },
+    "2622": {
+        "word": "rahu",
+        "difficulty": 10
+    },
+    "2623": {
+        "word": "raiu",
+        "difficulty": 10
+    },
+    "2624": {
+        "word": "rask",
+        "difficulty": 10
+    },
+    "2625": {
+        "word": "rcmp",
+        "difficulty": 10
+    },
+    "2626": {
+        "word": "rico",
+        "difficulty": 7
+    },
+    "2627": {
+        "word": "risc",
+        "difficulty": 10
+    },
+    "2628": {
+        "word": "roma",
+        "difficulty": 6
+    },
+    "2629": {
+        "word": "rotc",
+        "difficulty": 10
+    },
+    "2630": {
+        "word": "roth",
+        "difficulty": 9
+    },
+    "2631": {
+        "word": "saek",
+        "difficulty": 10
+    },
+    "2632": {
+        "word": "salk",
+        "difficulty": 10
+    },
+    "2633": {
+        "word": "sami",
+        "difficulty": 9
+    },
+    "2634": {
+        "word": "sauk",
+        "difficulty": 10
+    },
+    "2635": {
+        "word": "sawm",
+        "difficulty": 10
+    },
+    "2636": {
+        "word": "scet",
+        "difficulty": 10
+    },
+    "2637": {
+        "word": "scid",
+        "difficulty": 9
+    },
+    "2638": {
+        "word": "sclk",
+        "difficulty": 10
+    },
+    "2639": {
+        "word": "scnt",
+        "difficulty": 10
+    },
+    "2640": {
+        "word": "scpo",
+        "difficulty": 10
+    },
+    "2641": {
+        "word": "sfax",
+        "difficulty": 10
+    },
+    "2642": {
+        "word": "sgml",
+        "difficulty": 7
+    },
+    "2643": {
+        "word": "shua",
+        "difficulty": 10
+    },
+    "2644": {
+        "word": "sian",
+        "difficulty": 9
+    },
+    "2645": {
+        "word": "sirc",
+        "difficulty": 10
+    },
+    "2646": {
+        "word": "spam",
+        "difficulty": 2
+    },
+    "2647": {
+        "word": "suva",
+        "difficulty": 10
+    },
+    "2648": {
+        "word": "taif",
+        "difficulty": 10
+    },
+    "2649": {
+        "word": "tegu",
+        "difficulty": 10
+    },
+    "2650": {
+        "word": "tipu",
+        "difficulty": 10
+    },
+    "2651": {
+        "word": "topv",
+        "difficulty": 10
+    },
+    "2652": {
+        "word": "trna",
+        "difficulty": 10
+    },
+    "2653": {
+        "word": "tues",
+        "difficulty": 10
+    },
+    "2654": {
+        "word": "tums",
+        "difficulty": 10
+    },
+    "2655": {
+        "word": "urex",
+        "difficulty": 10
+    },
+    "2656": {
+        "word": "urey",
+        "difficulty": 10
+    },
+    "2657": {
+        "word": "urga",
+        "difficulty": 10
+    },
+    "2658": {
+        "word": "urth",
+        "difficulty": 10
+    },
+    "2659": {
+        "word": "usaf",
+        "difficulty": 10
+    },
+    "2660": {
+        "word": "uscb",
+        "difficulty": 10
+    },
+    "2661": {
+        "word": "usda",
+        "difficulty": 10
+    },
+    "2662": {
+        "word": "usmc",
+        "difficulty": 10
+    },
+    "2663": {
+        "word": "uxor",
+        "difficulty": 10
+    },
+    "2664": {
+        "word": "vaux",
+        "difficulty": 10
+    },
+    "2665": {
+        "word": "weil",
+        "difficulty": 9
+    },
+    "2666": {
+        "word": "wimp",
+        "difficulty": 9
+    },
+    "2667": {
+        "word": "wlan",
+        "difficulty": 8
+    },
+    "2668": {
+        "word": "wouk",
+        "difficulty": 10
+    },
+    "2669": {
+        "word": "wyat",
+        "difficulty": 10
+    },
+    "2670": {
+        "word": "wyrd",
+        "difficulty": 10
+    },
+    "2671": {
+        "word": "xciv",
+        "difficulty": 10
+    },
+    "2672": {
+        "word": "xcvi",
+        "difficulty": 10
+    },
+    "2673": {
+        "word": "xian",
+        "difficulty": 9
+    },
+    "2674": {
+        "word": "xliv",
+        "difficulty": 10
+    },
+    "2675": {
+        "word": "xlvi",
+        "difficulty": 10
+    },
+    "2676": {
+        "word": "yafo",
+        "difficulty": 10
+    },
+    "2677": {
+        "word": "yahi",
+        "difficulty": 10
+    },
+    "2678": {
+        "word": "yalu",
+        "difficulty": 10
+    },
+    "2679": {
+        "word": "ybit",
+        "difficulty": 10
+    },
+    "2680": {
+        "word": "yedo",
+        "difficulty": 10
+    },
+    "2681": {
+        "word": "ymir",
+        "difficulty": 10
+    },
+    "2682": {
+        "word": "zbit",
+        "difficulty": 10
+    },
+    "2683": {
+        "word": "zeno",
+        "difficulty": 10
+    },
+    "2684": {
+        "word": "zhou",
+        "difficulty": 10
+    },
+    "2685": {
+        "word": "zola",
+        "difficulty": 10
+    }
+}
