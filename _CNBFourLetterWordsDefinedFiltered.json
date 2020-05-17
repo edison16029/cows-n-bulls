@@ -1711,5 +1711,17 @@
 {"word": "usaf", "difficulty": 10, "frequency": 1.6},
 {"word": "wimp", "difficulty": 9, "frequency": 3.56},
 {"word": "tues", "difficulty": 10, "frequency": 1.82},
-{"word": "tums", "difficulty": 10, "frequency": 2.27}
+{"word": "tums", "difficulty": 10, "frequency": 2.27},
+{"word": "abed", "difficulty": 1, "frequency": 2.63},
+{"word": "exon", "difficulty": 6, "frequency": -1},
+{"word": "jean", "difficulty": 6, "frequency": 4.49},
+{"word": "soma", "difficulty": 4, "frequency": 2.93},
+{"word": "wive", "difficulty": 1, "frequency": 1.6},
+{"word": "baud", "difficulty": 7, "frequency": 2.03},
+{"word": "fuji", "difficulty": 7, "frequency": 3.33},
+{"word": "kern", "difficulty": 7, "frequency": 2.68},
+{"word": "marc", "difficulty": 7, "frequency": 3.96},
+{"word": "troy", "difficulty": 8, "frequency": 4.08},
+{"word": "trey", "difficulty": 9, "frequency": 3.73},
+{"word": "ludo", "difficulty": 10, "frequency": 3.3}
 ]
